@@ -1,994 +1,888 @@
 {
   "accept": {
-    "message": "Accept"
+    "message": "Aceptar"
   },
   "account": {
-    "message": "Account"
+    "message": "Cuenta"
   },
   "accountDetails": {
-    "message": "Account Details"
+    "message": "Detalles de la cuenta"
   },
   "accountName": {
-    "message": "Account Name"
-  },
-  "address": {
-    "message": "Address"
+    "message": "Nombre de la cuenta"
   },
   "addCustomToken": {
-    "message": "Add custom token"
+    "message": "Agregar token personalizados"
   },
   "addToken": {
-    "message": "Add Token"
+    "message": "Agregar token"
   },
   "addTokens": {
-    "message": "Add Tokens"
+    "message": "Agregar tokens"
   },
-  "addAcquiredTokens": {
-    "message": "Add the tokens you've acquired using LBRMask"
+  "address": {
+    "message": "Dirección"
   },
   "amount": {
-    "message": "Amount"
+    "message": "Cantidad"
   },
   "amountPlusGas": {
-    "message": "Amount + Gas"
+    "message": "Cantidad + Gas"
   },
   "appDescription": {
-    "message": "LBRMask Browser Extension",
-    "description": "The description of the application"
+    "message": "Extensión del navegador para LBR",
+    "description": "La descripción de la aplicación"
   },
   "appName": {
-    "message": "LBRMask",
-    "description": "The name of the application"
+    "message": "MetaMask",
+    "description": "El nombre de la aplicación"
   },
   "approved": {
-    "message": "Approved"
+    "message": "Aprobado"
   },
   "attemptingConnect": {
-    "message": "Attempting to connect to blockchain."
+    "message": "Intentando conectar a la Blockchain"
   },
   "attributions": {
-    "message": "Attributions"
+    "message": "Atribuciones"
   },
   "available": {
-    "message": "Available"
+    "message": "Disponible"
   },
   "back": {
-    "message": "Back"
+    "message": "Atrás"
   },
   "balance": {
-    "message": "Balance"
-  },
-  "balances": {
-    "message": "Token balance(s)"
+    "message": "Saldo"
   },
   "balanceIsInsufficientGas": {
-    "message": "Insufficient balance for current gas total"
+    "message": "Saldo de gas insuficiente"
+  },
+  "balances": {
+    "message": "Tus saldos"
   },
   "beta": {
     "message": "BETA"
   },
   "betweenMinAndMax": {
-    "message": "must be greater than or equal to $1 and less than or equal to $2.",
-    "description": "helper for inputting hex as decimal input"
+    "message": "Debe ser mayor o igual a $1 y menor o igual a $2",
+    "description": "helper para ingresar hex como un ingreso decimal"
   },
   "blockiesIdenticon": {
-    "message": "Use Blockies Identicon"
+    "message": "Usar Blockies Identicon (Iconos)"
   },
   "borrowDharma": {
-    "message": "Borrow With Dharma (Beta)"
+    "message": "Pedir prestado con Dharma (Beta)"
   },
   "builtInCalifornia": {
-    "message": "LBR multi-layer blockchain architecture for commercial applications."
+    "message": "Metamask fue diseñado y construido en California"
   },
   "buy": {
-    "message": "Buy"
+    "message": "Comprar"
   },
   "buyCoinbene": {
-    "message": "Buy on Coinbene"
+    "message": "Comprar en Coinbase"
   },
   "buyCoinbeneExplainer": {
-    "message": "Coinbene is a exchange to buy and sell LBR."
-  },
-  "ok": {
-    "message": "Ok"
+    "message": "Coinbase es la plataforma global más popular para comprar y vender Bitcoin, LBR y Litecoin"
   },
   "cancel": {
-    "message": "Cancel"
+    "message": "Cancelar"
   },
   "classicInterface": {
-    "message": "Use classic interface"
+    "message": "Usar interfaz clásica"
   },
   "clickCopy": {
-    "message": "Click to Copy"
-  },
-  "close": {
-    "message": "Close"
+    "message": "Click para copiar"
   },
   "confirm": {
-    "message": "Confirm"
-  },
-  "confirmed": {
-    "message": "Confirmed"
+    "message": "Confirmar"
   },
   "confirmContract": {
-    "message": "Confirm Contract"
+    "message": "Confirmar contrato"
+  },
+  "confirmed": {
+    "message": "Confirmado"
   },
   "confirmPassword": {
-    "message": "Confirm Password"
+    "message": "Confirmar contraseña"
   },
   "confirmTransaction": {
-    "message": "Confirm Transaction"
+    "message": "Confirmar transacción"
+  },
+  "connectingToMainnet": {
+    "message": "Conectando a la red principal de LBR (Main Net)"
+  },
+  "connectingToRopsten": {
+    "message": "Conectando a la red de test Ropsten"
+  },
+  "connectingToKovan": {
+    "message": "Conectando a la red de test Kovan"
+  },
+  "connectingToRinkeby": {
+    "message": "Conectando a la red de test Rinkeby"
+  },
+  "connectingToUnknown": {
+    "message": "Conectando a una red desconocida"
   },
   "continue": {
-    "message": "Continue"
+    "message": "Continuar"
   },
   "continueToCoinbase": {
-    "message": "Continue to Coinbene"
+    "message": "Continuar a Coinbase"
   },
   "contractDeployment": {
-    "message": "Contract Deployment"
+    "message": "Desplegar (Deploy) contrato"
   },
   "conversionProgress": {
-    "message": "Conversion in progress"
+    "message": "Conversión en progreso"
   },
   "copiedButton": {
-    "message": "Copied"
+    "message": "Copiado"
   },
   "copiedClipboard": {
-    "message": "Copied to Clipboard"
+    "message": "Copiado al portapapeles"
   },
   "copiedExclamation": {
-    "message": "Copied!"
+    "message": "¡Copiado!"
   },
   "copiedSafe": {
-    "message": "I've copied it somewhere safe"
+    "message": "Ya lo guardé en un lugar seguro"
   },
   "copy": {
-    "message": "Copy"
-  },
-  "copyToClipboard": {
-    "message": "Copy to clipboard"
+    "message": "Copiar"
   },
   "copyButton": {
-    "message": " Copy "
+    "message": " Copiar "
   },
   "copyPrivateKey": {
-    "message": "This is your private key (click to copy)"
+    "message": "Ésta es tu llave privada (haz click para copiar)"
+  },
+  "copyToClipboard": {
+    "message": "Copiar al portapapeles"
   },
   "create": {
-    "message": "Create"
+    "message": "Crear"
   },
   "createAccount": {
-    "message": "Create Account"
+    "message": "Crear cuenta"
   },
   "createDen": {
-    "message": "Create"
+    "message": "Crear"
   },
   "crypto": {
     "message": "Crypto",
-    "description": "Exchange type (cryptocurrencies)"
+    "description": "Tipo de cambio (criptomonedas)"
   },
   "currentConversion": {
-    "message": "Current Conversion"
+    "message": "Conversión actual"
   },
   "currentNetwork": {
-    "message": "Current Network"
+    "message": "Red actual"
+  },
+  "currentRpc": {
+    "message": "RPC actual"
   },
   "customGas": {
-    "message": "Customize Gas"
-  },
-  "customToken": {
-    "message": "Custom Token"
-  },
-  "customize": {
-    "message": "Customize"
+    "message": "Personalizar gas"
   },
   "customRPC": {
-    "message": "Custom RPC"
+    "message": "RPC personalizado"
   },
-  "decimalsMustZerotoTen": {
-    "message": "Decimals must be at least 0, and not over 36."
+  "customize": {
+    "message": "Personalizar"
   },
   "decimal": {
-    "message": "Decimals of Precision"
+    "message": "Decimales de precisión"
+  },
+  "decimalsMustZerotoTen": {
+    "message": "Los decimales deben ser al menos 0 y no más de 36"
   },
   "defaultNetwork": {
-    "message": "The default network for LBR transactions is LBRmain."
+    "message": "La red por defecto para las transacciones de Ether es MainNet (red principal)"
   },
   "denExplainer": {
-    "message": "Your DEN is your password-encrypted storage within LBR extension."
+    "message": "El DEN es tu contraseña encriptada almacenada dentro de MetaMask"
   },
   "deposit": {
-    "message": "Deposit"
+    "message": "Depositar"
   },
   "depositBTC": {
-    "message": "Deposit your BTC to the address below:"
+    "message": "Deposita tus BTC a la dirección de abajo:"
   },
   "depositCoin": {
-    "message": "Deposit your $1 to the address below",
-    "description": "Tells the user what coin they have selected to deposit with shapeshift"
+    "message": "Deposita tu $1 a la dirección de abajo",
+    "description": "Informa al usuario que moneda ha elegido para depositar en shapeshift"
   },
   "depositEth": {
-    "message": "Deposit MC"
+    "message": "Depositar Ether"
   },
   "depositMc": {
-    "message": "Deposit LBR"
+    "message": "Depositar Ether"
   },
   "depositFiat": {
-    "message": "Deposit with Fiat"
+    "message": "Depositar con fiat (divisa nacional)"
   },
   "depositFromAccount": {
-    "message": "Deposit from another account"
+    "message": "Depositar con otra cuenta"
   },
   "depositShapeShift": {
-    "message": "Deposit with ShapeShift"
+    "message": "Depositar con ShapeShift"
   },
   "depositShapeShiftExplainer": {
-    "message": "If you own other cryptocurrencies, you can trade and deposit LBR directly into your LBRMask wallet. No Account Needed."
+    "message": "Si posees otras criptomonedas, puedes intercambiar y depositar Ether directamente en tu billetera de MetaMask. No necesitas tener una cuenta."
   },
   "details": {
-    "message": "Details"
+    "message": "Detalles"
   },
   "directDeposit": {
-    "message": "Direct Deposit"
+    "message": "Depósito directo"
   },
   "directDepositMc": {
-    "message": "Directly Deposit LBR"
+    "message": "Depositar Ether directamente"
   },
   "directDepositEtherExplainer": {
-    "message": "If you already have some LBR, the quickest way to get LBR in your new wallet by direct deposit."
+    "message": "Si posees Ether, la forma más rápida de transferirlo a tu nueva billetera es depositándolo directamente"
   },
   "done": {
-    "message": "Done"
+    "message": "Completo"
   },
   "downloadStateLogs": {
-    "message": "Download State Logs"
+    "message": "Descargar logs de estado"
   },
   "dropped": {
-    "message": "Dropped"
+    "message": "Caído"
   },
   "edit": {
-    "message": "Edit"
+    "message": "Editar"
   },
   "editAccountName": {
-    "message": "Edit Account Name"
-  },
-  "editingTransaction": {
-    "message": "Make changes to your transaction"
+    "message": "Editar el nombre de la cuenta"
   },
   "emailUs": {
-    "message": "Email us!"
+    "message": "¡Envíanos un correo!"
   },
   "encryptNewDen": {
-    "message": "Encrypt your new DEN"
+    "message": "Encriptar tu nuevo DEN"
   },
   "enterPassword": {
-    "message": "Enter password"
+    "message": "Ingresa contraseña"
   },
   "enterPasswordConfirm": {
-    "message": "Enter your password to confirm"
-  },
-  "enterPasswordContinue": {
-    "message": "Enter password to continue"
-  },
-  "passwordNotLongEnough": {
-    "message": "Password not long enough"
-  },
-  "passwordsDontMatch": {
-    "message": "Passwords Don't Match"
+    "message": "Ingresa tu contraseña para confirmar"
   },
   "LBRExplorerView": {
-    "message": "View account on LBR explorer"
+    "message": "Ver la cuenta en Etherscan"
   },
   "exchangeRate": {
-    "message": "Exchange Rate"
+    "message": "Tipo de cambio"
   },
   "exportPrivateKey": {
-    "message": "Export Private Key"
+    "message": "Exportar llave privada"
   },
   "exportPrivateKeyWarning": {
-    "message": "Export private keys at your own risk."
+    "message": "Exportar llaves privadas bajo TU PROPIO riesgo"
   },
   "failed": {
-    "message": "Failed"
+    "message": "Fallo"
   },
   "fiat": {
     "message": "FIAT",
-    "description": "Exchange type"
+    "description": "Tipo de cambio"
   },
   "fileImportFail": {
-    "message": "File import not working? Click here!",
-    "description": "Helps user import their account from a JSON file"
+    "message": "¿La importación no funcionó? ¡Haz click aquí!",
+    "description": "Ayuda al usuario a importar su cuenta desde un archivo JSON"
   },
   "followTwitter": {
-    "message": "Follow us on Twitter"
+    "message": "Síguenos en Twitter"
   },
   "from": {
-    "message": "From"
-  },
-  "fromToSame": {
-    "message": "From and To address cannot be the same"
+    "message": "De:"
   },
   "fromShapeShift": {
-    "message": "From ShapeShift"
+    "message": "De ShapeShift"
+  },
+  "fromToSame": {
+    "message": "La dirección de origen y destino no pueden ser la misma"
   },
   "gas": {
     "message": "Gas",
-    "description": "Short indication of gas cost"
+    "description": "Indicación pequeña del costo de gas"
   },
   "gasFee": {
-    "message": "Gas Fee"
+    "message": "Comisión de gas"
   },
   "gasLimit": {
-    "message": "Gas Limit"
+    "message": "Límite de gas"
   },
   "gasLimitCalculation": {
-    "message": "We calculate the suggested gas limit based on network success rates."
+    "message": "Calculamos el límite de gas sugerido en función de las tasas de éxito de la red"
   },
   "gasLimitRequired": {
-    "message": "Gas Limit Required"
+    "message": "Límite de gas requerido"
   },
   "gasLimitTooLow": {
-    "message": "Gas limit must be at least 1000"
-  },
-  "generatingSeed": {
-    "message": "Generating Seed..."
+    "message": "El límite de gas debe ser de al menos 21000"
   },
   "gasPrice": {
-    "message": "Gas Price (GSHA)"
+    "message": "Precio del Gas (GWEI)"
   },
   "gasPriceCalculation": {
-    "message": "We calculate the suggested gas prices based on network success rates."
+    "message": "Calculamos los precios sugeridos del gas en función de las tasas de éxito de la red"
   },
   "gasPriceRequired": {
-    "message": "Gas Price Required"
+    "message": "Precio del gas requerido"
   },
-  "generatingTransaction": {
-    "message": "Generating transaction"
+  "generatingSeed": {
+    "message": "Generando semilla..."
   },
   "getMc": {
-    "message": "Get LBR"
+    "message": "Conseguir Ether"
   },
   "getEtherFromFaucet": {
-    "message": "Get LBR from a faucet for the $1",
-    "description": "Displays network name for LBR faucet"
+    "message": "Obtenga Ether de un faucet (grifo) por $1",
+    "description": "Muestra el nombre de la red para el faucet (grifo) de Ether"
   },
   "greaterThanMin": {
-    "message": "must be greater than or equal to $1.",
-    "description": "helper for inputting hex as decimal input"
+    "message": "Debe ser mayor o igual a $1",
+    "description": "helper para ingresar hex como entrada decimal"
   },
   "here": {
-    "message": "here",
-    "description": "as in -click here- for more information (goes with troubleTokenBalances)"
+    "message": "Aquí",
+    "description": "como en -haz click aquí- para más información"
   },
   "hereList": {
-    "message": "Here's a list!!!!"
+    "message": "¡¡¡Aquí está una lista!!!"
   },
   "hide": {
-    "message": "Hide"
+    "message": "Ocultar"
   },
   "hideToken": {
-    "message": "Hide Token"
+    "message": "Ocultar token"
   },
   "hideTokenPrompt": {
-    "message": "Hide Token?"
-  },
-  "howToDeposit": {
-    "message": "How would you like to deposit LBR?"
+    "message": "¿Ocultar token?"
   },
   "holdEther": {
-    "message": "It allows you to hold LBR & tokens, and serves as your bridge to decentralized applications."
+    "message": "Te permite mantener tus ether y tokens, así como puente para aplicaciones descentralizadas"
+  },
+  "howToDeposit": {
+    "message": "¿Cómo te gustaria depositar Ether?"
   },
   "import": {
-    "message": "Import",
-    "description": "Button to import an account from a selected file"
+    "message": "Importar",
+    "description": "Botón para importar una cuenta desde un archivo seleccionado"
   },
   "importAccount": {
-    "message": "Import Account"
-  },
-  "importAccountMsg": {
-    "message":" Imported accounts will not be associated with your originally created LBRMask account seedphrase. Learn more about imported accounts "
+    "message": "Importar cuenta"
   },
   "importAnAccount": {
-    "message": "Import an account"
+    "message": "Importar una cuenta"
   },
   "importDen": {
-    "message": "Import Existing DEN"
+    "message": "Importar DEN existente"
   },
   "imported": {
-    "message": "Imported",
-    "description": "status showing that an account has been fully loaded into the keyring"
+    "message": "Importado",
+    "description": "Estado que muestra que una cuenta ha sido completamente cargada en el llavero"
   },
-  "importUsingSeed": {
-    "message": "Import using account seed phrase"
+  "importAccountMsg": {
+    "message": "Las cuentas importadas no serán asociadas con tu cuenta original creada con tu MetaMask. Aprende más acerca de importar cuentas."
+  },
+  "info": {
+    "message": "Información"
   },
   "infoHelp": {
-    "message": "Info & Help"
-  },
-  "initialTransactionConfirmed": {
-    "message": "Your initial transaction was confirmed by the network. Click OK to go back."
+    "message": "Informacion y ayuda"
   },
   "insufficientFunds": {
-    "message": "Insufficient funds."
+    "message": "Fondos insuficientes"
   },
   "insufficientTokens": {
-    "message": "Insufficient tokens."
+    "message": "Tokens insuficientes"
   },
   "invalidAddress": {
-    "message": "Invalid address"
+    "message": "Dirección inválida"
   },
   "invalidAddressRecipient": {
-    "message": "Recipient address is invalid"
+    "message": "Dirección del destinatario invalida"
   },
   "invalidGasParams": {
-    "message": "Invalid Gas Parameters"
+    "message": "Parametros de gas inválidos"
   },
   "invalidInput": {
-    "message": "Invalid input."
-  },
-  "invalidRequest": {
-    "message": "Invalid Request"
+    "message": "Entrada inválida"
   },
   "invalidRPC": {
-    "message": "Invalid RPC URI"
+    "message": "Invalida URL del RPC"
+  },
+  "invalidRequest": {
+    "message": "Petición inválida"
   },
   "jsonFail": {
-    "message": "Something went wrong. Please make sure your JSON file is properly formatted."
+    "message": "Algo falló. Asegúrate que tu JSON tiene el formato correcto"
   },
   "jsonFile": {
-    "message": "JSON File",
-    "description": "format for importing an account"
-  },
-  "keepTrackTokens": {
-    "message": "Keep track of the tokens you’ve bought with your account."
-  },
-  "kovan": {
-    "message": "Kovan Test Network"
+    "message": "Archivo JSON",
+    "description": "Formato para importar una cuenta"
   },
   "knowledgeDataBase": {
-    "message": "Visit our Knowledge Base"
+    "message": "Visita nuestra base de conocimiento"
   },
-  "max": {
-    "message": "Max"
-  },
-  "learnMore": {
-    "message": "Learn more."
+  "kovan": {
+    "message": "Red de pruebas Kovan"
   },
   "lessThanMax": {
-    "message": "must be less than or equal to $1.",
-    "description": "helper for inputting hex as decimal input"
+    "message": "Debe ser menor o igual a $1",
+    "description": "Helper para ingresar hex como decimal"
   },
   "likeToAddTokens": {
-    "message": "Would you like to add these tokens?"
-  },
-  "links": {
-    "message": "Links"
+    "message": "¿Te gustaría agregar estos tokens?"
   },
   "limit": {
-    "message": "Limit"
+    "message": "Límite"
+  },
+  "links": {
+    "message": "Enlaces"
   },
   "loading": {
-    "message": "Loading..."
+    "message": "Cargando..."
   },
   "loadingTokens": {
-    "message": "Loading Tokens..."
+    "message": "Cargando tokens..."
   },
   "localhost": {
     "message": "Localhost 8545"
   },
   "login": {
-    "message": "Log In"
+    "message": "Ingresar"
   },
   "logout": {
-    "message": "Log out"
+    "message": "Cerrar sesión"
   },
   "loose": {
-    "message": "Loose"
+    "message": "Suelto"
   },
   "loweCaseWords": {
-    "message": "seed words only have lowercase characters"
+    "message": "las frases semilla sólo pueden tener minúsculas"
   },
   "mainnet": {
-    "message": "Main LBR Network"
+    "message": "Red principal de LBR (Main Net)"
+  },
+  "max": {
+    "message": "Max"
   },
   "message": {
-    "message": "Message"
+    "message": "Mensaje"
   },
   "metamaskDescription": {
-    "message": "LBRMask is a secure identity vault for LBR."
-  },
-  "LBRmaskSeedWords": {
-    "message": "LBRMask Seed Words"
+    "message": "MetaMask es una identidad segura en LBR"
   },
   "min": {
-    "message": "Minimum"
-  },
-  "myAccounts": {
-    "message": "My Accounts"
+    "message": "Mínimo"
   },
   "mustSelectOne": {
-    "message": "Must select at least 1 token."
+    "message": "Debe seleccionar al menos un (1) token"
+  },
+  "myAccounts": {
+    "message": "Mis cuentas"
   },
   "needMcInWallet": {
-    "message": "To interact with decentralized applications using LBRMask, you’ll need LBR in your wallet."
+    "message": "Para interactuar con una aplicación descentralizada usando MetaMask, necesitas tener Ether en tu billetera"
   },
   "needImportFile": {
-    "message": "You must select a file to import.",
-    "description": "User is important an account and needs to add a file to continue"
+    "message": "Debes seleccionar un archivo para importar",
+    "description": "El usuario está importando una cuenta y necesita agregar un archivo para continuar"
   },
   "needImportPassword": {
-    "message": "You must enter a password for the selected file.",
-    "description": "Password and file needed to import an account"
+    "message": "Debes ingresar una contraseña para el archivo seleccionado",
+    "description": "Contraseña y archivo necesarios para importar una cuenta"
   },
   "negativeETH": {
-    "message": "Can not send negative amounts of LBR."
+    "message": "No se pueden mandar cantidades negativas de ETH"
   },
   "networks": {
-    "message": "Networks"
-  },
-  "nevermind": {
-    "message": "Nevermind"
+    "message": "Redes"
   },
   "newAccount": {
-    "message": "New Account"
+    "message": "Nueva cuenta"
   },
   "newAccountNumberName": {
-    "message": "Account $1",
-    "description": "Default name of next account to be created on create account screen"
+    "message": "Cuenta $1",
+    "description": "Nombre por defecto de la próxima cuenta a ser creada o pantalla de creación de cuenta"
   },
   "newContract": {
-    "message": "New Contract"
+    "message": "Nuevo contrato"
   },
   "newPassword": {
-    "message": "New Password (min 8 chars)"
-  },
-  "newRecipient": {
-    "message": "New Recipient"
-  },
-  "newRPC": {
-    "message": "New RPC URL"
-  },
-  "next": {
-    "message": "Next"
-  },
-  "noAddressForName": {
-    "message": "No address has been set for this name."
-  },
-  "noDeposits": {
-    "message": "No deposits received"
-  },
-  "noTransactionHistory": {
-    "message": "No transaction history."
-  },
-  "noTransactions": {
-    "message": "No Transactions"
-  },
-  "notStarted": {
-    "message": "Not Started"
-  },
-  "oldUI": {
-    "message": "Old UI"
-  },
-  "oldUIMessage": {
-    "message": "You have returned to the old UI. You can switch back to the New UI through the option in the top right dropdown menu."
-  },
-  "or": {
-    "message": "or",
-    "description": "choice between creating or importing a new account"
-  },
-  "password": {
-    "message": "Password"
-  },
-  "passwordCorrect": {
-    "message": "Please make sure your password is correct."
-  },
-  "passwordMismatch": {
-    "message": "passwords don't match",
-    "description": "in password creation process, the two new password fields did not match"
-  },
-  "passwordShort": {
-    "message": "password not long enough",
-    "description": "in password creation process, the password is not long enough to be secure"
-  },
-  "pastePrivateKey": {
-    "message": "Paste your private key string here:",
-    "description": "For importing an account from a private key"
-  },
-  "pasteSeed": {
-    "message": "Paste your seed phrase here!"
-  },
-  "personalAddressDetected": {
-    "message": "Personal address detected. Input the token contract address."
-  },
-  "pleaseReviewTransaction": {
-    "message": "Please review your transaction."
-  },
-  "popularTokens": {
-    "message": "Popular Tokens"
-  },
-  "privacyMsg": {
-    "message": "Privacy Policy"
-  },
-  "privateKey": {
-    "message": "Private Key",
-    "description": "select this type of file to use to import an account"
-  },
-  "privateKeyWarning": {
-    "message": "Warning: Never disclose this key. Anyone with your private keys can take steal any assets held in your account."
-  },
-  "privateNetwork": {
-    "message": "Private Network"
-  },
-  "qrCode": {
-    "message": "Show QR Code"
-  },
-  "readdToken": {
-    "message": "You can add this token back in the future by going go to “Add token” in your accounts options menu."
-  },
-  "readMore": {
-    "message": "Read more here."
-  },
-  "readMore2": {
-    "message": "Read more."
-  },
-  "receive": {
-    "message": "Receive"
-  },
-  "recipientAddress": {
-    "message": "Recipient Address"
-  },
-  "refundAddress": {
-    "message": "Your Refund Address"
-  },
-  "rejected": {
-    "message": "Rejected"
-  },
-  "reset": {
-    "message": "Reset"
-  },
-  "resetAccount": {
-    "message": "Reset Account"
-  },
-  "resetAccountDescription": {
-    "message": "Resetting your account will clear your transaction history."
-  },
-  "restoreFromSeed": {
-    "message": "Restore account?"
-  },
-  "restoreVault": {
-    "message": "Restore Vault"
-  },
-  "required": {
-    "message": "Required"
-  },
-  "retryWithMoreGas": {
-    "message": "Retry with a higher gas price here"
-  },
-  "walletSeed": {
-    "message": "Wallet Seed"
-  },
-  "revealSeedWords": {
-    "message": "Reveal Seed Words"
-  },
-  "revealSeedWordsTitle": {
-    "message": "Seed Phrase"
-  },
-  "revealSeedWordsDescription": {
-    "message": "If you ever change browsers or move computers, you will need this seed phrase to access your accounts. Save them somewhere safe and secret."
-  },
-  "revealSeedWordsWarningTitle": {
-    "message": "DO NOT share this phrase with anyone!"
-  },
-  "revealSeedWordsWarning": {
-    "message": "These words can be used to steal all your accounts."
-  },
-  "revert": {
-    "message": "Revert"
-  },
-  "rinkeby": {
-    "message": "Rinkeby Test Network"
-  },
-  "LBRmain": {
-    "message": "LBR main Network"
-  },
-  "LBRtest": {
-    "message": "LBR test Network"
-  },
-  "ropsten": {
-    "message": "Ropsten Test Network"
-  },
-  "rpc": {
-    "message": "Custom RPC"
-  },
-  "currentRpc": {
-    "message": "Current RPC with LBR signing"
-  },
-  "connectingToMainnet": {
-    "message": "Connecting to Main LBR Network"
-  },
-  "connectingToRopsten": {
-    "message": "Connecting to Ropsten Test Network"
-  },
-  "connectingToKovan": {
-    "message": "Connecting to Kovan Test Network"
-  },
-  "connectingToRinkeby": {
-    "message": "Connecting to Rinkeby Test Network"
-  },
-  "connectingToLBRmain": {
-    "message": "Connecting to LBR Main Network"
-  },
-    "connectingToLBRtest": {
-    "message": "Connecting to LBR Test Network"
-  },
-  "connectingToUnknown": {
-    "message": "Connecting to Unknown Network"
-  },
-  "sampleAccountName": {
-    "message": "E.g. My new account",
-    "description": "Help user understand concept of adding a human-readable name to their account"
-  },
-  "save": {
-    "message": "Save"
-  },
-  "speedUpTitle": {
-    "message": "Speed Up Transaction"
-  },
-  "speedUpSubtitle": {
-    "message": "Increase your gas price to attempt to overwrite and speed up your transaction"
-  },
-  "saveAsCsvFile": {
-    "message": "Save as CSV File"
-  },
-  "saveAsFile": {
-    "message": "Save as File",
-    "description": "Account export process"
-  },
-  "saveSeedAsFile": {
-    "message": "Save Seed Words As File"
-  },
-  "search": {
-    "message": "Search"
-  },
-  "searchResults": {
-    "message": "Search Results"
-  },
-  "secretPhrase": {
-    "message": "Enter your secret twelve word phrase here to restore your vault."
+    "message": "Nueva contraseña (mínimo [8] caracteres)"
   },
   "newPassword8Chars": {
-    "message": "New Password (min 8 chars)"
+    "message": "Nueva contraseña (mínimo [8] caracteres)"
   },
-  "seedPhraseReq": {
-    "message": "Seed phrases are 12 words long"
+  "newRPC": {
+    "message": "Nueva URL del RPC"
   },
-  "select": {
-    "message": "Select"
+  "newRecipient": {
+    "message": "Nuevo destinatario"
   },
-  "selectCurrency": {
-    "message": "Select Currency"
+  "next": {
+    "message": "Siguiente"
   },
-  "selectService": {
-    "message": "Select Service"
+  "noAddressForName": {
+    "message": "No se ha establecido ninguna dirección para este nombre"
   },
-  "selectType": {
-    "message": "Select Type"
+  "noDeposits": {
+    "message": "No hay depósitos recibidos"
   },
-  "send": {
-    "message": "Send"
+  "noTransactionHistory": {
+    "message": "Sin historial de transacciones"
   },
-  "sendMC": {
-    "message": "Send MC"
+  "noTransactions": {
+    "message": "Sin transacciones"
   },
-  "sendTokens": {
-    "message": "Send Tokens"
+  "notStarted": {
+    "message": "Sin iniciar"
+  },
+  "ok": {
+    "message": "Ok"
+  },
+  "oldUI": {
+    "message": "Antigua UI (Interfaz de Usuario)"
+  },
+  "oldUIMessage": {
+    "message": "Regresaste a la antigua UI (Interfaz de Usuario). Puedes regresar a la nueva UI mediante la opcion en la barra desplegable del menu de arriba a la derecha."
   },
   "onlySendToLBRAddress": {
-    "message": "Only send MC to a LBR address."
+    "message": "Sólo envía a una dirección de LBR"
   },
-  "onlySendTokensToAccountAddress": {
-    "message": "Only send $1 to an LBR account address.",
-    "description": "displays token symbol"
+  "or": {
+    "message": "o",
+    "description": "opción entre crear o importar una cuenta"
   },
-  "searchTokens": {
-    "message": "Search Tokens"
+  "passwordCorrect": {
+    "message": "Asegurate que tu contraseña es correcta"
+  },
+  "passwordMismatch": {
+    "message": "La contraseña no coincide",
+    "description": "En el proceso de creación de contraseña, los dos campos de contraseña no coincidieron"
+  },
+  "passwordNotLongEnough": {
+    "message": "La contraseña no es lo suficientemente larga"
+  },
+  "passwordsDontMatch": {
+    "message": "Las contraseñas no coinciden"
+  },
+  "passwordShort": {
+    "message": "La contraseña no es lo suficientemente larga",
+    "description": "En el proceso de creación de contraseña, esta no es lo suficientemente larga para ser segura"
+  },
+  "pastePrivateKey": {
+    "message": "Pega tu llave privada aqui",
+    "description": "Para importar una cuenta desde una llave privada"
+  },
+  "pasteSeed": {
+    "message": "¡Pega tu frase semilla aquí!"
+  },
+  "personalAddressDetected": {
+    "message": "Dirección personal detectada. Ingresa la dirección del contrato del token"
+  },
+  "pleaseReviewTransaction": {
+    "message": "Por favor, revisa tu transaccion"
+  },
+  "privacyMsg": {
+    "message": "Política de privacidad"
+  },
+  "privateKey": {
+    "message": "Llave privada",
+    "description": "Selecciona este tupo de archivo para importar una cuenta"
+  },
+  "privateKeyWarning": {
+    "message": "Advertencia: NUNCA reveles esta clave. Cualquier persona con tus claves privadas puede robar los activos retenidos en tu cuenta"
+  },
+  "privateNetwork": {
+    "message": "Red privada"
+  },
+  "qrCode": {
+    "message": "Mostrar codigo QR"
+  },
+  "readMore": {
+    "message": "Leer más aquí"
+  },
+  "readMore2": {
+    "message": "Leer más"
+  },
+  "readdToken": {
+    "message": "Puedes volver a agregar este token en el futuro pinchando sobre 'Agregar token' en el menú de opciones de tu cuenta"
+  },
+  "receive": {
+    "message": "Recibir"
+  },
+  "recipientAddress": {
+    "message": "Dirección del receptor"
+  },
+  "refundAddress": {
+    "message": "Tu dirección de reembolso"
+  },
+  "rejected": {
+    "message": "Rechazado"
+  },
+  "required": {
+    "message": "Requerido"
+  },
+  "resetAccount": {
+    "message": "Reiniciar cuenta"
+  },
+  "restoreFromSeed": {
+    "message": "Restaurar desde semilla"
+  },
+  "restoreVault": {
+    "message": "Restaurar Bóveda"
+  },
+  "retryWithMoreGas": {
+    "message": "Vuelva a intentar con un precio de gas más alto aquí"
+  },
+  "revealSeedWords": {
+    "message": "Revelar palabras de semilla"
+  },
+  "revealSeedWordsWarning": {
+    "message": "¡No recuperes tu semilla en un lugar pública! Esas palabras pueden ser usadas para robarte todas tus cuentas"
+  },
+  "revert": {
+    "message": "Revertir"
+  },
+  "rinkeby": {
+    "message": "Red privada Rinkeby"
+  },
+  "ropsten": {
+    "message": "Red privada Ropsten"
+  },
+  "sampleAccountName": {
+    "message": "P.ej. Mi nueva cuenta",
+    "description": "Ayuda al usuario a entender el concepto de agregar un nombre, leíble por humanos, a su cuenta"
+  },
+  "save": {
+    "message": "Guardar"
+  },
+  "saveAsFile": {
+    "message": "Guardar como archivo",
+    "description": "Proceso de exportación de cuenta"
+  },
+  "saveSeedAsFile": {
+    "message": "Guardar la semilla como archivo"
+  },
+  "search": {
+    "message": "Buscar"
+  },
+  "secretPhrase": {
+    "message": "Ingresa tu frase de doce (12) palabras para restaurar tu bóveda"
+  },
+  "seedPhraseReq": {
+    "message": "las frases semilla tienen doce (12) palabras de largo"
+  },
+  "select": {
+    "message": "Seleccionar"
+  },
+  "selectCurrency": {
+    "message": "Seleccionar moneda"
+  },
+  "selectService": {
+    "message": "Seleccionar servicio"
+  },
+  "selectType": {
+    "message": "Seleccionar tipo"
+  },
+  "send": {
+    "message": "Enviar"
+  },
+  "sendMC": {
+    "message": "Enviar Ether"
+  },
+  "sendTokens": {
+    "message": "Enviar tokens"
   },
   "sendTokensAnywhere": {
-    "message": "Send Tokens to anyone with an LBR account"
+    "message": "Enviar tokens a cualquiera con una cuenta de LBR"
   },
   "settings": {
-    "message": "Settings"
-  },
-  "info": {
-  "message": "Info"
+    "message": "Configuración"
   },
   "shapeshiftBuy": {
-    "message": "Buy with Shapeshift"
+    "message": "Comprar con ShapeShift"
   },
   "showPrivateKeys": {
-    "message": "Show Private Keys"
+    "message": "Mostrar llaves privadas"
   },
   "showQRCode": {
-    "message": "Show QR Code"
-  },
-  "sign": {
-    "message": "Sign"
-  },
-  "signed": {
-    "message": "Signed"
-  },
-  "signMessage": {
-    "message": "Sign Message"
-  },
-  "signNotice": {
-    "message": "Signing this message can have \ndangerous side effects. Only sign messages from \nsites you fully trust with your entire account.\n This dangerous method will be removed in a future version. "
+    "message": "Mostrar codigo QR"
   },
   "sigRequest": {
-    "message": "Signature Request"
+    "message": "Solicitud de firma"
   },
   "sigRequested": {
-    "message": "Signature Requested"
+    "message": "Firma solicitada"
+  },
+  "sign": {
+    "message": "Firmar"
+  },
+  "signed": {
+    "message": "Firmado"
+  },
+  "signMessage": {
+    "message": "Firmar mensaje"
+  },
+  "signNotice": {
+    "message": "Firmar este mensaje puede tener\n efectos secundarios peligrosos. Firma sólo\nmensajes desde sitios a los que estés plenamente dispuesto a confiar tu cuenta.\nEste método peligroso va a ser \neliminado en una version futura."
   },
   "spaceBetween": {
-    "message": "there can only be a space between words"
-  },
-  "status": {
-    "message": "Status"
+    "message": "Sólo puede haber un espacio entre las palabras"
   },
   "stateLogs": {
-    "message": "State Logs"
+    "message": "Logs de estado"
   },
   "stateLogsDescription": {
-    "message": "State logs contain your public account addresses and sent transactions."
+    "message": "Los logs de estado contienen tus direcciones de cuentas públicas y transacciones envíadas"
   },
   "stateLogError": {
-    "message": "Error in retrieving state logs."
+    "message": "Error en la recogida de logs de estado"
+  },
+  "status": {
+    "message": "Estado"
   },
   "submit": {
-    "message": "Submit"
+    "message": "Enviar"
   },
   "submitted": {
-    "message": "Submitted"
+    "message": "Enviado"
   },
   "supportCenter": {
-    "message": "Visit our Support Center"
+    "message": "Visita nuestro centro de atención"
   },
   "symbolBetweenZeroTen": {
-    "message": "Symbol must be between 0 and 10 characters."
+    "message": "Símbolo debe ser entre 0 y 10 caracteres"
   },
   "takesTooLong": {
-    "message": "Taking too long?"
+    "message": "¿Está tardando demasiado?"
   },
   "terms": {
-    "message": "Terms of Use"
+    "message": "Términos de uso"
   },
   "testFaucet": {
-    "message": "Test Faucet"
+    "message": "Probar Faucet"
   },
   "to": {
-    "message": "To: "
+    "message": "Para:"
   },
   "toETHviaShapeShift": {
-    "message": "$1 to LBR via ShapeShift",
-    "description": "system will fill in deposit type in start of message"
-  },
-  "token": {
-    "message": "Token"
+    "message": "$1 a ETH via ShapeShift",
+    "description": "el sistema llenará el tipo de depósito al principio del mensaje"
   },
   "tokenAddress": {
-    "message": "Token Address"
+    "message": "Dirección del token"
   },
   "tokenAlreadyAdded": {
-    "message": "Token has already been added."
+    "message": "El token está actualmente agregado"
   },
   "tokenBalance": {
-    "message": "Your Token Balance is:"
+    "message": "Tu balance de tokens es:"
   },
   "tokenSelection": {
-    "message": "Search for tokens or select from our list of popular tokens."
+    "message": "Busca tokens o selecciónalo de nuestra lista de tokens populares"
   },
   "tokenSymbol": {
-    "message": "Token Symbol"
+    "message": "Símbolo del token"
   },
   "tokenWarning1": {
-    "message": "Keep track of the tokens you’ve bought with your LBRMask account. If you bought tokens using a different account, those tokens will not appear here."
+    "message": "Mantén un registro de los tokens que has comprado con tu cuenta de MetaMask. Si compraste tokens usando una cuenta diferente, esos tokens no aparecerán aquí."
   },
   "total": {
     "message": "Total"
   },
-  "transactions": {
-    "message": "transactions"
-  },
-  "transactionError": {
-    "message": "Transaction Error. Exception thrown in contract code."
-  },
   "transactionMemo": {
-    "message": "Transaction memo (optional)"
+    "message": "Memo de transacción (opcional)"
   },
   "transactionNumber": {
-    "message": "Transaction Number"
+    "message": "Número de transacción"
+  },
+  "transactions": {
+    "message": "Transacciones"
   },
   "transfers": {
-    "message": "Transfers"
+    "message": "Transferencias"
   },
   "troubleTokenBalances": {
-    "message": "We had trouble loading your token balances. You can view them ",
-    "description": "Followed by a link (here) to view token balances"
+    "message": "Tuvimos problemas para cargar tus saldos de tokens. Puedes verlos ",
+    "description": "Seguidos por un enlace (aquí) para ver los saldos de token"
   },
   "twelveWords": {
-    "message": "These 12 words are the only way to restore your LBRMask accounts.\nSave them somewhere safe and secret."
+    "message": "Estas 12 palabras son la única forma de restablecer tus cuentas de MetaMask. \nGuárdalas en un lugar seguro y secreto."
   },
   "typePassword": {
-    "message": "Type Your Password"
+    "message": "Escribe tu contraseña"
   },
   "uiWelcome": {
-    "message": "Welcome to the LBRMask UI (Beta)"
+    "message": "Bienvenido a la nueva UI (Beta)"
   },
   "uiWelcomeMessage": {
-    "message": "You are now using the LBRMask UI Beta."
-  },
-  "unapproved": {
-    "message": "Unapproved"
+    "message": "Estás usando la nueva UI de MetaMask. Echa un vistazo alrededor, prueba las nuevas características, tales como mandar tokens, y háznos saber si tienes algún problema"
   },
   "unavailable": {
-    "message": "Unavailable"
+    "message": "No disponible"
+  },
+  "unapproved": {
+    "message": "No aprobado"
   },
   "unknown": {
-    "message": "Unknown"
+    "message": "Desconocido (a)"
   },
   "unknownNetwork": {
-    "message": "Unknown Private Network"
+    "message": "Red privada desconocida"
   },
   "unknownNetworkId": {
-    "message": "Unknown network ID"
-  },
-  "unlockMessage": {
-    "message": "The decentralized web awaits"
+    "message": "ID (identidad) de red desconocida"
   },
   "uriErrorMsg": {
-    "message": "URIs require the appropriate HTTP/HTTPS prefix."
+    "message": "URI necesita el prefijo HTTP/HTTPS apropiado"
   },
   "usaOnly": {
-    "message": "USA only",
-    "description": "Using this exchange is limited to people inside the USA"
-  },
-  "usedByClients": {
-    "message": "Used by a variety of different clients"
+    "message": "Sólo USA (Estados Unidos)",
+    "description": "El uso de este exchange (casa de cambio) está limitado a las personas dentro de los Estados Unidos de América"
   },
   "useOldUI": {
-    "message": "Use old UI"
+    "message": "Usar UI antigua"
+  },
+  "usedByClients": {
+    "message": "Utilizado por una variedad de clientes diferentes"
   },
   "validFileImport": {
-    "message": "You must select a valid file to import."
+    "message": "Debes selecionar un archivo valido para importar"
   },
   "vaultCreated": {
-    "message": "Vault Created"
+    "message": "Bóveda creada"
   },
   "viewAccount": {
-    "message": "View Account"
+    "message": "Mirar cuenta"
   },
   "visitWebSite": {
-    "message": "Visit our web site"
+    "message": "Visita nuestro sitio web"
+  },
+  "walletSeed": {
+    "message": "Semilla de la billetera"
   },
   "warning": {
-    "message": "Warning"
-  },
-  "welcomeBack": {
-    "message": "Welcome Back!"
+    "message": "Advertencia"
   },
   "welcomeBeta": {
-    "message": "Welcome to LBRMask Beta"
+    "message": "Bienvenido a Metamask Beta"
   },
   "whatsThis": {
-    "message": "What's this?"
-  },
-  "yourSigRequested": {
-    "message": "Your signature is being requested"
+    "message": "¿Qué es esto?"
   },
   "youSign": {
-    "message": "You are signing"
+    "message": "Usted está firmando"
   },
-  "yourPrivateSeedPhrase": {
-    "message": "Your private seed phrase"
+  "yourSigRequested": {
+    "message": "Tu firma ya fue solicitada"
   }
 }
