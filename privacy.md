@@ -1,4 +1,4 @@
-# LBRMask
+﻿# LBRMask
 
 # PRIVACY POLICY
 
@@ -257,7 +257,7 @@ Click [here](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-web
 
 Click [here](https://support.google.com/chrome/answer/95647?hl=en) to learn more about “Incognito” and managing cookie settings in Chrome;
 
-Click [here](https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies) to learn more about “InPrivate” and managing cookie settings in Internet Explorer; or
+Click [here](https://support.Liberumsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies) to learn more about “InPrivate” and managing cookie settings in Internet Explorer; or
 
 Click [here](https://support.apple.com/en-us/HT201265) to learn more about “Private Browsing” and managing cookie settings in Safari.
 
