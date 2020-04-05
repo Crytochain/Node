@@ -1,609 +1,912 @@
-{
+﻿{
   "accept": {
-    "message": "Accepter"
+    "message": "Přijmout"
   },
   "account": {
-    "message": "Compte"
+    "message": "Účet"
   },
   "accountDetails": {
-    "message": "Détails du compte"
+    "message": "Detaily účtu"
   },
   "accountName": {
-    "message": "Nom du compte"
+    "message": "Název účtu"
   },
   "address": {
-    "message": "Adresse"
+    "message": "Adresa"
+  },
+  "addCustomToken": {
+    "message": "Přidat vlastní token"
   },
   "addToken": {
-    "message": "Ajouter un jeton"
+    "message": "Přidat token"
+  },
+  "addTokens": {
+    "message": "Přidat tokeny"
   },
   "amount": {
-    "message": "Montant"
+    "message": "Částka"
   },
   "amountPlusGas": {
-    "message": "Montant + Gaz"
+    "message": "Částka + palivo"
   },
   "appDescription": {
-    "message": "Extension LBR pour navigateur",
-    "description": "La description de l'application"
+    "message": "LBR rozšíření prohlížeče",
+    "description": "The description of the application"
   },
   "appName": {
-    "message": "LBRMask",
-    "description": "Le nom de l'application"
+    "message": "MetaMask",
+    "description": "The name of the application"
+  },
+  "approved": {
+    "message": "Schváleno"
   },
   "attemptingConnect": {
-    "message": "Tentative de connexion à blockchain."
+    "message": "Pokouším se připojit k blockchainu."
+  },
+  "attributions": {
+    "message": "Zásluhy"
   },
   "available": {
-    "message": "Disponible"
+    "message": "Dostupné"
   },
   "back": {
-    "message": "Retour"
+    "message": "Zpět"
   },
   "balance": {
-    "message": "Balance:"
+    "message": "Zůstatek:"
+  },
+  "balances": {
+    "message": "Zůstatek tokenu"
   },
   "balanceIsInsufficientGas": {
-    "message": "Solde insuffisant pour le total actuel de gaz"
+    "message": "Nedostatek prostředků pro aktuální množství paliva"
   },
   "beta": {
     "message": "BETA"
   },
   "betweenMinAndMax": {
-    "message": "doit être supérieur ou égal à $1 et inférieur ou égal à $2",
-    "description": "helper pour la saisie hexadécimale en entrée décimale"
+    "message": "musí být větší nebo roven $1 a menší nebo roven $2.",
+    "description": "helper for inputting hex as decimal input"
+  },
+  "blockiesIdenticon": {
+    "message": "Použít Blockies Identicon"
   },
   "borrowDharma": {
-    "message": "Emprunter avec Dharma (Bêta)"
+    "message": "Pújčit si přes Dharma (Beta)"
+  },
+  "builtInCalifornia": {
+    "message": "MetaMask je navržen a vytvořen v Kalifornii."
   },
   "buy": {
-    "message": "Acheter"
+    "message": "Koupit"
   },
   "buyCoinbene": {
-    "message": "Acheter sur Coinbase"
+    "message": "Nákup na Coinbase"
   },
   "buyCoinbeneExplainer": {
-    "message": "Coinbase est le moyen le plus populaire au monde d'acheter et de vendre du bitcoin, de l'LBR et du litecoin."
+    "message": "Coinbase je světově nejoblíbenější místo k nákupu a prodeji bitcoinu, etherea nebo litecoinu."
+  },
+  "ok": {
+    "message": "Ok"
   },
   "cancel": {
-    "message": "Annuler"
+    "message": "Zrušit"
+  },
+  "classicInterface": {
+    "message": "Použít klasické rozhraní"
   },
   "clickCopy": {
-    "message": "Cliquer pour copier"
+    "message": "Kliknutím zkopírovat"
   },
   "confirm": {
-    "message": "Confirmer"
+    "message": "Potvrdit"
+  },
+  "confirmed": {
+    "message": "Potvrzeno"
   },
   "confirmContract": {
-    "message": "Confirmer le contrat"
+    "message": "Potvrdit kontrakt"
   },
   "confirmPassword": {
-    "message": "Confirmer le mot de passe"
+    "message": "Potvrdit heslo"
   },
   "confirmTransaction": {
-    "message": "Confirmer la transaction"
+    "message": "Potvrdit transakci"
+  },
+  "continue": {
+    "message": "Pokračovat"
   },
   "continueToCoinbase": {
-    "message": "Continuer vers Coinbase"
+    "message": "Přejít na Coinbase"
   },
   "contractDeployment": {
-    "message": "Déploiement de contrat"
+    "message": "Nasazení kontraktu"
   },
   "conversionProgress": {
-    "message": "Conversion en cours"
+    "message": "Provádí se převod"
   },
   "copiedButton": {
-    "message": "Copié"
+    "message": "Zkopírováno"
   },
   "copiedClipboard": {
-    "message": "Copié dans le Presse-papiers"
+    "message": "Zkopírováno do schránky"
   },
   "copiedExclamation": {
-    "message": "Copié!"
+    "message": "Zkopírováno!"
+  },
+  "copiedSafe": {
+    "message": "Zkopíroval jsem to na bezpečné místo"
   },
   "copy": {
-    "message": "Copier"
+    "message": "Kopírovat"
   },
   "copyToClipboard": {
-    "message": "Copier dans le presse-papier"
+    "message": "Kopírovat do schránky"
   },
   "copyButton": {
-    "message": " Copier "
+    "message": " Kopírovat "
   },
   "copyPrivateKey": {
-    "message": "Ceci est votre clé privée (cliquez pour copier)"
+    "message": "Toto je váš privátní klíč (kliknutím zkopírujte)"
   },
   "create": {
-    "message": "Créer"
+    "message": "Vytvořit"
   },
   "createAccount": {
-    "message": "Créer un compte"
+    "message": "Vytvořit účet"
   },
   "createDen": {
-    "message": "Créer"
+    "message": "Vytvořit"
   },
   "crypto": {
-    "message": "Crypto",
-    "description": "Type d'échange (cryptocurrencies)"
+    "message": "Krypto",
+    "description": "Exchange type (cryptocurrencies)"
+  },
+  "currentConversion": {
+    "message": "Aktuální převod"
+  },
+  "currentNetwork": {
+    "message": "Aktuální síť"
   },
   "customGas": {
-    "message": "Personnaliser le Gaz"
+    "message": "Nastavit palivo"
+  },
+  "customToken": {
+    "message": "Vlastní token"
   },
   "customize": {
-    "message": "Personnaliser"
+    "message": "Nastavit"
   },
   "customRPC": {
-    "message": "RPC personnalisé"
+    "message": "Vlastní RPC"
+  },
+  "decimalsMustZerotoTen": {
+    "message": "Desetinných míst musí být od 0 do 36."
+  },
+  "decimal": {
+    "message": "Počet desetinných míst přesnosti"
   },
   "defaultNetwork": {
-    "message": "Le réseau par défaut pour les transactions LBR est Main Net."
+    "message": "Výchozí síť pro Etherové transakce je Main Net."
   },
   "denExplainer": {
-    "message": "Votre DEN est votre stockage crypté par mot de passe dans MetaMask."
+    "message": "Váš DEN je heslem šifrované uložiště v MetaMasku."
   },
   "deposit": {
-    "message": "Dépôt"
+    "message": "Vklad"
   },
   "depositBTC": {
-    "message": "Déposez vos BTC à l'adresse ci-dessous:"
+    "message": "Vložte BTC na níže uvedenou adresu:"
   },
   "depositCoin": {
-    "message": "Déposez votre $1 à l'adresse ci-dessous",
-    "description": "Indique à l'utilisateur quelle monnaie il a choisi de déposer avec shapeshift"
+    "message": "Vložte $1 na níže uvedenou adresu",
+    "description": "Tells the user what coin they have selected to deposit with shapeshift"
   },
   "depositEth": {
-    "message": "Dépôt MC"
+    "message": "Vložit Eth"
   },
   "depositMc": {
-    "message": "Dépôt LBR"
+    "message": "Vložit Ether"
   },
   "depositFiat": {
-    "message": "Dépôt de monnaie-fiat"
+    "message": "Vklad s fiat měnou"
   },
   "depositFromAccount": {
-    "message": "Dépôt d'un autre compte"
+    "message": "Vložte z jiného účtu"
   },
   "depositShapeShift": {
-    "message": "Déposez avec ShapeShift"
+    "message": "Vklad přes ShapeShift"
   },
   "depositShapeShiftExplainer": {
-    "message": "Si vous possédez d'autres crypto-monnaies, vous pouvez échanger et déposer de l'LBR directement dans votre portefeuille LBRMask. Aucun compte n'est requis."
+    "message": "Pokud vlastníte jiné kryptoměny, můžete je směnit Ether a vložit ho přímo do peněženky MetaMask. Bez založení účtu."
   },
   "details": {
-    "message": "Détails"
+    "message": "Podrobnosti"
   },
   "directDeposit": {
-    "message": "Dépôt direct"
+    "message": "Přímý vklad"
   },
   "directDepositMc": {
-    "message": "Dépôt direct d'LBR"
+    "message": "Vložit Ether přímo"
   },
   "directDepositEtherExplainer": {
-    "message": "Si vous avez déjà de l'LBR, le moyen le plus rapide d'obtenir des LBR dans votre nouveau portefeuille est par dépôt direct."
+    "message": "Pokud už vlastníte nějaký Ether, nejrychleji ho dostanete do peněženky přímým vkladem."
   },
   "done": {
-    "message": "Fait"
+    "message": "Hotovo"
+  },
+  "downloadStateLogs": {
+    "message": "Stáhnout stavové protokoly"
+  },
+  "dropped": {
+    "message": "Zrušeno"
   },
   "edit": {
-    "message": "Modifier"
+    "message": "Upravit"
   },
   "editAccountName": {
-    "message": "Modifier le nom du compte"
+    "message": "Upravit název účtu"
+  },
+  "emailUs": {
+    "message": "Napište nám e-mail!"
   },
   "encryptNewDen": {
-    "message": "Chiffrer votre nouveau DEN"
+    "message": "Zašifrujte svůj nový DEN"
   },
   "enterPassword": {
-    "message": "Entrer le mot de passe"
+    "message": "Zadejte heslo"
+  },
+  "enterPasswordConfirm": {
+    "message": "Zadejte heslo k potvrzení"
+  },
+  "passwordNotLongEnough": {
+    "message": "Heslo není dost dlouhé"
+  },
+  "passwordsDontMatch": {
+    "message": "Hesla nejsou stejná"
   },
   "LBRExplorerView": {
-    "message": "Afficher le compte sur Etherscan"
+    "message": "Prohlédněte si účet na Etherscan"
   },
   "exchangeRate": {
-    "message": "Taux de change"
+    "message": "Směnný kurz"
   },
   "exportPrivateKey": {
-    "message": "Exporter la clé privée"
+    "message": "Exportovat privátní klíč"
   },
   "exportPrivateKeyWarning": {
-    "message": "Exporter les clés privées à vos risques et périls."
+    "message": "Exportujte privátní klíč na vlastní riziko."
   },
   "failed": {
-    "message": "Échec"
+    "message": "Neúspěšné"
   },
   "fiat": {
     "message": "FIAT",
-    "description": "Type d'échange"
+    "description": "Exchange type"
   },
   "fileImportFail": {
-    "message": "L'importation de fichier ne fonctionne pas? Cliquez ici!",
-    "description": "Aide l'utilisateur à importer son compte à partir d'un fichier JSON"
+    "message": "Import souboru nefunguje? Klikněte sem!",
+    "description": "Helps user import their account from a JSON file"
+  },
+  "followTwitter": {
+    "message": "Sledujte nás na Twitteru"
   },
   "from": {
-    "message": "de"
+    "message": "Od"
+  },
+  "fromToSame": {
+    "message": "Adresy odesílatele a příjemce nemohou být stejné"
   },
   "fromShapeShift": {
-    "message": "ShapeShift de"
+    "message": "Z ShapeShift"
   },
   "gas": {
-    "message": "Gas",
-    "description": "Indication courte du coût du gaz"
+    "message": "Palivo",
+    "description": "Short indication of gas cost"
   },
   "gasFee": {
-    "message": "Frais de gaz"
+    "message": "Poplatek za palivo"
   },
   "gasLimit": {
-    "message": "Limite de gaz"
+    "message": "Limit paliva"
   },
   "gasLimitCalculation": {
-    "message": "Nous calculons la limite de gaz suggérée en fonction des taux de réussite du réseau."
+    "message": "Počítáme doporučený limit paliva na základě úspěšnosti v síti."
   },
   "gasLimitRequired": {
-    "message": "Limite de gaz requise"
+    "message": "Limit paliva je povinný"
   },
   "gasLimitTooLow": {
-    "message": "La limite de gaz doit être d'au moins 21000"
+    "message": "Limit paliva musí být alespoň 21000"
+  },
+  "generatingSeed": {
+    "message": "Generuji klíčovou frázi..."
   },
   "gasPrice": {
-    "message": "Prix du gaz (GWEI)"
+    "message": "Cena paliva (GWEI)"
   },
   "gasPriceCalculation": {
-    "message": "Nous calculons les prix du gaz proposés en fonction des taux de réussite du réseau."
+    "message": "Počítáme doporučenou cenu paliva na základě úspěšnosti v síti."
   },
   "gasPriceRequired": {
-    "message": "Prix du gaz requis"
+    "message": "Cena paliva je povinná"
   },
   "getMc": {
-    "message": "Obtenir des Ether"
+    "message": "Získejte Ether"
   },
   "getEtherFromFaucet": {
-    "message": "Obtenir de l'Ether d'une faucet pour $1",
-    "description": "Affiche le nom du réseau pour la faucet d'Ether"
+    "message": "Získejte Ether z faucetu za $1.",
+    "description": "Displays network name for Ether faucet"
   },
   "greaterThanMin": {
-    "message": "doit être supérieur ou égal à $1.",
-    "description": "helper pour la saisie hexadécimale en entrée décimale"
+    "message": "musí být větší nebo roven $1.",
+    "description": "helper for inputting hex as decimal input"
   },
   "here": {
-    "message": "ici",
-    "description": "comme dans -cliquer ici- pour plus d'informations (en rapport avec troubleTokenBalances)"
+    "message": "zde",
+    "description": "as in -click here- for more information (goes with troubleTokenBalances)"
+  },
+  "hereList": {
+    "message": "Tady je seznam!!!!"
   },
   "hide": {
-    "message": "Cacher"
+    "message": "Skrýt"
   },
   "hideToken": {
-    "message": "Masquer le jeton"
+    "message": "Skrýt token"
   },
   "hideTokenPrompt": {
-    "message": "Masquer le jeton?"
+    "message": "Skrýt token?"
   },
   "howToDeposit": {
-    "message": "Comment voulez-vous déposer de l'Ether?"
+    "message": "Jakým způsobem chcete vložit Ether?"
+  },
+  "holdEther": {
+    "message": "Dovoluje vám držet ether a tokeny a slouží jako most k decentralizovaným aplikacím."
   },
   "import": {
-    "message": "Importer",
-    "description": "Bouton pour importer un compte à partir d'un fichier sélectionné"
+    "message": "Import",
+    "description": "Button to import an account from a selected file"
   },
   "importAccount": {
-    "message": "Importer compte"
+    "message": "Import účtu"
+  },
+  "importAccountMsg": {
+    "message":"Importované účty nebudou spojeny s vaší původní MetaMaskovou klíčovou frází. Zjistěte více o importovaných účtech "
   },
   "importAnAccount": {
-    "message": "Importer un compte"
+    "message": "Import účtu"
   },
   "importDen": {
-    "message": "Importer DEN existant"
+    "message": "Import existujícího DEN"
   },
   "imported": {
-    "message": "Importé",
-    "description": "statut indiquant qu'un compte a été entièrement chargé dans le trousseau de clés"
+    "message": "Importováno",
+    "description": "status showing that an account has been fully loaded into the keyring"
   },
   "infoHelp": {
-    "message": "Info & Aide"
+    "message": "Informace a nápověda"
+  },
+  "insufficientFunds": {
+    "message": "Nedostatek finančních prostředků."
+  },
+  "insufficientTokens": {
+    "message": "Nedostatek tokenů."
   },
   "invalidAddress": {
-    "message": "Adresse invalide"
+    "message": "Neplatná adresa"
+  },
+  "invalidAddressRecipient": {
+    "message": "Adresa příjemce je neplatná"
   },
   "invalidGasParams": {
-    "message": "Paramètres de gaz invalides"
+    "message": "Neplatná parametry paliva"
   },
   "invalidInput": {
-    "message": "Entrée non valide."
+    "message": "Neplatný vstup."
   },
   "invalidRequest": {
-    "message": "Requête invalide"
+    "message": "Neplatný požadavek"
+  },
+  "invalidRPC": {
+    "message": "Neplatné RPC URI"
+  },
+  "jsonFail": {
+    "message": "Něco se pokazilo. Prosím, ujistěte se, že váš JSON soubor má správný formát."
   },
   "jsonFile": {
-    "message": "Fichier JSON",
-    "description": "format d'importation d'un compte"
+    "message": "JSON soubor",
+    "description": "format for importing an account"
+  },
+  "keepTrackTokens": {
+    "message": "Udržujte si záznamy o tokenech, které jste koupili s účtem v MetaMasku."
   },
   "kovan": {
-    "message": "Réseau de test Kovan"
+    "message": "Kovan Test Network"
+  },
+  "knowledgeDataBase": {
+    "message": "Navštivte naši Knowledge Base"
+  },
+  "max": {
+    "message": "Max"
+  },
+  "learnMore": {
+    "message": "Zjistěte více."
   },
   "lessThanMax": {
-    "message": "doit être inférieur ou égal à $1.",
-    "description": "helper pour la saisie hexadécimale en entrée décimale"
+    "message": "musí být menší nebo roven $1.",
+    "description": "helper for inputting hex as decimal input"
+  },
+  "likeToAddTokens": {
+    "message": "Chcete přidat tyto tokeny?"
+  },
+  "links": {
+    "message": "Odkazy"
   },
   "limit": {
-    "message": "Limite"
+    "message": "Limit"
   },
   "loading": {
-    "message": "Chargement..."
+    "message": "Načítám..."
   },
   "loadingTokens": {
-    "message": "Chargement des jetons..."
+    "message": "Načítám tokeny..."
   },
   "localhost": {
     "message": "Localhost 8545"
   },
+  "login": {
+    "message": "Přihlásit"
+  },
   "logout": {
-    "message": "Déconnexion"
+    "message": "Odhlásit"
   },
   "loose": {
-    "message": "Vacant"
+    "message": "Nevázané"
+  },
+  "loweCaseWords": {
+    "message": "slova klíčové fráze mají pouze malá písmena"
   },
   "mainnet": {
-    "message": "Réseau principal LBR"
+    "message": "Main LBR Network"
   },
   "message": {
-    "message": "Message"
+    "message": "Zpráva"
+  },
+  "metamaskDescription": {
+    "message": "MetaMask je bezpečný osobní trezor pro LBR."
   },
   "min": {
     "message": "Minimum"
   },
   "myAccounts": {
-    "message": "Mes comptes"
+    "message": "Moje účty"
+  },
+  "mustSelectOne": {
+    "message": "Musíte zvolit aspoň 1 token."
   },
   "needMcInWallet": {
-    "message": "Pour interagir avec des applications décentralisées à l'aide de MetaMask, vous aurez besoin d'Ether dans votre portefeuille."
+    "message": "Potřebujete Ether v peněžence, abyste mohli pomocí MetaMasku interagovat s decentralizovanými aplikacemi."
   },
   "needImportFile": {
-    "message": "Vous devez sélectionner un fichier à importer.",
-    "description": "L'utilisateur doit ajouter un fichier pour continuer"
+    "message": "Musíte zvolit soubor k importu.",
+    "description": "User is important an account and needs to add a file to continue"
   },
   "needImportPassword": {
-    "message": "Vous devez entrer un mot de passe pour le fichier sélectionné.",
-    "description": "Mot de passe et fichier requis pour importer un compte"
+    "message": "Musíte zadat heslo pro zvolený soubor.",
+    "description": "Password and file needed to import an account"
+  },
+  "negativeETH": {
+    "message": "Nelze odeslat zápornou částku ETH."
   },
   "networks": {
-    "message": "Réseaux"
+    "message": "Sítě"
   },
   "newAccount": {
-    "message": "Nouveau compte"
+    "message": "Nový účet"
   },
   "newAccountNumberName": {
-    "message": "Compte $1",
-    "description": "Nom par défaut du compte suivant à créer sur l'écran de création de compte"
+    "message": "Účet $1",
+    "description": "Default name of next account to be created on create account screen"
   },
   "newContract": {
-    "message": "Nouveau contrat"
+    "message": "Nový kontrakt"
   },
   "newPassword": {
-    "message": "Nouveau mot de passe (min 8 caractères)"
+    "message": "Nové heslo (min 8 znaků)"
   },
   "newRecipient": {
-    "message": "Nouveau destinataire"
+    "message": "Nový příjemce"
+  },
+  "newRPC": {
+    "message": "Nová RPC URL"
   },
   "next": {
-    "message": "Suivant"
+    "message": "Další"
   },
   "noAddressForName": {
-    "message": "Aucune adresse n'a été définie pour ce nom."
+    "message": "Pro toto jméno nebyla nastavena žádná adresa."
   },
   "noDeposits": {
-    "message": "Aucun dépôt reçu"
+    "message": "Žádný vklad"
   },
   "noTransactionHistory": {
-    "message": "Aucun historique de transaction."
+    "message": "Žádná historie transakcí."
   },
   "noTransactions": {
-    "message": "Aucune transaction"
+    "message": "Žádné transakce"
   },
   "notStarted": {
-    "message": "Pas démarré"
+    "message": "Nezačalo"
   },
   "oldUI": {
-    "message": "Ancienne interface utilisateur"
+    "message": "Staré rozhraní"
   },
   "oldUIMessage": {
-    "message": "Vous êtes revenu à l'ancienne interface utilisateur.Vous pouvez revenir à la nouvelle interface via l'option dans le menu déroulant en haut à droite."
+    "message": "Vrátili jste se ke starému rozhraní. Můžete přepnout na nové rozhraní v nastavení v pravém horním menu."
   },
   "or": {
-    "message": "ou",
-    "description": "choix entre la création ou l'importation d'un nouveau compte"
+    "message": "nebo",
+    "description": "choice between creating or importing a new account"
+  },
+  "passwordCorrect": {
+    "message": "Ujistěte se, že je vaše heslo správně."
   },
   "passwordMismatch": {
-    "message": "les mots de passe ne correspondent pas",
-    "description": "dans le processus de création de mot de passe, les deux nouveaux champs de mot de passe ne correspondent pas"
+    "message": "hesla nesouhlasí",
+    "description": "in password creation process, the two new password fields did not match"
   },
   "passwordShort": {
-    "message": "mot de passe pas assez long",
-    "description": "dans le processus de création de mot de passe, le mot de passe n'est pas assez long pour être sécurisé"
+    "message": "heslo je krátké",
+    "description": "in password creation process, the password is not long enough to be secure"
   },
   "pastePrivateKey": {
-    "message": "Collez votre clé privée ici:",
-    "description": "Pour l'importation d'un compte à partir d'une clé privée"
+    "message": "Vložte zde svůj privátní klíč:",
+    "description": "For importing an account from a private key"
   },
   "pasteSeed": {
-    "message": "Collez votre seed phrase ici!"
+    "message": "Svou klíčovou frázi vložte zde!"
+  },
+  "personalAddressDetected": {
+    "message": "Detekována osobní adresa. Zadejte adresu kontraktu tokenu."
   },
   "pleaseReviewTransaction": {
-    "message": "Veuillez vérifier votre transaction."
+    "message": "Zkontrolujte si transakci."
+  },
+  "popularTokens": {
+    "message": "Oblíbené tokeny"
+  },
+  "privacyMsg": {
+    "message": "Zásady ochrany osobních údajů"
   },
   "privateKey": {
-    "message": "Clé privée",
-    "description": "sélectionnez ce type de fichier à utiliser pour importer un compte"
+    "message": "Privátní klíč",
+    "description": "select this type of file to use to import an account"
   },
   "privateKeyWarning": {
-    "message": "Avertissement: Ne divulguez jamais cette clé, quiconque avec vos clés privées peut voler tous les actifs de votre compte."
+    "message": "Upozornění: Nikdy nezveřejněte tento klíč. Kdokoli může s vaším privátním klíčem odcizit vaše aktiva z účtu."
   },
   "privateNetwork": {
-    "message": "Réseau privé"
+    "message": "Soukromá síť"
   },
   "qrCode": {
-    "message": "Afficher le QR Code"
+    "message": "Ukázat QR kód"
   },
   "readdToken": {
-    "message": "Vous pouvez ajouter ce jeton dans le futur en allant sur “Ajouter un jeton” dans le menu des options de votre compte."
+    "message": "Tento token můžete v budoucnu přidat zpět s „Přidat token“ v nastavení účtu."
   },
   "readMore": {
-    "message": "En savoir plus ici."
+    "message": "Přečtěte si více zde."
+  },
+  "readMore2": {
+    "message": "Přečtěte si více."
   },
   "receive": {
-    "message": "Recevoir"
+    "message": "Obrdžet"
   },
   "recipientAddress": {
-    "message": "Adresse du destinataire"
+    "message": "Adresa příjemce"
   },
   "refundAddress": {
-    "message": "Votre adresse de remboursement"
+    "message": "Adresa pro vrácení peněz"
   },
   "rejected": {
-    "message": "Rejeté"
+    "message": "Odmítnuto"
+  },
+  "resetAccount": {
+    "message": "Resetovat účet"
+  },
+  "restoreFromSeed": {
+    "message": "Obnovit z seed fráze"
+  },
+  "restoreVault": {
+    "message": "Obnovit trezor"
   },
   "required": {
-    "message": "Obligatoire"
+    "message": "Povinné"
   },
   "retryWithMoreGas": {
-    "message": "Réessayez avec un prix plus élevé du gaz ici"
+    "message": "Opakujte s vyšší cenou paliva"
+  },
+  "walletSeed": {
+    "message": "Klíčová fráze peněženky"
+  },
+  "revealSeedWords": {
+    "message": "Zobrazit slova klíčové fráze"
+  },
+  "revealSeedWordsWarning": {
+    "message": "Nebnovujte slova klíčové fráze na veřejnosti! Tato slova mohou být použita k odcizení veškerých vyašich účtů."
   },
   "revert": {
-    "message": "Rétablir"
+    "message": "Zvrátit"
   },
   "rinkeby": {
-    "message": "Réseau de test Rinkeby"
+    "message": "Rinkeby Test Network"
   },
   "ropsten": {
-    "message": "Réseau de test Ropsten"
+    "message": "Ropsten Test Network"
+  },
+  "currentRpc": {
+    "message": "Současné RPC"
+  },
+  "connectingToMainnet": {
+    "message": "Připojuji se k Main LBR Network"
+  },
+  "connectingToRopsten": {
+    "message": "Připojuji se k Ropsten Test Network"
+  },
+  "connectingToKovan": {
+    "message": "Připojuji se k Kovan Test Network"
+  },
+  "connectingToRinkeby": {
+    "message": "Připojuji se k Rinkeby Test Network"
+  },
+  "connectingToUnknown": {
+    "message": "Připojuji se k neznámé síti"
   },
   "sampleAccountName": {
-    "message": "Par exemple mon nouveau compte",
-    "description": "Aidez l'utilisateur à comprendre le concept d'ajout d'un nom lisible par un humain à son compte"
+    "message": "Např. můj nový účet",
+    "description": "Help user understand concept of adding a human-readable name to their account"
   },
   "save": {
-    "message": "Enregistrer"
+    "message": "Uložit"
+  },
+  "reprice_title": {
+    "message": "Změnit cenu transakce"
+  },
+  "reprice_subtitle": {
+    "message": "Navyšte cenu paliva ve snaze k přepsání a urychlení vyší transakce"
   },
   "saveAsFile": {
-    "message": "Enregistrer dans un fichier",
-    "description": "Processus d'exportation de compte"
+    "message": "Uložit do souboru",
+    "description": "Account export process"
+  },
+  "saveSeedAsFile": {
+    "message": "Uložit slova klíčové fráze do souboru"
+  },
+  "search": {
+    "message": "Hledat"
+  },
+  "secretPhrase": {
+    "message": "Zadejte svých 12 slov tajné fráze k obnovení trezoru."
+  },
+  "newPassword8Chars": {
+    "message": "Nové heslo (min 8 znaků)"
+  },
+  "seedPhraseReq": {
+    "message": "klíčové fráze mají 12 slov"
+  },
+  "select": {
+    "message": "Vybrat"
+  },
+  "selectCurrency": {
+    "message": "Vybrat měnu"
   },
   "selectService": {
-    "message": "Sélectionner un service"
+    "message": "Vybrat službu"
+  },
+  "selectType": {
+    "message": "Vybrat typ"
   },
   "send": {
-    "message": "Envoyé"
+    "message": "Odeslat"
+  },
+  "sendMC": {
+    "message": "Odeslat ETH"
   },
   "sendTokens": {
-    "message": "Envoyer des jetons"
+    "message": "Odeslat tokeny"
+  },
+  "onlySendToLBRAddress": {
+    "message": "Posílejte jen ETH na LBR adresu."
+  },
+  "searchTokens": {
+    "message": "Hledat tokeny"
   },
   "sendTokensAnywhere": {
-    "message": "Envoyer des jetons à toute personne possédant un compte LBR"
+    "message": "Posílejte tokeny komukoli s LBR účtem"
   },
   "settings": {
-    "message": "Paramètres"
+    "message": "Nastavení"
+  },
+  "info": {
+  "message": "Informace"
   },
   "shapeshiftBuy": {
-    "message": "Acheter avec Shapeshift"
+    "message": "Nakoupit na ShapeShift"
   },
   "showPrivateKeys": {
-    "message": "Afficher les clés privées"
+    "message": "Zobrazit privátní klíče"
   },
   "showQRCode": {
-    "message": "Afficher le QR Code"
+    "message": "Zobrazit QR kód"
   },
   "sign": {
-    "message": "Signer"
+    "message": "Podepsat"
+  },
+  "signed": {
+    "message": "Podepsáno"
   },
   "signMessage": {
-    "message": "Signer le message"
+    "message": "Podepsat zprávu"
   },
   "signNotice": {
-    "message": "La signature de ce message peut avoir des effets secondaires \ndangereux. Signer uniquement les messages de \nsites auxquels vous faites entièrement confiance avec votre compte.\n Cette méthode dangereuse sera supprimée dans une future version."
+    "message": "Podepsání zprávy může mít \nnebezpečný vedlejší učinek. Podepisujte zprávy pouze ze \nstránek, kterým plně důvěřujete celým svým účtem.\n Tato nebezpečná metoda bude odebrána v budoucí verzi. "
   },
   "sigRequest": {
-    "message": "Demande de signature"
+    "message": "Požadavek podpisu"
   },
   "sigRequested": {
-    "message": "Signature demandée"
+    "message": "Požádáno o podpis"
+  },
+  "spaceBetween": {
+    "message": "mezi slovy může být pouze mezera"
   },
   "status": {
-    "message": "Statut"
+    "message": "Stav"
+  },
+  "stateLogs": {
+    "message": "Stavové protokoly"
+  },
+  "stateLogsDescription": {
+    "message": "Stavové protokoly obsahují vaše veřejné adresy účtů a odeslané transakce."
+  },
+  "stateLogError": {
+    "message": "Chyba během získávání stavových protokolů."
   },
   "submit": {
-    "message": "Soumettre"
+    "message": "Odeslat"
+  },
+  "submitted": {
+    "message": "Odesláno"
+  },
+  "supportCenter": {
+    "message": "Navštivte naše centrum podpory"
+  },
+  "symbolBetweenZeroTen": {
+    "message": "Symbol musí být mezi 0 a 10 znaky."
   },
   "takesTooLong": {
-    "message": "Prend trop de temps?"
+    "message": "Trvá to dlouho?"
+  },
+  "terms": {
+    "message": "Podmínky použití"
   },
   "testFaucet": {
-    "message": "Test Faucet"
+    "message": "Testovací faucet"
   },
   "to": {
-    "message": "Destinataire"
+    "message": "Komu: "
   },
   "toETHviaShapeShift": {
-    "message": "$1 à ETH via ShapeShift",
-    "description": "le système remplira le type de dépôt au début du message"
+    "message": "$1 na ETH přes ShapeShift",
+    "description": "system will fill in deposit type in start of message"
+  },
+  "tokenAddress": {
+    "message": "Adresa tokenu"
+  },
+  "tokenAlreadyAdded": {
+    "message": "Token byl už přidán."
   },
   "tokenBalance": {
-    "message": "Votre solde de jeton est:"
+    "message": "Váš zůstatek tokenu je:"
+  },
+  "tokenSelection": {
+    "message": "Vyhledejte token nebo je vyberte z našeho seznamu oblíbených tokenů."
+  },
+  "tokenSymbol": {
+    "message": "Symbol tokenu"
+  },
+  "tokenWarning1": {
+    "message": "Mějte přehled o tokenech, které jste koupili s účtem MetaMasku. Pokud jste koupili tokeny s jiným účtem, tyto tokeny se zde nezobrazí."
   },
   "total": {
-    "message": "Total"
+    "message": "Celkem"
+  },
+  "transactions": {
+    "message": "transakce"
+  },
+  "transactionError": {
+    "message": "Chyba transakce. Vyhozena výjimka v kódu kontraktu."
   },
   "transactionMemo": {
-    "message": "Mémo de transaction (optionnel)"
+    "message": "Poznámka transakce (nepovinné)"
   },
   "transactionNumber": {
-    "message": "Numéro de transaction"
+    "message": "Číslo transakce"
   },
   "transfers": {
-    "message": "Transferts"
+    "message": "Převody"
   },
   "troubleTokenBalances": {
-    "message": "Nous avons eu du mal à charger votre balance de jetons, vous pouvez la consulter ",
-    "description": "Suivi par un lien (ici) pour voir les soldes des jetons"
+    "message": "Měli jsme problém s načtením vašich tokenových zůstatků. Můžete je vidět ",
+    "description": "Followed by a link (here) to view token balances"
+  },
+  "twelveWords": {
+    "message": "Těchto 12 slov je jedinou možností, jak obnovit MetaMask účet. \nUložte je na bezpečné a neveřejné místo."
   },
   "typePassword": {
-    "message": "Entrez votre mot de passe"
+    "message": "Zadejte své heslo"
   },
   "uiWelcome": {
-    "message": "Bienvenue dans la nouvelle interface utilisateur (Beta)"
+    "message": "Vítejte v novém rozhraní (Beta)"
   },
   "uiWelcomeMessage": {
-    "message": "Vous utilisez maintenant la nouvelle interface utilisateur Metamask. Jetez un coup d'oeil, essayez de nouvelles fonctionnalités comme l'envoi de jetons, et faites-nous savoir si vous avez des problèmes."
+    "message": "Používáte nyní nové rozhraní MetaMasku. Rozhlédněte se kolem, vyzkoušejte nové funkce, jako jsou zasílání tokenů, a dejte nám vědět, pokud narazíte na problém."
+  },
+  "unapproved": {
+    "message": "Neschváleno"
   },
   "unavailable": {
-    "message": "Indisponible"
+    "message": "Nedostupné"
   },
   "unknown": {
-    "message": "Inconnu"
+    "message": "Neznámé"
   },
   "unknownNetwork": {
-    "message": "Réseau privé inconnu"
+    "message": "Neznámá soukromá síť"
   },
   "unknownNetworkId": {
-    "message": "ID réseau inconnu"
+    "message": "Neznámé ID sítě"
+  },
+  "uriErrorMsg": {
+    "message": "URI vyžadují korektní HTTP/HTTPS prefix."
   },
   "usaOnly": {
-    "message": "Etats-Unis seulement",
-    "description": "Utiliser cet échange est limité aux personnes à l'intérieur des Etats-Unis"
+    "message": "jen v USA",
+    "description": "Using this exchange is limited to people inside the USA"
   },
   "usedByClients": {
-    "message": "Utilisé par une variété de clients différents"
+    "message": "Používána různými klienty"
+  },
+  "useOldUI": {
+    "message": "Použijte staré rozhraní"
+  },
+  "validFileImport": {
+    "message": "Musíte vybrat validní soubor k importu."
+  },
+  "vaultCreated": {
+    "message": "Trezor vytvořen"
   },
   "viewAccount": {
-    "message": "Afficher le compte"
+    "message": "Zobrazit účet"
+  },
+  "visitWebSite": {
+    "message": "Navštivte naši stránku"
   },
   "warning": {
-    "message": "Avertissement"
+    "message": "Varování"
+  },
+  "welcomeBeta": {
+    "message": "Vítejte v MetaMask Beta"
   },
   "whatsThis": {
-    "message": "Qu'est-ce que c'est?"
+    "message": "Co to je?"
   },
   "yourSigRequested": {
-    "message": "Votre signature est demandée"
+    "message": "Je vyžadován váš podpis"
   },
   "youSign": {
-    "message": "Vous signez"
+    "message": "Podepisujete"
   }
 }
