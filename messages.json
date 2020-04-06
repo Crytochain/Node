@@ -1,609 +1,819 @@
 ﻿{
   "accept": {
-    "message": "Tanggapin"
+    "message": "Aceitar"
   },
   "account": {
-    "message": "Account"
+    "message": "Conta"
   },
   "accountDetails": {
-    "message": "Detalye ng Account"
+    "message": "Detalhes da Conta"
   },
   "accountName": {
-    "message": "Pangalan ng Account"
+    "message": "Nome da Conta"
   },
   "address": {
-    "message": "Address"
+    "message": "Endereço"
+  },
+  "addCustomToken": {
+    "message": "Adicionar token customizada"
   },
   "addToken": {
-    "message": "Magdagdag ng Token"
+    "message": "Adicionar Token"
+  },
+  "addTokens": {
+    "message": "Adicionar Tokens"
   },
   "amount": {
-    "message": "Halaga"
+    "message": "Valor"
   },
   "amountPlusGas": {
-    "message": "Halaga + Gas"
+    "message": "Valor + Gas"
   },
   "appDescription": {
-    "message": "LBR Browser Extension",
-    "description": "Ang deskripsyon ng application"
+    "message": "Extensão para o browser de LBR",
+    "description": "A descrição da aplicação"
   },
   "appName": {
     "message": "MetaMask",
-    "description": "Ang pangalan ng application"
+    "description": "Nome da aplicação"
   },
   "attemptingConnect": {
-    "message": "Sinusubukang kumonekta sa blockchain."
+    "message": "A tentar ligar à blockchain."
+  },
+  "attributions": {
+    "message": "Atribuições"
   },
   "available": {
-    "message": "Magagamit"
+    "message": "Disponível"
   },
   "back": {
-    "message": "Bumalik"
+    "message": "Voltar"
   },
   "balance": {
-    "message": "Balanse:"
+    "message": "Saldo:"
+  },
+  "balances": {
+    "message": "O meu saldo"
   },
   "balanceIsInsufficientGas": {
-    "message": "Kulang ang balanse para sa kasalukuyang gas total"
+    "message": "Saldo insuficiente para a quantidade de gas total"
   },
   "beta": {
     "message": "BETA"
   },
   "betweenMinAndMax": {
-    "message": "dapat mas malaki o katumbas ng $1 at mas mababa o katumbas ng $2.",
-    "description": "helper para sa pag-input ng hex bilang decimal input"
+    "message": "tem de ser maior ou igual a $1 e menor ou igual a $2.",
+    "description": "ajuda para introduzir hexadecimal como decimal"
+  },
+  "blockiesIdenticon": {
+    "message": "Usar Blockies Identicon"
   },
   "borrowDharma": {
-    "message": "Humiram sa Dharma (Beta)"
+    "message": "Pedir Empréstimo Com Dharma (Beta)"
+  },
+  "builtInCalifornia": {
+    "message": "MetaMask é desenhada e construída na California."
   },
   "buy": {
-    "message": "Bumili"
+    "message": "Comprar"
   },
   "buyCoinbene": {
-    "message": "Bumili sa Coinbase"
+    "message": "Comprar no Coinbase"
   },
   "buyCoinbeneExplainer": {
-    "message": "Ang Coinbase ang pinakasikat na paraan upang bumili at magbenta ng bitcoin, LBR, at litecoin sa buong mundo."
+    "message": "Coinbase é a forma mais conhecida para comprar e vender bitcoin, LBR, e litecoin."
   },
   "cancel": {
-    "message": "Kanselahin"
+    "message": "Cancelar"
+  },
+  "classicInterface": {
+    "message": "Utilizar interface clássico"
   },
   "clickCopy": {
-    "message": "I-click upang Makopya"
+    "message": "Carregue para copiar"
   },
   "confirm": {
-    "message": "Tiyakin"
+    "message": "Confirmar"
   },
   "confirmContract": {
-    "message": "Tiyakin ang Contract"
+    "message": "Confirmar Contrato"
   },
   "confirmPassword": {
-    "message": "Tiyakin ang Password"
+    "message": "Confirmar Palavra-passe"
   },
   "confirmTransaction": {
-    "message": "Tiyakin ang Transaksyon"
+    "message": "Confirmar Transação"
+  },
+  "continue": {
+    "message": "Continuar"
   },
   "continueToCoinbase": {
-    "message": "Magpatuloy sa Coinbase"
+    "message": "Continuar para o Coinbase"
   },
   "contractDeployment": {
-    "message": "Pag-deploy ng Contract"
+    "message": "Distribuição do Contrato"
   },
   "conversionProgress": {
-    "message": "Isinasagawa ang conversion"
+    "message": "Conversão em progresso"
   },
   "copiedButton": {
-    "message": "Kinopya"
+    "message": "Copiado"
   },
   "copiedClipboard": {
-    "message": "Kinopya sa Clipboard"
+    "message": "Copiado para a Área de Transferência"
   },
   "copiedExclamation": {
-    "message": "Kinopya!"
+    "message": "Copiado!"
+  },
+  "copiedSafe": {
+    "message": "Já copiei para um lugar seguro"
   },
   "copy": {
-    "message": "Kinopya"
+    "message": "Copiar"
   },
   "copyToClipboard": {
-    "message": "Kinopya sa clipboard"
+    "message": "Copiar para o clipboard"
   },
   "copyButton": {
-    "message": " Kinopya "
+    "message": " Copiar "
   },
   "copyPrivateKey": {
-    "message": "Ito ang iyong private key (i-click upang makopya)"
+    "message": "Esta é a sua chave privada (carregue para copiar)"
   },
   "create": {
-    "message": "Gumawa"
+    "message": "Criar"
   },
   "createAccount": {
-    "message": "Gumawa ng Account"
+    "message": "Criar Conta"
   },
   "createDen": {
-    "message": "Gumawa"
+    "message": "Criar"
   },
   "crypto": {
-    "message": "Crypto",
-    "description": "Type ng exchange (cryptocurrencies)"
+    "message": "Cripto",
+    "description": "Tipo de câmbio (criptomoedas)"
+  },
+  "currentConversion": {
+    "message": "Taxa de Conversão Atual"
+  },
+  "currentNetwork": {
+    "message": "Rede Atual"
   },
   "customGas": {
-    "message": "I-customize ang Gas"
+    "message": "Customizar Gas"
   },
   "customize": {
-    "message": "I-customize"
+    "message": "Customizar"
   },
   "customRPC": {
-    "message": "Custom RPC"
+    "message": "Customizar RPC"
   },
+  "decimalsMustZerotoTen": {
+    "message": "Decimais devem ser no mínimo 0 e não passar de 36."
+  },
+  "decimal": {
+    "message": "Precisão em Decimais"
+  }, 
   "defaultNetwork": {
-    "message": "Ang default network para sa Ether transactions ay ang Main Net."
+    "message": "A rede pré definida para transações em Ether é a Main Net."
   },
   "denExplainer": {
-    "message": "Ang iyong DEN ang nagsisilbing password-encrypted storage mo sa loob ng MetaMask."
+    "message": " DEN é o armazenamento encriptado da sua palavra-passe no MetaMask."
   },
   "deposit": {
-    "message": "Deposito"
+    "message": "Depósito"
   },
   "depositBTC": {
-    "message": "I-deposito ang iyong BTC sa address na ito:"
+    "message": "Deposite as suas BTC no endereço abaixo:"
   },
   "depositCoin": {
-    "message": "I-deposito ang iyong $1 sa address na ito",
-    "description": "Sinasabihan ang user kung ano ang coin na kanilang pinili para I-deposito gamit ang shapeshift"
+    "message": "Deposite $1 no endereço abaixo",
+    "description": "Diz ao usuário que moeda selecionou para depositar com shapeshift"
   },
   "depositEth": {
-    "message": "I-deposito ang Eth"
+    "message": "Depositar Eth"
   },
   "depositMc": {
-    "message": "I-deposito ang Ether"
+    "message": "Depositar Ether"
   },
   "depositFiat": {
-    "message": "I-deposito ang Fiat"
+    "message": "Depositar moeda fiduciária"
   },
   "depositFromAccount": {
-    "message": "I-deposito mula sa ibang account"
+    "message": "Depositar de outra conta"
   },
   "depositShapeShift": {
-    "message": "I-deposito gamit ang ShapeShift"
+    "message": "Depositar com ShapeShift"
   },
   "depositShapeShiftExplainer": {
-    "message": "Kung ikaw ay nagmamay-ari ng iba pang cryptocurrencies, pwede kang mag-trade at mag-deposito ng Ether diretso sa iyong MetaMask wallet. Hindi mo na kailangan ng account."
+    "message": "Se tem criptomoedas, pode trocar e depositar Ether diretamente na sua carteira MetaMask. Não precisa de conta."
   },
   "details": {
-    "message": "Detalye"
+    "message": "Detalhes"
   },
   "directDeposit": {
-    "message": "Direktang Deposito"
+    "message": "Depósito Direto"
   },
   "directDepositMc": {
-    "message": "Direktang I-deposito ang Ether"
+    "message": "Depositar Diretamente Ether"
   },
   "directDepositEtherExplainer": {
-    "message": "Kung ika ay mayroon nang Ether, ang pinakamabilis na paraan upang makuha ang Ether sa iyong bagong wallet ay sa pamamagitan ng direktang deposito."
+    "message": "Se já tem Ether, a forma mais rápida de ficar com Ether na sua carteira é através de depósito direto."
   },
   "done": {
-    "message": "Tapos na"
+    "message": "Finalizado"
+  },
+  "downloadStateLogs": {
+    "message": "Descarregar Registos de Estado"
   },
   "edit": {
-    "message": "I-edit"
+    "message": "Editar"
   },
   "editAccountName": {
-    "message": "I-edit ang Pangalang ng Account"
+    "message": "Editar Nome da Conta"
+  },
+  "emailUs": {
+    "message": "Fale connosco!"
   },
   "encryptNewDen": {
-    "message": "I-encrypt ang iyong bagong DEN"
+    "message": "Encripte o seu novo DEN"
   },
   "enterPassword": {
-    "message": "I-enter ang password"
+    "message": "Introduza palavra-passe"
+  },
+  "enterPasswordConfirm": {
+    "message": "Introduza a sua palavra-passe para confirmar"
   },
   "LBRExplorerView": {
-    "message": "Tingnan ang account sa Etherscan"
+    "message": "Ver conta no Etherscan"
   },
   "exchangeRate": {
-    "message": "Exchange Rate"
+    "message": "Taxa de Câmbio"
   },
   "exportPrivateKey": {
-    "message": "I-export ang Private Key"
+    "message": "Exportar Chave Privada"
   },
   "exportPrivateKeyWarning": {
-    "message": "I-export ang private keys at intindihin ang panganib na kasama nito."
+    "message": "Exportar chaves privadas por sua conta e risco."
   },
   "failed": {
-    "message": "Nabigo"
+    "message": "Falhou"
   },
   "fiat": {
     "message": "FIAT",
-    "description": "Type ng exchange"
+    "description": "Tipo de câmbio"
   },
   "fileImportFail": {
-    "message": "Hindi gumagana ang file import? I-click ito!",
-    "description": "Tinutulungan ang user na i-import ang kanilang account mula sa JSON file"
+    "message": "A importação de ficheiro não está a funcionar? Carregue aqui!",
+    "description": "Ajuda usuários a importar as suas contas a partir de um ficheiro JSON"
+  },
+  "followTwitter": {
+    "message": "Siga-nos no Twitter"
   },
   "from": {
-    "message": "Mula sa"
+    "message": "De"
+  },
+  "fromToSame": {
+    "message": "Endereços De e Para não podem ser iguais"
   },
   "fromShapeShift": {
-    "message": "Mula sa ShapeShift"
+    "message": "De ShapeShift"
   },
   "gas": {
     "message": "Gas",
-    "description": "Maikling indikasyon ng gas cost"
+    "description": "Indicação breve do custo de gas"
   },
   "gasFee": {
-    "message": "Gas Fee"
+    "message": "Taxa de Gas"
   },
   "gasLimit": {
-    "message": "Gas Limit"
+    "message": "Limite de Gas"
   },
   "gasLimitCalculation": {
-    "message": "Kinalkula namin ang iminungkahing gas limit base sa network success rates."
+    "message": "Calculamos o limite sugerido do gas com base nas taxas de sucesso da rede."
   },
   "gasLimitRequired": {
-    "message": "Kailangan ang Gas Limit"
+    "message": "Limite de Gas Necessário"
   },
   "gasLimitTooLow": {
-    "message": "Ang gas limit ay hindi dabat bababa sa 21000"
+    "message": "Limite de Gas deve ser no mínimo 21000"
+  },
+  "generatingSeed": {
+    "message": "A gerar Seed..."
   },
   "gasPrice": {
-    "message": "Gas Price (GWEI)"
+    "message": "Preço Gas (GWEI)"
   },
   "gasPriceCalculation": {
-    "message": "Kinalkula namin ang iminungkahing gas prices base sa network success rates."
+    "message": "Calculamos o gas sugerido com base nas taxas de sucesso da rede."
   },
   "gasPriceRequired": {
-    "message": "Kailangan ang Gas Price"
+    "message": "Preço Gas Necessário"
   },
   "getMc": {
-    "message": "Kumuha ng Ether"
+    "message": "Obter Ether"
   },
   "getEtherFromFaucet": {
-    "message": "Kumuha ng Ether mula sa faucet para sa $1",
-    "description": "Ipinapakita ang pangalan ng network para sa Ether faucet"
+    "message": "Obter Ether de um faucet por $1",
+    "description": "Mostra nome da rede para faucet de Ether"
   },
   "greaterThanMin": {
-    "message": "dapat mas malaki o katumbas ng $1.",
-    "description": "helper para sa pag-input ng hex bilang decimal input"
+    "message": "tem de ser maior ou igual a $1.",
+    "description": "ajuda para introduzir hexadecimal como decimal"
   },
   "here": {
-    "message": "i-click ito",
-    "description": "tulad ng -i-click dito- para sa mas maraming impormasyon (kasama ng troubleTokenBalances)"
+    "message": "aqui",
+    "description": "como -clicar aqui- para mais informações (associado a troubleTokenBalances)"
   },
-  "hide": { 
-    "message": "Itago"
+  "hereList": {
+    "message": "Aqui está uma lista!!!!"
+  },
+  "hide": {
+    "message": "Ocultar"
   },
   "hideToken": {
-    "message": "Itago ang Token"
+    "message": "Ocultar Token"
   },
   "hideTokenPrompt": {
-    "message": "Itago ang Token?"
+    "message": "Ocultar Token?"
   },
   "howToDeposit": {
-    "message": "Paano mo gustong mag-deposito ng Ether?"
+    "message": "Como gostaria de depositar Ether?"
+  },
+  "holdEther": {
+    "message": "Permite ter ether & tokens, e serve como uma ponte para aplicações descentralizadas."
   },
   "import": {
-    "message": "I-import",
-    "description": "Button para i-import ang account mula sa napiling file"
+    "message": "Importar",
+    "description": "Botão para importar uma conta de um ficheiro selecionado"
   },
   "importAccount": {
-    "message": "I-import ang Account"
+    "message": "Importar Conta"
+  },
+  "importAccountMsg": {
+    "message":"Contas importadas não irão ser associadas com a frase seed da conta criada originalmente pelo MetaMask. Saiba mais sobre contas importadas."
   },
   "importAnAccount": {
-    "message": "I-import ang account"
+    "message": "Importar uma conta"
   },
   "importDen": {
-    "message": "I-import ang Existing DEN"
+    "message": "Importar DEN Existente"
   },
   "imported": {
-    "message": "Na-import na",
-    "description": "status na nagpapakita na ang account ay lubos na na-load sa keyring"
+    "message": "Importado",
+    "description": "estado para mostrar que uma conta foi totalmente carregada para o keyring"
   },
   "infoHelp": {
-    "message": "Impormasyon at Tulong"
+    "message": "Informação & Ajuda"
+  },
+  "insufficientFunds": {
+    "message": "Fundos insuficientes."
+  },
+  "insufficientTokens": {
+    "message": "Tokens insuficientes."
   },
   "invalidAddress": {
-    "message": "Invalid ang address"
+    "message": "Endereço inválido"
+  },
+  "invalidAddressRecipient": {
+    "message": "O endereço do destinatário é inválido "
   },
   "invalidGasParams": {
-    "message": "Invalid ang Gas Parameters"
+    "message": "Parâmetros para o Gas Inválidos"
   },
   "invalidInput": {
-    "message": "Invalid ang input."
+    "message": "Campo inválido."
   },
   "invalidRequest": {
-    "message": "Invalid ang Request"
+    "message": "Pedido Inválido"
+  },
+  "invalidRPC": {
+    "message": "RPC URI Inválido"
+  },
+  "jsonFail": {
+    "message": "Ocorreu um erro. Por favor confirme que o seu ficheiro JSON está devidamente formatado."
   },
   "jsonFile": {
-    "message": "JSON File",
-    "description": "format para sa pag-import ng account"
+    "message": "Ficheiro JSON",
+    "description": "Formatar para importar uma conta"
   },
   "kovan": {
-    "message": "Kovan Test Network"
+    "message": "Rede de Teste Kovan"
+  },
+  "knowledgeDataBase": {
+    "message": "Visite o nosso Centro de Conhecimento"
   },
   "lessThanMax": {
-    "message": "dapat mas mababa o katumbas ng $1.",
-    "description": "helper para sa pag-input ng hex bilang decimal input"
+    "message": "tem de ser menor ou igual a $1.",
+    "description": "ajuda para introduzir hexadecimal como decimal"
+  },
+  "likeToAddTokens": {
+    "message": "Gostaria de adicionar estes tokens?"
   },
   "limit": {
-    "message": "Limitasyon"
+    "message": "Limite"
   },
   "loading": {
-    "message": "Naglo-load..."
+    "message": "A carregar..."
   },
   "loadingTokens": {
-    "message": "Naglo-load ang Tokens..."
+    "message": "A carregar Tokens..."
   },
   "localhost": {
     "message": "Localhost 8545"
   },
+  "login": {
+    "message": "Entrar"
+  },
   "logout": {
-    "message": "Log out"
+    "message": "Sair"
   },
   "loose": {
-    "message": "Loose"
+    "message": "Vago"
+  },
+  "loweCaseWords": {
+    "message": "palavras da seed apenas têm caracteres minúsculos"
   },
   "mainnet": {
-    "message": "Main LBR Network"
+    "message": "Rede Principal de LBR"
   },
   "message": {
-    "message": "Mensahe"
+    "message": "Mensagem"
+  },
+  "metamaskDescription": {
+    "message": "O MetaMask é um lugar seguro para guardar a sua identidade em em LBR."
   },
   "min": {
-    "message": "Minimum"
+    "message": "Mínimo"
   },
   "myAccounts": {
-    "message": "Aking mga Account"
+    "message": "As minhas contas"
+  },
+  "mustSelectOne": {
+    "message": "Deve escolher no mínimo 1 token."
   },
   "needMcInWallet": {
-    "message": "Upang makipag-ugnayan sa decentralized applications gamit ang MetaMask, kakailanganin mo ng Ether sa iyong wallet."
+    "message": "Para interagir com applicações descentralizadas usando MetaMask tem de ter Ether na sua carteira."
   },
   "needImportFile": {
-    "message": "Dapat kang pumili ng file para i-import.",
-    "description": "Ang user ay nag-iimport ng account at kailangan magdagdag ng file upang tumuloy"
+    "message": "Deve selecionar um ficheiro para importar.",
+    "description": "O utilizador deve adicionar um ficheiro para continuar"
   },
   "needImportPassword": {
-    "message": "Dapat mong i-enter ang password para sa napiling file.",
-    "description": "Password at file na kailangan upang ma-import ang account"
+    "message": "Deve introduzir uma palavra-passe para o ficheiro selecionado.",
+    "description": "Palavra-passe e ficheiro necessários para importar uma conta"
+  },
+  "negativeETH": {
+    "message": "Não é possível enviar valores negativos de ETH."
   },
   "networks": {
-    "message": "Networks"
+    "message": "Redes"
   },
   "newAccount": {
-    "message": "Bagong Account"
+    "message": "Conta Nova"
   },
   "newAccountNumberName": {
-    "message": "Account $1",
-    "description": "Ang default na pangalan ng susunod na account na gagawin sa create account screen"
+    "message": "Conta $1",
+    "description": "Nome padrão da próxima conta a ser criado em Criar Conta"
   },
   "newContract": {
-    "message": "Bagong Contract"
+    "message": "Contrato Novo"
   },
   "newPassword": {
-    "message": "Bagong Password (min 8 chars)"
+    "message": "Nova Palavra-passe (min 8 caracteres)"
   },
   "newRecipient": {
-    "message": "Bagong Recipient"
+    "message": "Recipiente Novo"
+  },
+  "newRPC": {
+    "message": "Novo RPC URL"
   },
   "next": {
-    "message": "Sunod"
+    "message": "Próximo"
   },
   "noAddressForName": {
-    "message": "Walang naka-set na address para sa pangalang ito."
+    "message": "Nenhum endereço foi estabelecido para este nome."
   },
   "noDeposits": {
-    "message": "Walang natanggap na mga deposito"
+    "message": "Sem depósitos recebidos"
   },
   "noTransactionHistory": {
-    "message": "Walang kasaysayan ng transaksyon."
+    "message": "Sem histórico de transações."
   },
   "noTransactions": {
-    "message": "Walang mga Transaksyon"
+    "message": "Sem Transações"
   },
   "notStarted": {
-    "message": "Hindi Sinimulan"
+    "message": "Não Iniciado"
   },
   "oldUI": {
-    "message": "Lumang UI"
+    "message": "UI Antigo"
   },
   "oldUIMessage": {
-    "message": "Ikaw ay bumalik sa lumang UI. Maaari kang bumalik sa bagong UI mula sa isang opsyon sa dropdown menu na matatagpuan sa bandang taas at kanan."
+    "message": "Voltou para o UI antigo. Pode reverter para o Novo UI através da opção no menu do topo direito."
   },
   "or": {
-    "message": "o",
-    "description": "Pagpili sa pagitan ng paggawa of pag-import ng bagong account"
+    "message": "ou",
+    "description": "opção entre criar ou importar uma nova conta"
+  },
+  "passwordCorrect": {
+    "message": "Por favor confirme que a sua palavra-passe esteja correta."
   },
   "passwordMismatch": {
-    "message": "hindi nagtugma ang mga password",
-    "description": "Sa proseso ng paggawa ng password, ang dalawang password fields ay hindi nagtugma"
+    "message": "as palavras-passe não coincidem",
+    "description": "no processo de criação da palavra-passe, as duas palavras-passe não coincidiram"
   },
   "passwordShort": {
-    "message": "hindi sapat ang haba ng password",
-    "description": "Sa proseso ng paggawa ng password, ang password ay hindi in password creation process, hind sapat ang haba ng password upang maging ligtas"
+    "message": "palavra-passe deve ser mais comprida",
+    "description": "no processo de criação da palavra-passe, a palavra-apasse não é longa o suficiente para ser segura"
   },
   "pastePrivateKey": {
-    "message": "I-paste dito ang iyong private key string:",
-    "description": "Para sa pag-import ng account mula sa private key"
+    "message": "Cole aqui a sua chave privada:",
+    "description": "Para importar uma conta através da chave privada"
   },
   "pasteSeed": {
-    "message": "I-paste dito ang iyong seed phrase!"
+    "message": "Cole aqui a sua frase seed!"
+  },
+  "personalAddressDetected": {
+    "message": "Endereço pessoal detectado. Introduza o endereço do contrato do token."
   },
   "pleaseReviewTransaction": {
-    "message": "Mangyaring suriin ang iyong transaksyon."
+    "message": "Por favor reveja a sua transação."
+  },
+  "privacyMsg": {
+    "message": "Política de Privacidade"
   },
   "privateKey": {
-    "message": "Private Key",
-    "description": "Piliin ang ganitong type ng file upang gamitin sa pag-import ng account"
+    "message": "Chave Privada",
+    "description": "Selecione este tipo de ficheiro para importar uma conta"
   },
   "privateKeyWarning": {
-    "message": "Babala: Huwag sabihin sa kahit na sino ang key na ito. Maaring makuha at manakaw ng sinumang nakakaalam ng iyong private key ang mga assets sa iyong account."
+    "message": "Atenção: Nunca revele esta chave. Qualquer pessoa com acesso à sua chave privada pode roubar os bens que esta contém."
   },
   "privateNetwork": {
-    "message": "Pribadong Network"
+    "message": "Rede Privada"
   },
   "qrCode": {
-    "message": "Ipakita ang QR Code"
+    "message": "Mostrar Código QR"
   },
   "readdToken": {
-    "message": "Upang muling idagdag ang token na ito, pumunta sa “Magdagdag ng Token” sa options menu ng iyong account."
+    "message": "Pode adicionar este token de novo clicando na opção “Adicionar token” no menu de opções da sua conta."
   },
   "readMore": {
-    "message": "Alamin ang iba pang impormasyon dito."
+    "message": "Ler mais aqui."
+  },
+  "readMore2": {
+    "message": "Ler mais."
   },
   "receive": {
-    "message": "Tanggapin"
+    "message": "Receber"
   },
   "recipientAddress": {
-    "message": "Address ng Tatanggap"
+    "message": "Endereço do Destinatário"
   },
   "refundAddress": {
-    "message": "Ang Iyong Refund Address"
+    "message": "O seu endereço de reembolso"
   },
   "rejected": {
-    "message": "Tinanggihan"
+    "message": "Rejeitado"
+  },
+  "resetAccount": {
+    "message": "Reinicializar Conta"
+  },
+  "restoreFromSeed": {
+    "message": "Restaurar a partir da frase seed"
   },
   "required": {
-    "message": "Kailangan"
+    "message": "Necessário"
   },
   "retryWithMoreGas": {
-    "message": "Muling subukan ng may mas mataas na gas price dito"
+    "message": "Tentar novamente com um preço mais elevado aqui"
+  },
+  "revealSeedWords": {
+    "message": "Revelar Palavras Seed"
+  },
+  "revealSeedWordsWarning": {
+    "message": "Não revele as palavras seed num espaço público! Estas palavras podem ser usadas para roubar todas as suas contas."
   },
   "revert": {
-    "message": "Ibalik"
+    "message": "Reverter"
   },
   "rinkeby": {
-    "message": "Rinkeby Test Network"
+    "message": "Rede de Teste Rinkeby"
   },
   "ropsten": {
-    "message": "Ropsten Test Network"
+    "message": "Rede de Teste Ropsten"
   },
   "sampleAccountName": {
-    "message": "Halimbawa: Ang aking bagong account",
-    "description": "Tulungan ang user na intindihin ang konsepto ng pagdagdag ng human-readable name sa kanilang account"
+    "message": "Ex. A minha conta nova",
+    "description": "Ajuda o utilizador a perceber o conceito de adicionar um  nome legível à sua conta"
   },
   "save": {
-    "message": "I-save"
+    "message": "Guardar"
   },
   "saveAsFile": {
-    "message": "I-save bilang File",
-    "description": "Proseso sa pag-export ng Account"
+    "message": "Guardar como Ficheiro",
+    "description": "Processo de exportação de conta"
+  },
+  "saveSeedAsFile": {
+    "message": "Guardar Palavras Seed como um Ficheiro"
+  },
+  "search": {
+    "message": "Procurar"
+  },
+  "secretPhrase": {
+    "message": "Introduza a sua frase secreta de 12 palavras para recuperar o seu ."
+  },
+  "seedPhraseReq": {
+    "message": "seed phrases are 12 words long"
+  },
+  "select": {
+    "message": "Selecionar"
+  },
+  "selectCurrency": {
+    "message": "Selecionar Moeda"
   },
   "selectService": {
-    "message": "Piliin ang Service"
+    "message": "Selecionar Serviço"
+  },
+  "selectType": {
+    "message": "Selecionar Tipo"
   },
   "send": {
-    "message": "Magpadala"
+    "message": "Enviar"
+  },
+  "sendMC": {
+    "message": "Enviar ETH"
   },
   "sendTokens": {
-    "message": "Magpadala ng Tokens"
+    "message": "Enviar Tokens"
   },
   "sendTokensAnywhere": {
-    "message": "Magpadala ng Tokens sa sinumang may LBR account"
+    "message": "Enviar Tokens para qualquer pessoa com uma conta LBR"
   },
   "settings": {
-    "message": "Mga Setting"
+    "message": "Definições"
   },
   "shapeshiftBuy": {
-    "message": "Bumili gamit ang Shapeshift"
+    "message": "Comprar com Shapeshift"
   },
   "showPrivateKeys": {
-    "message": "Ipakita ang Private Keys"
+    "message": "Mostrar Chaves Privadas"
   },
   "showQRCode": {
-    "message": "Ipakita ang QR Code"
+    "message": "Mostrar Código QR"
   },
   "sign": {
-    "message": "I-sign"
+    "message": "Assinar"
   },
   "signMessage": {
-    "message": "I-sign ang mensahe"
+    "message": "Assinar Mensagem"
   },
   "signNotice": {
-    "message": "Ang pag-sign ng mensaheng ito ay maaring magdulot ng mapanganib na epekto. I-sign lamang ang mga mensahe mula sa mga site na pinagkakatiwalaan mo ng iyong account. Ang mapanganib na paraang ito ay aalisin sa isa sa mga susunod na bersyon. "
+    "message": "Assinar esta mensagem pode ter \nefeitos laterais perigosos. Apenas assine mensagens de sites que \ntotalmente confia com a sua conta total.\n Este método perigoso será removido numa versão posterior."
   },
   "sigRequest": {
-    "message": "Hiling na Signature"
+    "message": "Pedido de Assinatura"
   },
   "sigRequested": {
-    "message": "Hiniling ang Signature"
+    "message": "Assinatura Pedida"
+  },
+  "spaceBetween": {
+    "message": "só pode haver um espaço entre palavras"
   },
   "status": {
-    "message": "Istado"
+    "message": "Estado"
+  },
+  "stateLogs": {
+    "message": "Registos de Estado"
+  },
+  "stateLogsDescription": {
+    "message": "Registo de estado podem conter o seu endereço e transações enviadas da sua conta pública."
   },
   "submit": {
-    "message": "I-submit"
+    "message": "Submeter"
+  },
+  "supportCenter": {
+    "message": "Visitar o nosso Centro de Suporte"
+  },
+  "symbolBetweenZeroTen": {
+    "message": "Símbolo deve conter entre 0 e 10 characters."
   },
   "takesTooLong": {
-    "message": "Masyadong matagal?"
+    "message": "A demorar muito?"
+  },
+  "terms": {
+    "message": "Termos de Uso"
   },
   "testFaucet": {
-    "message": "Test Faucet"
+    "message": "Faucet de Teste"
   },
   "to": {
-    "message": "To"
+    "message": "Para"
   },
   "toETHviaShapeShift": {
-    "message": "$1 sa ETH sa pamamagitan ng ShapeShift",
-    "description": "Pupunan ng system ang deposit type sa simula ng mensahe"
+    "message": "$1 para ETH via ShapeShift",
+    "description": "o sistema irá preencher o tipo de depósito no início da mensagem"
+  },
+  "tokenAddress": {
+    "message": "Endereço do Token"
+  },
+  "tokenAlreadyAdded": {
+    "message": "Token já foi adicionado."
   },
   "tokenBalance": {
-    "message": "Ang iyong Token Balance ay:"
+    "message": "O seu balanço é:"
+  },
+  "tokenSelection": {
+    "message": "Procure por tokens ou seleccione da nossa lista de tokens populares."
+  },
+  "tokenSymbol": {
+    "message": "Símbolo do Token"
+  },
+  "tokenWarning1": {
+    "message": "Registe os tokens que comprou com a sua conta MetaMask. Se comprou tokens utilizando uma conta diferente, esses tokens não irão aparecer aqui."
   },
   "total": {
-    "message": "Kabuuan"
+    "message": "Total"
+  },
+  "transactions": {
+    "message": "transações"
   },
   "transactionMemo": {
-    "message": "Memo ng transaksyon (opsyonal)"
+    "message": "Notas da transação (opcional)"
   },
   "transactionNumber": {
-    "message": "Numero ng Transaksyon"
+    "message": "Número da Transação"
   },
   "transfers": {
-    "message": "Mga Inilipat"
+    "message": "Transferências"
   },
   "troubleTokenBalances": {
-    "message": "Nagkaroon kami ng problema sa paglo-load ng iyong mga balanseng token. Tingnan ito dito ",
-    "description": "Susundan ng link (dito) para tingnan ang token balances"
+    "message": "Tivemos um problema a carregar o balanço dos seus tokens. Pode vê-los em ",
+    "description": "Seguido de um link (aqui) para ver o balanço dos seus tokens"
+  },
+  "twelveWords": {
+    "message": "Estas 12 palavras são a única forma de recuperar as suas contas na MetaMask.\nGuarde-as num local seguro e secreto."
   },
   "typePassword": {
-    "message": "I-type ang iyong Password"
+    "message": "Digite a sua Palavra-passe"
   },
   "uiWelcome": {
-    "message": "Maligayang pagdating sa Bagong UI (Beta)"
+    "message": "Bem-vindo ao seu Novo UI (Beta)"
   },
   "uiWelcomeMessage": {
-    "message": "Ginagamit mo na ngayon ang bagong MetaMask UI. I-explore at subukan ang mga bagong features tulad ng pagpapadala ng mga token, at ipaalam sa amin kung mayroon kang anumang mga isyu."
+    "message": "Está agora a usar o novo UI da MetaMask. Dê uma vista de olhos, experimenta as novas funcionalidades como enviar tokens e diga-nos se tiver algum problema."
   },
   "unavailable": {
-    "message": "Hindi Magagamit"
+    "message": "Indisponível"
   },
   "unknown": {
-    "message": "Hindi Alam"
+    "message": "Desconhecido"
   },
   "unknownNetwork": {
-    "message": "Hindi Alam ang Pribadong Network"
+    "message": "Rede Privada Desconhecida"
   },
   "unknownNetworkId": {
-    "message": "Hindi alam ang network ID"
+    "message": "Identificador da rede desconhecido"
+  },
+  "uriErrorMsg": {
+    "message": "Links requerem o prefixo HTTP/HTTPS apropriado."
   },
   "usaOnly": {
-    "message": "USA lamang",
-    "description": "Ang paggamit ng exchange na ito ay limitado sa mga tao sa loob ng Estados Unidos"
+    "message": "Só nos EUA",
+    "description": "Usar esta taxa de câmbio está limitado a pessoas residentes nos EUA"
   },
   "usedByClients": {
-    "message": "Ginagamit ng iba't ibang mga clients"
+    "message": "Utilizado por vários tipos de clientes"
+  },
+  "useOldUI": {
+    "message": "Utilizar UI antigo"
+  },
+  "validFileImport": {
+    "message": "Deve selecionar um ficheiro válido para importar."
+  },
+  "vaultCreated": {
+    "message": "Cofre Criado"
   },
   "viewAccount": {
-    "message": "Tingnan ang Account"
+    "message": "Ver Conta"
   },
+  "visitWebSite": {
+    "message": "Visite o nosso site"
+  }, 
   "warning": {
-    "message": "Babala"
+    "message": "Aviso"
+  },
+  "welcomeBeta": {
+    "message": "Bem-vindo ao MetaMask Beta"
   },
   "whatsThis": {
-    "message": "Ano ito?"
+    "message": "O que é isto?"
   },
   "yourSigRequested": {
-    "message": "Hinihiling ang iyong signature"
+    "message": "A sua assinatura está a ser pedida"
   },
   "youSign": {
-    "message": "Ikaw ay nagsa-sign"
+    "message": "Está a assinar"
   }
 }
