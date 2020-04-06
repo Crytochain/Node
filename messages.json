@@ -1,609 +1,819 @@
 ﻿{
   "accept": {
-    "message": "수락"
+    "message": "Aanvaarden"
   },
   "account": {
-    "message": "계좌"
+    "message": "Account"
   },
   "accountDetails": {
-    "message": "계좌 상세보기"
+    "message": "Accountgegevens"
   },
   "accountName": {
-    "message": "계좌 이름"
+    "message": "Accountnaam"
   },
   "address": {
-    "message": "주소"
+    "message": "Adres"
+  },
+  "addCustomToken": {
+    "message": "Aangepaste token toevoegen"
   },
   "addToken": {
-    "message": "토큰 추가"
+    "message": "Voeg token toe"
+  },
+  "addTokens": {
+    "message": "Tokens toevoegen"
   },
   "amount": {
-    "message": "금액"
+    "message": "Bedrag"
   },
   "amountPlusGas": {
-    "message": "금액 + 가스"
+    "message": "Bedrag + gas"
   },
   "appDescription": {
-    "message": "이더리움 브라우저 확장 프로그램",
-    "description": "어플리케이션 내용"
+    "message": "LBR Browser-extensie",
+    "description": "De beschrijving van de applicatie"
   },
   "appName": {
-    "message": "메타마스크",
-    "description": "어플리케이션 이름"
+    "message": "MetaMask",
+    "description": "De naam van de applicatie"
   },
   "attemptingConnect": {
-    "message": "블록체인에 접속 시도 중입니다."
+    "message": "Poging om verbinding te maken met blockchain."
+  },
+  "attributions": {
+    "message": "Bevoegdheden"
   },
   "available": {
-    "message": "사용 가능한"
+    "message": "Beschikbaar"
   },
   "back": {
-    "message": "뒤로"
+    "message": "Terug"
   },
   "balance": {
-    "message": "잔액:"
+    "message": "Balans:"
+  },
+  "balances": {
+    "message": "Je saldo"
   },
   "balanceIsInsufficientGas": {
-    "message": "가스가 충분하지 않습니다."
+    "message": "Onvoldoende saldo voor huidig ​​gastotaal"
   },
   "beta": {
-    "message": "베타"
+    "message": "BETA"
   },
   "betweenMinAndMax": {
-    "message": "$1 이상 $2 이하여야 합니다.",
-    "description": "helper for inputting hex as decimal input"
+    "message": "moet groter zijn dan of gelijk zijn aan $1 en kleiner dan of gelijk aan $2.",
+    "description": "helper voor het invoeren van hex als decimale invoer"
+  },
+  "blockiesIdenticon": {
+    "message": "Gebruik Blockies Identicon"
   },
   "borrowDharma": {
-    "message": "Dharma에서 빌리기(베타)"
+    "message": "Lenen met Dharma (Beta)"
+  },
+  "builtInCalifornia": {
+    "message": "MetaMask is ontworpen en gebouwd in Californië."
   },
   "buy": {
-    "message": "구매"
+    "message": "Kopen"
   },
   "buyCoinbene": {
-    "message": "코인베이스에서 구매"
+    "message": "Koop op Coinbase"
   },
   "buyCoinbeneExplainer": {
-    "message": "코인베이스에서 비트코인, 이더리움, 라이트코인을 구매하실 수 있습니다."
+    "message": "Coinbase is 's werelds populairste manier om bitcoin, LBR en litecoin te kopen en verkopen."
   },
   "cancel": {
-    "message": "취소"
+    "message": "Annuleer"
+  },
+  "classicInterface": {
+    "message": "Gebruik de klassieke interface"
   },
   "clickCopy": {
-    "message": "클릭하여 복사"
+    "message": "Klik om te kopiëren"
   },
   "confirm": {
-    "message": "승인"
+    "message": "Bevestigen"
   },
   "confirmContract": {
-    "message": "컨트랙트 승인"
+    "message": "Contract bevestigen"
   },
   "confirmPassword": {
-    "message": "패스워드 승인"
+    "message": "bevestig wachtwoord"
   },
   "confirmTransaction": {
-    "message": "트랜잭션 승인"
+    "message": "Bevestig transactie"
+  },
+  "continue": {
+    "message": "Doorgaan met"
   },
   "continueToCoinbase": {
-    "message": "코인베이스로 계속하기"
+    "message": "Ga verder naar Coinbase"
   },
   "contractDeployment": {
-    "message": "컨트랙트 배포"
+    "message": "Contractimplementatie"
   },
   "conversionProgress": {
-    "message": "변환중.."
+    "message": "Bezig met conversie"
   },
   "copiedButton": {
-    "message": "복사되었습니다."
+    "message": "gekopieerde"
   },
   "copiedClipboard": {
-    "message": "클립보드에 복사되었습니다."
+    "message": "Gekopieerd naar het klembord"
   },
   "copiedExclamation": {
-    "message": "복사되었습니다."
+    "message": "Gekopieerde!"
+  },
+  "copiedSafe": {
+    "message": "Ik heb het ergens veilig gekopieerd"
   },
   "copy": {
-    "message": "복사하기"
+    "message": "Kopiëren"
   },
   "copyToClipboard": {
-    "message": "클립보드에 복사"
+    "message": "Kopieer naar klembord"
   },
   "copyButton": {
-    "message": " 복사 "
+    "message": " Kopiëren "
   },
   "copyPrivateKey": {
-    "message": "비밀 키 (클릭하여 복사)"
+    "message": "Dit is uw privésleutel (klik om te kopiëren)"
   },
   "create": {
-    "message": "생성"
+    "message": "creëren"
   },
   "createAccount": {
-    "message": "계좌 생성"
+    "message": "Account aanmaken"
   },
   "createDen": {
-    "message": "생성"
+    "message": "creëren"
   },
   "crypto": {
-    "message": "암호화폐",
-    "description": "Exchange type (cryptocurrencies)"
+    "message": "crypto",
+    "description": "Ruiltype (cryptocurrencies)"
+  },
+  "currentConversion": {
+    "message": "Huidige conversie"
+  },
+  "currentNetwork": {
+    "message": "Huidig ​​netwerk"
   },
   "customGas": {
-    "message": "가스 설정"
+    "message": "Pas Gas aan"
   },
   "customize": {
-    "message": "커스터마이즈"
+    "message": "Aanpassen"
   },
   "customRPC": {
-    "message": "커스텀 RPC"
+    "message": "Aangepaste RPC"
+  },
+  "decimalsMustZerotoTen": {
+    "message": "Decimalen moeten minimaal 0 en niet meer dan 36 zijn."
+  },
+  "decimal": {
+    "message": "Decimalen van precisie"
   },
   "defaultNetwork": {
-    "message": "이더리움 트랜잭션의 기본 네트워크는 메인넷입니다."
+    "message": "Het standaardnetwerk voor Ether-transacties is Main Net."
   },
   "denExplainer": {
-    "message": "DEN은 비밀번호가 암호화 된 MetaMask의 스토리지입니다."
+    "message": "Uw DEN is uw wachtwoord-gecodeerde opslag binnen MetaMask."
   },
   "deposit": {
-    "message": "입금"
+    "message": "Storting"
   },
   "depositBTC": {
-    "message": "아래 주소로 BTC를 입급해주세요."
+    "message": "Stort uw BTC op het onderstaande adres:"
   },
   "depositCoin": {
-    "message": "아래 주소로 $1를 입금해주세요.",
-    "description": "Tells the user what coin they have selected to deposit with shapeshift"
+    "message": "Stort uw $1 op het onderstaande adres",
+    "description": "Laat de gebruiker weten welk muntje ze hebben geselecteerd om te deponeren met shapeshift"
   },
   "depositEth": {
-    "message": "이더 입금"
+    "message": "Aanbetaling Eth"
   },
   "depositMc": {
-    "message": "이더 입금"
+    "message": "Stort Ether"
   },
   "depositFiat": {
-    "message": "현금으로 입금하기"
+    "message": "Stort met Fiat"
   },
   "depositFromAccount": {
-    "message": "다른 주소에서 입금하기"
+    "message": "Storten van een ander account"
   },
   "depositShapeShift": {
-    "message": "ShapeShift를 통해 입금하기"
+    "message": "Stort met ShapeShift"
   },
   "depositShapeShiftExplainer": {
-    "message": "다른 암호화폐를 가지고 있으면, 계좌 생성 필요없이, 거래를 하거나 메타마스크 지갑을 통해 이더를 입금할 수 있습니다."
+    "message": "Als u andere cryptocurrencies bezit, kunt u Ether direct in uw MetaMask-portemonnee ruilen en storten. Geen account nodig."
   },
   "details": {
-    "message": "상세"
+    "message": "Details"
   },
   "directDeposit": {
-    "message": "즉시 입금"
+    "message": "Directe storting"
   },
   "directDepositMc": {
-    "message": "이더 즉시 입금"
+    "message": "Directe Ether storten"
   },
   "directDepositEtherExplainer": {
-    "message": "이더를 이미 보유하고 있다면, 직접 입금을 통해 이더를 즉시 입금하실 수 있습니다."
+    "message": "Als je al wat Ether hebt, de snelste manier om Ether in je nieuwe portemonnee te krijgen door een directe storting."
   },
   "done": {
-    "message": "완료"
+    "message": "Gedaan"
+  },
+  "downloadStateLogs": {
+    "message": "Staatslogboeken downloaden"
   },
   "edit": {
-    "message": "수정"
+    "message": "Bewerk"
   },
   "editAccountName": {
-    "message": "계좌명 수정"
+    "message": "Bewerk accountnaam"
+  },
+  "emailUs": {
+    "message": "Email ons!"
   },
   "encryptNewDen": {
-    "message": "새 DEN 암호화"
+    "message": "Versleutel je nieuwe DEN"
   },
   "enterPassword": {
-    "message": "패스워드를 입력해주세요."
+    "message": "Voer wachtwoord in"
+  },
+  "enterPasswordConfirm": {
+    "message": "Voer uw wachtwoord in om te bevestigen"
   },
   "LBRExplorerView": {
-    "message": "이더스캔에서 계좌보기"
+    "message": "Bekijk account op Etherscan"
   },
   "exchangeRate": {
-    "message": "환율"
+    "message": "Wisselkoers"
   },
   "exportPrivateKey": {
-    "message": "비밀키 내보내기"
+    "message": "Exporteer privésleutel"
   },
   "exportPrivateKeyWarning": {
-    "message": "Export private keys at your own risk."
+    "message": "Exporteer privésleutels op eigen risico."
   },
   "failed": {
-    "message": "실패"
+    "message": "mislukt"
   },
   "fiat": {
     "message": "FIAT",
-    "description": "Exchange type"
+    "description": "Ruiltype"
   },
   "fileImportFail": {
-    "message": "파일을 가져올 수 없나요? 여기를 클릭해주세요!",
-    "description": "Helps user import their account from a JSON file"
+    "message": "Bestandsimport werkt niet? Klik hier!",
+    "description": "Helpt de gebruiker om zijn account vanuit een JSON-bestand te importeren"
+  },
+  "followTwitter": {
+    "message": "Volg ons op Twitter"
   },
   "from": {
-    "message": "보내는 사람"
+    "message": "Van"
+  },
+  "fromToSame": {
+    "message": "Van en naar adres kan niet hetzelfde zijn"
   },
   "fromShapeShift": {
-    "message": "ShapeShift로 부터"
+    "message": "Van ShapeShift"
   },
   "gas": {
-    "message": "가스",
-    "description": "Short indication of gas cost"
+    "message": "Gas",
+    "description": "Korte indicatie van gaskosten"
   },
   "gasFee": {
-    "message": "가스 수수료"
+    "message": "Gas vergoeding"
   },
   "gasLimit": {
-    "message": "가스 리밋"
+    "message": "Gaslimiet"
   },
   "gasLimitCalculation": {
-    "message": "네트워크 성공률을 기반으로 적합한 가스 리밋을 계산합니다."
+    "message": "We berekenen de voorgestelde gaslimiet op basis van succespercentages van het netwerk."
   },
   "gasLimitRequired": {
-    "message": "가스 리밋이 필요합니다."
+    "message": "Gaslimiet vereist"
   },
   "gasLimitTooLow": {
-    "message": "가스 리밋은 21000 이상이여야 합니다."
+    "message": "De gaslimiet moet minstens 21000 zijn"
+  },
+  "generatingSeed": {
+    "message": "Back-up woorden produceren ..."
   },
   "gasPrice": {
-    "message": "가스 가격 (GWEI)"
+    "message": "Gasprijs (GWEI)"
   },
   "gasPriceCalculation": {
-    "message": "네트워크 성공률을 기반으로 적합한 가스 가격을 계산합니다."
+    "message": "We berekenen de voorgestelde gasprijzen op basis van succespercentages van het netwerk."
   },
   "gasPriceRequired": {
-    "message": "가스 가격이 필요합니다."
+    "message": "Gasprijs vereist"
   },
   "getMc": {
-    "message": "이더 얻기"
+    "message": "Krijg Ether"
   },
   "getEtherFromFaucet": {
-    "message": "faucet에서 $1에 달하는 이더를 얻으세요.",
-    "description": "Displays network name for Ether faucet"
+    "message": "Haal Ether uit een kraan voor de $1",
+    "description": "Geeft de netwerknaam voor Ether-kraan weer"
   },
   "greaterThanMin": {
-    "message": "$1 이상이어야 합니다.",
-    "description": "helper for inputting hex as decimal input"
+    "message": "moet groter zijn dan of gelijk zijn aan $1.",
+    "description": "helper voor het invoeren van hex als decimale invoer"
   },
   "here": {
-    "message": "여기",
-    "description": "as in -click here- for more information (goes with troubleTokenBalances)"
+    "message": "hier",
+    "description": "zoals in -klik hier- voor meer informatie (gaat met troubleTokenBalances)"
+  },
+  "hereList": {
+    "message": "Hier is een lijst !!!!"
   },
   "hide": {
-    "message": "숨기기"
+    "message": "Verbergen"
   },
   "hideToken": {
-    "message": "토큰 숨기기"
+    "message": "Token verbergen"
   },
   "hideTokenPrompt": {
-    "message": "토큰 숨기기?"
+    "message": "Token verbergen?"
   },
   "howToDeposit": {
-    "message": "어떤 방법으로 이더를 입금하시겠습니까?"
+    "message": "Hoe zou je Ether willen deponeren?"
+  },
+  "holdEther": {
+    "message": "Hiermee kunt u ether & tokens bewaren en dient u als brug naar gedecentraliseerde applicaties."
   },
   "import": {
-    "message": "파일에서 가져오기",
-    "description": "Button to import an account from a selected file"
+    "message": "Importeren",
+    "description": "Knop om een ​​account uit een geselecteerd bestand te importeren"
   },
   "importAccount": {
-    "message": "계좌 가져오기"
+    "message": "Account importeren"
+  },
+  "importAccountMsg": {
+    "message":" Geïmporteerde accounts worden niet gekoppeld aan de seedphrase van uw oorspronkelijk gemaakte MetaMask-account. Meer informatie over geïmporteerde accounts"
   },
   "importAnAccount": {
-    "message": "계좌 가져오기"
+    "message": "Importeer een account"
   },
   "importDen": {
-    "message": "기존 DEN 가져오기"
+    "message": "Bestaande DEN importeren"
   },
   "imported": {
-    "message": "가져오기 완료",
-    "description": "status showing that an account has been fully loaded into the keyring"
+    "message": "geïmporteerde",
+    "description": "status die aantoont dat een account volledig in de sleutelring is geladen"
   },
   "infoHelp": {
-    "message": "정보 및 도움말"
+    "message": "Info en hulp"
+  },
+  "insufficientFunds": {
+    "message": "Onvoldoende fondsen."
+  },
+  "insufficientTokens": {
+    "message": "Onvoldoende tokens."
   },
   "invalidAddress": {
-    "message": "유효하지 않은 주소"
+    "message": "Ongeldig adres"
+  },
+  "invalidAddressRecipient": {
+    "message": "Het adres van de ontvanger is ongeldig"
   },
   "invalidGasParams": {
-    "message": "유효하지 않은 가스 입력값"
+    "message": "Ongeldige gasparameters"
   },
   "invalidInput": {
-    "message": "유효하지 않은 입력값"
+    "message": "Ongeldige invoer."
   },
   "invalidRequest": {
-    "message": "유효하지 않은 요청"
+    "message": "ongeldig verzoek"
+  },
+  "invalidRPC": {
+    "message": "Ongeldige RPC-URI"
+  },
+  "jsonFail": {
+    "message": "Er is iets fout gegaan. Zorg ervoor dat uw JSON-bestand correct is opgemaakt."
   },
   "jsonFile": {
-    "message": "JSON 파일",
-    "description": "format for importing an account"
+    "message": "JSON-bestand",
+    "description": "formaat voor het importeren van een account"
   },
   "kovan": {
-    "message": "Kovan 테스트넷"
+    "message": "Kovan-testnetwerk"
+  },
+  "knowledgeDataBase": {
+    "message": "Bezoek onze Knowledge Base"
   },
   "lessThanMax": {
-    "message": "$1 이하여야합니다.",
-    "description": "helper for inputting hex as decimal input"
+    "message": "moet kleiner zijn dan of gelijk zijn aan $1.",
+    "description": "helper voor het invoeren van hex als decimale invoer"
+  },
+  "likeToAddTokens": {
+    "message": "Wil je deze tokens toevoegen?"
   },
   "limit": {
-    "message": "리밋"
+    "message": "Begrenzing"
   },
   "loading": {
-    "message": "로딩중..."
+    "message": "Bezig met laden..."
   },
   "loadingTokens": {
-    "message": "토큰 로딩중..."
+    "message": "Tokens laden ..."
   },
   "localhost": {
-    "message": "로컬호스트 8545"
+    "message": "Localhost 8545"
+  },
+  "login": {
+    "message": "Log in"
   },
   "logout": {
-    "message": "로그아웃"
+    "message": "Uitloggen"
   },
   "loose": {
-    "message": "외부 비밀키"
+    "message": "Los"
+  },
+  "loweCaseWords": {
+    "message": "back-up woorden hebben alleen kleine letters"
   },
   "mainnet": {
-    "message": "이더리움 메인넷"
+    "message": "belangrijkste LBR-netwerk"
   },
   "message": {
-    "message": "메시지"
+    "message": "Bericht"
+  },
+  "metamaskDescription": {
+    "message": "MetaMask is een veilige identiteitskluis voor LBR."
   },
   "min": {
-    "message": "최소"
+    "message": "Minimum"
   },
   "myAccounts": {
-    "message": "내 계좌"
+    "message": "Mijn accounts"
+  },
+  "mustSelectOne": {
+    "message": "Moet ten minste één token selecteren."
   },
   "needMcInWallet": {
-    "message": "dApp을 이용하기 위해서는 지갑에 이더가 있어야 합니다."
+    "message": "Om te communiceren met gedecentraliseerde applicaties met MetaMask, heb je Ether nodig in je portemonnee."
   },
   "needImportFile": {
-    "message": "가져올 파일을 선택해주세요.",
-    "description": "User is important an account and needs to add a file to continue"
+    "message": "U moet een bestand selecteren om te importeren.",
+    "description": "Gebruiker is belangrijk een account en moet een bestand toevoegen om door te gaan"
   },
   "needImportPassword": {
-    "message": "선택 된 파일에 패스워드를 입력해주세요.",
-    "description": "Password and file needed to import an account"
+    "message": "U moet een wachtwoord invoeren voor het geselecteerde bestand.",
+    "description": "Wachtwoord en bestand nodig om een ​​account te importeren"
+  },
+  "negativeETH": {
+    "message": "Kan geen negatieve hoeveelheden ETH verzenden."
   },
   "networks": {
-    "message": "네트워크"
+    "message": "netwerken"
   },
   "newAccount": {
-    "message": "새 계좌"
+    "message": "Nieuw account"
   },
   "newAccountNumberName": {
-    "message": "새 계좌 $1",
-    "description": "Default name of next account to be created on create account screen"
+    "message": "Account $1",
+    "description": "Standaardnaam van de volgende account die moet worden aangemaakt op het scherm voor het maken van een account"
   },
   "newContract": {
-    "message": "새 컨트랙트"
+    "message": "Nieuw contract"
   },
   "newPassword": {
-    "message": "새 패스워드 (최소 8자 이상)"
+    "message": "Nieuw wachtwoord (min 8 tekens)"
   },
   "newRecipient": {
-    "message": "받는 사람"
+    "message": "Nieuwe ontvanger"
+  },
+  "newRPC": {
+    "message": "Nieuwe RPC-URL"
   },
   "next": {
-    "message": "다음"
+    "message": "volgende"
   },
   "noAddressForName": {
-    "message": "이 이름에는 주소가 설정되어 있지 않습니다."
+    "message": "Er is geen adres ingesteld voor deze naam."
   },
   "noDeposits": {
-    "message": "입금이 없습니다."
+    "message": "Geen aanbetalingen ontvangen"
   },
   "noTransactionHistory": {
-    "message": "트랜잭션 기록이 없습니다."
+    "message": "Geen transactiegeschiedenis."
   },
   "noTransactions": {
-    "message": "트랜잭션이 없습니다."
+    "message": "Geen transacties"
   },
   "notStarted": {
-    "message": "시작되지 않음."
+    "message": "Niet begonnen"
   },
   "oldUI": {
-    "message": "구버전의 UI"
+    "message": "Oude gebruikersinterface"
   },
   "oldUIMessage": {
-    "message": "구버전 UI로 변경하셨습니다. 우 상단 드랍다운 메뉴에서 새 UI로 변경하실 수 있습니다."
+    "message": "U bent teruggekeerd naar de oude gebruikersinterface. U kunt terugschakelen naar de nieuwe gebruikersinterface via de optie in het vervolgkeuzemenu in de rechterbovenhoek."
   },
   "or": {
-    "message": "또는",
-    "description": "choice between creating or importing a new account"
+    "message": "of",
+    "description": "keuze tussen het maken of importeren van een nieuw account"
+  },
+  "passwordCorrect": {
+    "message": "Zorg ervoor dat uw wachtwoord correct is."
   },
   "passwordMismatch": {
-    "message": "패스워드가 일치하지 않습니다.",
-    "description": "in password creation process, the two new password fields did not match"
+    "message": "wachtwoorden komen niet overeen",
+    "description": "bij het maken van het wachtwoord kwamen de twee nieuwe wachtwoordvelden niet overeen"
   },
   "passwordShort": {
-    "message": "패스워드가 너무 짧습니다.",
-    "description": "in password creation process, the password is not long enough to be secure"
+    "message": "wachtwoord niet lang genoeg",
+    "description": "bij het maken van het wachtwoord is het wachtwoord niet lang genoeg om veilig te zijn"
   },
   "pastePrivateKey": {
-    "message": "비밀키를 입력해주세요.",
-    "description": "For importing an account from a private key"
+    "message": "Plak hier uw privésleutelstring:",
+    "description": "Voor het importeren van een account vanaf een privésleutel"
   },
   "pasteSeed": {
-    "message": "시드 문장들을 붙여넣어주세요."
+    "message": "Plak je back-up woorden hier!"
+  },
+  "personalAddressDetected": {
+    "message": "Persoonlijk adres gedetecteerd. Voer het tokencontractadres in."
   },
   "pleaseReviewTransaction": {
-    "message": "트랜잭션을 검토해주세요."
+    "message": "Controleer uw transactie."
+  },
+  "privacyMsg": {
+    "message": "Privacybeleid"
   },
   "privateKey": {
-    "message": "비밀키",
-    "description": "select this type of file to use to import an account"
+    "message": "Prive sleutel",
+    "description": "selecteer dit type bestand om te gebruiken om een ​​account te importeren"
   },
   "privateKeyWarning": {
-    "message": " 절대 이 키를 노출하지 마십시오. 비밀키가 노출되면 누구나 당신의 계좌에서 자산을 빼갈 수 있습니다."
+    "message": "Waarschuwing: open deze sleutel nooit. Iedereen met uw privésleutels kan stelen van alle items in uw account."
   },
   "privateNetwork": {
-    "message": "프라이빗 네트워크"
+    "message": "Prive netwerk"
   },
   "qrCode": {
-    "message": "QR 코드 보기"
+    "message": "QR-code weergeven"
   },
   "readdToken": {
-    "message": "옵션 메뉴에서 “토큰 추가”를 눌러서 추후에 다시 이 토큰을 추가하실 수 있습니다."
+    "message": "U kunt dit token in de toekomst weer toevoegen door naar \"Token toevoegen\" te gaan in het menu met accountopties."
   },
   "readMore": {
-    "message": "더 읽기."
+    "message": "Lees hier meer."
+  },
+  "readMore2": {
+    "message": "Lees verder."
   },
   "receive": {
-    "message": "받기"
+    "message": "Te ontvangen"
   },
   "recipientAddress": {
-    "message": "받는 사람 주소"
+    "message": "Geadresseerde adres"
   },
   "refundAddress": {
-    "message": "환불받을 주소"
+    "message": "Uw teruggave adres"
   },
   "rejected": {
-    "message": "거부되었음."
+    "message": "Verworpen"
+  },
+  "resetAccount": {
+    "message": "Account opnieuw instellen"
+  },
+  "restoreFromSeed": {
+    "message": "Herstel vanuit back-up woorden"
   },
   "required": {
-    "message": "필요함."
+    "message": "Verplicht"
   },
   "retryWithMoreGas": {
-    "message": "더 높은 가스 가격으로 다시 시도해주세요."
+    "message": "Probeer hier opnieuw met een hogere gasprijs"
+  },
+  "revealSeedWords": {
+    "message": "Onthul back-up woorden"
+  },
+  "revealSeedWordsWarning": {
+    "message": "Zorg dat je back-up woorden niet op een openbare plaats bekijkt! Deze woorden kunnen worden gebruikt om al uw accounts opnieuw te genereren (en dus uw account te stelen)."
   },
   "revert": {
-    "message": "취소"
+    "message": "terugkeren"
   },
   "rinkeby": {
-    "message": "Rinkeby 테스트넷"
+    "message": "Rinkeby testnetwerk"
   },
   "ropsten": {
-    "message": "Ropsten 테스트넷"
+    "message": "Ropsten testnetwerk"
   },
   "sampleAccountName": {
-    "message": "예) 나의 새 계좌",
-    "description": "Help user understand concept of adding a human-readable name to their account"
+    "message": "Bijv. Mijn nieuwe account",
+    "description": "Help de gebruiker begrip te ontwikkelen van het toevoegen van een door mensen leesbare naam aan zijn of haar account"
   },
   "save": {
-    "message": "저장"
+    "message": "Opslaan"
   },
   "saveAsFile": {
-    "message": "파일로 저장",
-    "description": "Account export process"
+    "message": "Sla op als bestand",
+    "description": "Account export proces"
+  },
+  "saveSeedAsFile": {
+    "message": "Bewaar back-up woorden als bestand"
+  },
+  "search": {
+    "message": "Zoeken"
+  },
+  "secretPhrase": {
+    "message": "Voer hier je geheime twaalfwoordfrase in om je kluis te herstellen."
+  },
+  "seedPhraseReq": {
+    "message": "Back-up woorden zijn 12 woorden lang"
+  },
+  "select": {
+    "message": "kiezen"
+  },
+  "selectCurrency": {
+    "message": "selecteer valuta"
   },
   "selectService": {
-    "message": "서비스 선택"
+    "message": "Selecteer Service"
+  },
+  "selectType": {
+    "message": "Selecteer type"
   },
   "send": {
-    "message": "전송"
+    "message": "Sturen"
+  },
+  "sendMC": {
+    "message": "Verzend ETH"
   },
   "sendTokens": {
-    "message": "토큰 전송"
+    "message": "Stuur tokens"
   },
   "sendTokensAnywhere": {
-    "message": "이더 계좌로 토큰 전송"
+    "message": "Stuur tokens naar iedereen met een LBR-account"
   },
   "settings": {
-    "message": "설정"
+    "message": "instellingen"
   },
   "shapeshiftBuy": {
-    "message": "Shapeshift를 통해서 구매하기"
+    "message": "Koop met Shapeshift"
   },
   "showPrivateKeys": {
-    "message": "비밀키 보기"
+    "message": "Privésleutels weergeven"
   },
   "showQRCode": {
-    "message": "QR코드 보기"
+    "message": "QR-code weergeven"
   },
   "sign": {
-    "message": "서명"
+    "message": "Teken"
   },
   "signMessage": {
-    "message": "서명 메시지"
+    "message": "Teken bericht"
   },
   "signNotice": {
-    "message": "이 메시지에 대한 서명은 위험할 수 있습니다.\n 완전히 신뢰할 수 있는 사이트에서만 서명해주세요.\n 안전을 위해 추후의 버전에서는 삭제될 기능입니다. "
+    "message": "Het ondertekenen van dit bericht kan hebben \ngevaarlijke bijwerkingen. Meld alleen berichten van \nsites die u volledig vertrouwt met uw volledige account.\n Deze gevaarlijke methode wordt in een toekomstige versie verwijderd."
   },
   "sigRequest": {
-    "message": "서명 요청"
+    "message": "Ondertekeningsverzoek"
   },
   "sigRequested": {
-    "message": "서명이 요청되었습니다."
+    "message": "Handtekening aangevraagd"
+  },
+  "spaceBetween": {
+    "message": "er kan alleen een spatie tussen woorden zijn"
   },
   "status": {
-    "message": "상태"
+    "message": "staat"
+  },
+  "stateLogs": {
+    "message": "Staatslogboeken"
+  },
+  "stateLogsDescription": {
+    "message": "Staatslogboeken bevatten uw openbare accountadressen en verzonden transacties."
   },
   "submit": {
-    "message": "제출"
+    "message": "voorleggen"
+  },
+  "supportCenter": {
+    "message": "Bezoek ons ​​ondersteuningscentrum"
+  },
+  "symbolBetweenZeroTen": {
+    "message": "Het symbool moet tussen 0 en 10 tekens lang zijn."
   },
   "takesTooLong": {
-    "message": "너무 오래걸리나요?"
+    "message": "Duurt te lang?"
+  },
+  "terms": {
+    "message": "Gebruiksvoorwaarden"
   },
   "testFaucet": {
-    "message": "Faucet 테스트"
+    "message": "Test de kraan"
   },
   "to": {
-    "message": "대상"
+    "message": "Naar"
   },
   "toETHviaShapeShift": {
-    "message": "ShapeShift를 통해 $1를 ETH로 바꾸기",
-    "description": "system will fill in deposit type in start of message"
+    "message": "$1 tot ETH via ShapeShift",
+    "description": "systeem zal het aanbetalingstype invullen bij het begin van het bericht"
+  },
+  "tokenAddress": {
+    "message": "Token-adres"
+  },
+  "tokenAlreadyAdded": {
+    "message": "Token is al toegevoegd."
   },
   "tokenBalance": {
-    "message": "현재 토큰 잔액: "
+    "message": "Uw tokensaldo is:"
+  },
+  "tokenSelection": {
+    "message": "Zoek naar tokens of selecteer uit onze lijst met populaire tokens."
+  },
+  "tokenSymbol": {
+    "message": "Token Symbol"
+  },
+  "tokenWarning1": {
+    "message": "Houd de tokens bij die je hebt gekocht met je MetaMask-account. Als je tokens met een ander account hebt gekocht, worden die tokens hier niet weergegeven."
   },
   "total": {
-    "message": "합계"
+    "message": "Totaal"
+  },
+  "transactions": {
+    "message": "transacties"
   },
   "transactionMemo": {
-    "message": "트랜잭션 메모 (선택사항)"
+    "message": "Transactiememo (optioneel)"
   },
   "transactionNumber": {
-    "message": "트랜잭션 번호"
+    "message": "Transactie nummer"
   },
   "transfers": {
-    "message": "전송"
+    "message": "transfers"
   },
   "troubleTokenBalances": {
-    "message": "토큰 잔액을 가져오는데에 문제가 생겼습니다. (여기)서 상세내용을 볼 수 있습니다.",
-    "description": "Followed by a link (here) to view token balances"
+    "message": "We hadden problemen bij het laden van uw tokenbalansen. Je kunt ze bekijken",
+    "description": "Gevolgd door een link (hier) om tegensaldi te bekijken"
+  },
+  "twelveWords": {
+    "message": "Deze 12 woorden zijn de enige manier om uw MetaMask-accounts te herstellen.\nBewaar ze ergens veilig en geheim."
   },
   "typePassword": {
-    "message": "패스워드를 입력하세요."
+    "message": "Typ uw wachtwoord"
   },
   "uiWelcome": {
-    "message": "새 UI에 오신 것을 환영합니다. (베타)"
+    "message": "Welkom bij de nieuwe gebruikersinterface (bèta)"
   },
   "uiWelcomeMessage": {
-    "message": "새 메타마스크 UI를 사용하고 계십니다. 토큰 전송과 같은 새 기능들을 사용해보시면서 문제가 있다면 알려주세요."
+    "message": "U gebruikt nu de nieuwe gebruikersinterface van Metamask. Kijk rond, probeer nieuwe functies uit zoals het verzenden van tokens en laat ons weten of u problemen ondervindt."
   },
   "unavailable": {
-    "message": "유효하지 않은"
+    "message": "Niet beschikbaar"
   },
   "unknown": {
-    "message": "알려지지 않은"
+    "message": "Onbekend"
   },
   "unknownNetwork": {
-    "message": "알려지지 않은 프라이빗 네트워크"
+    "message": "Onbekend privénetwerk"
   },
   "unknownNetworkId": {
-    "message": "알려지지 않은 네트워크 ID"
+    "message": "Onbekende netwerk-ID"
+  },
+  "uriErrorMsg": {
+    "message": "Voor URI's is het juiste HTTP / HTTPS-voorvoegsel vereist."
   },
   "usaOnly": {
-    "message": "USA 거주자 한정",
-    "description": "Using this exchange is limited to people inside the USA"
+    "message": "Alleen in de VS.",
+    "description": "Het gebruik van deze uitwisseling is beperkt tot mensen in de VS."
   },
   "usedByClients": {
-    "message": "다양한 클라이언트에서 사용되고 있습니다."
+    "message": "Gebruikt door verschillende klanten"
+  },
+  "useOldUI": {
+    "message": "Gebruik de oude gebruikersinterface"
+  },
+  "validFileImport": {
+    "message": "U moet een geldig bestand selecteren om te importeren."
+  },
+  "vaultCreated": {
+    "message": "Vault gemaakt"
   },
   "viewAccount": {
-    "message": "계좌 보기"
+    "message": "Bekijk account"
+  },
+  "visitWebSite": {
+    "message": "Bezoek onze website"
   },
   "warning": {
-    "message": "경고"
+    "message": "Waarschuwing"
+  },
+  "welcomeBeta": {
+    "message": "Welkom bij MetaMask Beta"
   },
   "whatsThis": {
-    "message": "이것은 무엇인가요?"
+    "message": "Wat is dit?"
   },
   "yourSigRequested": {
-    "message": "서명이 요청되고 있습니다."
+    "message": "Uw handtekening wordt aangevraagd"
   },
   "youSign": {
-    "message": "서명 중입니다."
+    "message": "U ondertekent"
   }
 }
