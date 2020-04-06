@@ -1,819 +1,741 @@
 ﻿{
   "accept": {
-    "message": "Accetta"
+    "message": "承認"
   },
   "account": {
-    "message": "Account"
+    "message": "アカウント"
   },
   "accountDetails": {
-    "message": "Dettagli Account"
+    "message": "アカウント詳細"
   },
   "accountName": {
-    "message": "Nome Account"
+    "message": "アカウント名"
   },
   "address": {
-    "message": "Indirizzo"
+    "message": "アドレス"
   },
   "addCustomToken": {
-    "message": "Aggiungi un token personalizzato"
-  },
+    "message": "カスタムトークンを追加"
+  },  
   "addToken": {
-    "message": "Aggiungi Token"
+    "message": "トークンを追加"
   },
   "addTokens": {
-    "message": "Aggiungi più token"
+    "message": "トークンを追加"
   },
   "amount": {
-    "message": "Importo"
+    "message": "金額"
   },
   "amountPlusGas": {
-    "message": "Importo + Gas"
+    "message": "金額 + ガス"
   },
   "appDescription": {
-    "message": "LBR Browser Extension",
-    "description": "La descrizione dell'applicazione"
+    "message": "LBRのブラウザ・エクステンション",
+    "description": "The description of the application"
   },
   "appName": {
     "message": "MetaMask",
-    "description": "Il nome dell'applicazione"
+    "description": "The name of the application"
   },
   "attemptingConnect": {
-    "message": "Tentativo di connessione alla blockchain."
-  },
-  "attributions": {
-    "message": "Attribuzioni"
+    "message": "ブロックチェーンに接続中"
   },
   "available": {
-    "message": "Disponibile"
+    "message": "有効"
   },
   "back": {
-    "message": "Indietro"
+    "message": "戻る"
   },
   "balance": {
-    "message": "Bilancio:"
+    "message": "残高:"
   },
   "balances": {
-    "message": "I tuoi bilanci"
+    "message": "トークン残高"
   },
   "balanceIsInsufficientGas": {
-    "message": "Bilancio insufficiente per il gas totale corrente"
+    "message": "現在のガス総量に対して残高が不足しています"
   },
   "beta": {
-    "message": "BETA"
+    "message": "ベータ版"
   },
   "betweenMinAndMax": {
-    "message": "deve essere maggiore o uguale a $1 e minore o uguale a $2.",
-    "description": "aiuto per inserire un input esadecimale come decimale"
+    "message": " $1以上 $2以下にして下さい。",
+    "description": "helper for inputting hex as decimal input"
   },
   "blockiesIdenticon": {
-    "message": "Usa le icone Blockie"
+    "message": "Blockies Identicon を使用"
   },
   "borrowDharma": {
-    "message": "Prendi in presisito con Dharma (Beta)"
-  },
-  "builtInCalifornia": {
-    "message": "MetaMask è progettato e costruito in California."
+    "message": "Dharmaで借りる(ベータ版)"
   },
   "buy": {
-    "message": "Compra"
+    "message": "購入"
   },
   "buyCoinbene": {
-    "message": "Compra su Coinbase"
+    "message": "Coinbaseのサイトで購入"
   },
   "buyCoinbeneExplainer": {
-    "message": "Coinbase è il servizio più popolare al mondo per comprare e vendere bitcoin, LBR e litecoin."
+    "message": "Etherを購入できます。Coinbaseは、世界的なBitcoin、LBR、そしてLitecoinの取引所です。"
   },
   "cancel": {
-    "message": "Cancella"
+    "message": "キャンセル"
   },
   "classicInterface": {
-    "message": "Usa l'interfaccia classica"
+    "message": "旧インタフェイスを使用"
   },
   "clickCopy": {
-    "message": "Clicca per Copiare"
+    "message": "クリックしてコピー"
   },
   "confirm": {
-    "message": "Conferma"
+    "message": "確認"
   },
   "confirmContract": {
-    "message": "Conferma Contratto"
+    "message": "コントラクトの確認"
   },
   "confirmPassword": {
-    "message": "Conferma Password"
+    "message": "パスワードの確認"
   },
   "confirmTransaction": {
-    "message": "Conferma Transazione"
+    "message": "トランザクションの確認"
   },
   "continue": {
-    "message": "Continua"
+    "message": "続行"
   },
   "continueToCoinbase": {
-    "message": "Continua su Coinbase"
+    "message": "Coinbaseを開く"
   },
   "contractDeployment": {
-    "message": "Distribuzione Contratto"
+    "message": "コントラクトのデプロイ"
   },
   "conversionProgress": {
-    "message": "Conversione in corso"
+    "message": "変換中"
   },
   "copiedButton": {
-    "message": "Copiato"
+    "message": "コピー完了"
   },
   "copiedClipboard": {
-    "message": "Copiato negli Appunti"
+    "message": "クリップボードへコピー済み"
   },
   "copiedExclamation": {
-    "message": "Copiato!"
-  },
-  "copiedSafe": {
-    "message": "Le ho copiate in un posto sicuro"    
+    "message": "コピー完了!"
   },
   "copy": {
-    "message": "Copia"
+    "message": "コピー"
   },
   "copyToClipboard": {
-    "message": "Copia negli appunti"
+    "message": "クリップボードへコピー"
   },
   "copyButton": {
-    "message": " Copia "
+    "message": " コピー "
   },
   "copyPrivateKey": {
-    "message": "Questa è la tua chiave privata (clicca per copiare)"
+    "message": "これはあなたの秘密鍵です(クリックでコピー)"
   },
   "create": {
-    "message": "Crea"
+    "message": "作成"
   },
   "createAccount": {
-    "message": "Crea Account"
+    "message": "アカウント作成"
   },
   "createDen": {
-    "message": "Crea"
+    "message": "作成"
   },
   "crypto": {
-    "message": "Crypto",
-    "description": "Tipo di exchange (cryptomonete)"
+    "message": "暗号通貨",
+    "description": "Exchange type (cryptocurrencies)"
   },
   "currentConversion": {
-    "message": "Cambio Corrente"
-  },
-  "currentNetwork": {
-    "message": "Rete Corrente"
+    "message": "基軸通貨"
   },
   "customGas": {
-    "message": "Personalizza Gas"
+    "message": "ガスのカスタマイズ"
+  },
+  "customToken": {
+    "message": "カスタムトークン"
   },
   "customize": {
-    "message": "Personalizza"
+    "message": "カスタマイズ"
   },
   "customRPC": {
-    "message": "RPC Personalizzata"
-  },
-  "decimalsMustZerotoTen": {
-    "message": "Il numero di decimali deve essere almeno 0, e non oltre 36."    
+    "message": "カスタムRPC"
   },
   "decimal": {
-    "message": "Precisione Decimali"
+    "message": "小数点桁数"
   }, 
   "defaultNetwork": {
-    "message": "La rete predefinita per transazioni in Ether è la Rete LBR Principale."
+    "message": "デフォルトのEther送受信ネットワークはメインネットです。"
   },
   "denExplainer": {
-    "message": "Il DEN è il tuo archivio crittato con password dentro Metamask."
+    "message": "DENとは、あなたのパスワードが暗号化されたMetaMask内のストレージです。"
   },
   "deposit": {
-    "message": "Deposita"
+    "message": "振込"
   },
   "depositBTC": {
-    "message": "Deposita i tuoi BTC all'indirizzo sotto:"
+    "message": "BTCを下記のアドレスへ振込んでください:"
   },
   "depositCoin": {
-    "message": "Deposita $1 all'indirizzo sotto",
-    "description": "Dice all'utente quale moneta ha selezionato per depositare con Shapeshift"
+    "message": "$1を下記のアドレスへ振込んでください",
+    "description": "Tells the user what coin they have selected to deposit with shapeshift"
   },
   "depositEth": {
-    "message": "Deposita Eth"
+    "message": "ETHを入金"
   },
   "depositMc": {
-    "message": "Deposita Ether"
+    "message": "Etherを振込"
   },
   "depositFiat": {
-    "message": "Deposita con moneta Fiat"
+    "message": "法定通貨でデポジット"
   },
   "depositFromAccount": {
-    "message": "Deposita da un altro account"
+    "message": "別のアカウントから入金"
   },
   "depositShapeShift": {
-    "message": "Deposita con ShapeShift"
+    "message": "ShapeShiftで交換"
   },
   "depositShapeShiftExplainer": {
-    "message": "Se possiedi altre criptomonete, puoi scambiare e depositare Ether direttamente nel tuo portafoglio MetaMask. Nessun account richiesto."
+    "message": "他の暗号通貨とEtherを交換して、MetaMaskのウォレットへ入金できます。アカウント作成は不要です。"
   },
   "details": {
-    "message": "Dettagli"
+    "message": "詳細"
   },
   "directDeposit": {
-    "message": "Deposito Diretto"
+    "message": "ダイレクトデポジット"
   },
   "directDepositMc": {
-    "message": "Deposita Direttamente Ether"
+    "message": "Etherを直接入金"
   },
   "directDepositEtherExplainer": {
-    "message": "Se possiedi già degli Ether, questa è la via più veloce per aggiungere Ether al tuo portafoglio con un deposito diretto."    
+    "message": "既にEtherをお持ちなら、MetaMaskの新しいウォレットにEtherを送信することができます。"
   },
   "done": {
-    "message": "Finito"
-  },
-  "downloadStateLogs": {
-    "message": "Scarica i log di Stato"
+    "message": "完了"
   },
   "edit": {
-    "message": "Modifica"
+    "message": "編集"
   },
   "editAccountName": {
-    "message": "Modifica Nome Account"
-  },
-  "emailUs": {
-    "message": "Mandaci una mail!"
+    "message": "アカウント名を編集"
   },
   "encryptNewDen": {
-    "message": "Cripta il tuo nuovo DEN"
+    "message": "新しいDENを暗号化する"
   },
   "enterPassword": {
-    "message": "Inserisci password"
-  },
-  "enterPasswordConfirm": {
-    "message": "Inserisci la tua password per confermare"
+    "message": "パスワードを入力"
   },
   "LBRExplorerView": {
-    "message": "Vedi account su Etherscan"
+    "message": "Etherscanでアカウントを確認"
   },
   "exchangeRate": {
-    "message": "Tasso di cambio"
+    "message": "交換レート"
   },
   "exportPrivateKey": {
-    "message": "Esporta Chiave Privata"
+    "message": "秘密鍵のエクスポート"
   },
   "exportPrivateKeyWarning": {
-    "message": "Esporta chiave privata a tuo rischio."
+    "message": "あなた自身の責任で秘密鍵をエクスポート"
   },
   "failed": {
-    "message": "Fallito"
+    "message": "失敗"
   },
   "fiat": {
-    "message": "FIAT",
-    "description": "Tipo di scambio"
+    "message": "法定通貨",
+    "description": "Exchange type"
   },
   "fileImportFail": {
-    "message": "Importazione file non funziona? Clicca qui!",
-    "description": "Aiuta gli utenti a importare il loro account da un file JSON"
-  },
-  "followTwitter": {
-    "message": "Seguici su Twitter"
+    "message": "ファイルがインポートされなければ、ここをクリック!",
+    "description": "Helps user import their account from a JSON file"
   },
   "from": {
-    "message": "Da"
-  },
-  "fromToSame": {
-    "message": "Gli indirizzi Da e A non possono essere uguali"
+    "message": "送信元"
   },
   "fromShapeShift": {
-    "message": "Da ShapeShift"
+    "message": "ShapeShiftから"
   },
   "gas": {
-    "message": "Gas",
-    "description": "Piccola indicazione del costo del gas"
+    "message": "ガス",
+    "description": "Short indication of gas cost"
   },
   "gasFee": {
-    "message": "Costo Gas"
+    "message": "ガス料金"
   },
   "gasLimit": {
-    "message": "Gas Limite"
+    "message": "ガスリミット"
   },
   "gasLimitCalculation": {
-    "message": "Calcoliamo il gas limite suggerito in base al successo delle transazioni in rete."
+    "message": "ネットワークの成功率を基にして、ガスリミットを提案しています。"
   },
   "gasLimitRequired": {
-    "message": "Gas Limite Richiesto"
+    "message": "必要ガスリミット"
   },
   "gasLimitTooLow": {
-    "message": "Il Gas Limite deve essere almeno 21000"
-  },
-  "generatingSeed": {
-    "message": "Generando la frase seed..."
+    "message": "ガスリミットは最低21000です。"
   },
   "gasPrice": {
-    "message": "Prezzo del Gas (GWEI)"
+    "message": "ガスプライス (GWEI)"
   },
   "gasPriceCalculation": {
-    "message": "Calcoliamo il gas limite suggerito in base al successo delle transazioni in rete."
+    "message": "ネットワークの成功率を基にして、ガスプライスを提案しています。"
   },
   "gasPriceRequired": {
-    "message": "Prezzo Gas Richiesto"
+    "message": "必要ガスプライス"
   },
   "getMc": {
-    "message": "Ottieni Ether"
+    "message": "Etherを取得する"
   },
   "getEtherFromFaucet": {
-    "message": "Ottieni Get Ether da un faucet per $1",
-    "description": "Visualizza il nome della rete per il faucet Ether"
+    "message": "フォーセットで $1のEtherを得ることができます。",
+    "description": "Displays network name for Ether faucet"
   },
   "greaterThanMin": {
-    "message": "deve essere maggiore o uguale a $1.",
-    "description": "aiuto per inserire un input esadecimale come decimale"
+    "message": " $1以上にして下さい。",
+    "description": "helper for inputting hex as decimal input"
   },
   "here": {
-    "message": "qui",
-    "description": "per intendere -clicca qui- per maggiori informazioni (va con troubleTokenBalances)"
-  },
-  "hereList": {
-    "message": "Questa è una lista!!!!"
+    "message": "ここ",
+    "description": "as in -click here- for more information (goes with troubleTokenBalances)"
   },
   "hide": {
-    "message": "Nascondi"
+    "message": "隠す"
   },
   "hideToken": {
-    "message": "Nascondi Token"
+    "message": "トークンを隠す"
   },
   "hideTokenPrompt": {
-    "message": "Nascondi Token?"
+    "message": "トークンを隠しますか?"
   },
   "howToDeposit": {
-    "message": "Come vuoi depositare Ether?"
-  },
-  "holdEther": {
-    "message": "Ti permette di tenere ether & token, e serve da ponte per le applicazioni decentralizzate."    
+    "message": "どのようにEtherをデポジットしますか?"
   },
   "import": {
-    "message": "Importa",
-    "description": "Tasto per importare un account da un file selezionato"
+    "message": "追加",
+    "description": "Button to import an account from a selected file"
   },
   "importAccount": {
-    "message": "Importa Account"
+    "message": "アカウントのインポート"
   },
   "importAccountMsg": {
-    "message":" Gli account importati non saranno associati alla frase seed originariamente creata con MetaMask. Impara di più sugli account importati "    
+    "message":"追加したアカウントはMetaMaskのアカウントパスフレーズとは関連付けられません。インポートしたアカウントについての詳細は"
   },
   "importAnAccount": {
-    "message": "Importa un account"
+    "message": "アカウントをインポート"
   },
   "importDen": {
-    "message": "Importa un DEN Esistente"
+    "message": "既存のDENをインポート"
   },
   "imported": {
-    "message": "Importato",
-    "description": "stato che conferma che un account è stato totalmente caricato nel portachiavi"
+    "message": "インポート完了",
+    "description": "status showing that an account has been fully loaded into the keyring"
   },
   "infoHelp": {
-    "message": "Informazioni & Aiuto"
+    "message": "情報とヘルプ"
   },
   "insufficientFunds": {
-    "message": "Fondi non sufficienti."
-  },
-  "insufficientTokens": {
-    "message": "Token non sufficienti."
+    "message": "残高不足"
   },
   "invalidAddress": {
-    "message": "Indirizzo non valido"
-  },
-  "invalidAddressRecipient": {
-    "message": "Indirizzo destinatario invalido"
+    "message": "アドレスが無効です。"
   },
   "invalidGasParams": {
-    "message": "Parametri del Gas non validi"
+    "message": "ガスのパラメーターが無効です。"
   },
   "invalidInput": {
-    "message": "Input non valido."
+    "message": "インプットが無効です。"
   },
   "invalidRequest": {
-    "message": "Richiesta non Valida"
-  },
-  "invalidRPC": {
-    "message": "URI RPC invalido"
-  },
-  "jsonFail": {
-    "message": "Qualcosa è andato storto. Assicurati che il file JSON sia formattato correttamente."    
+    "message": "リクエストが無効です。"
   },
   "jsonFile": {
-    "message": "File JSON",
-    "description": "formato per importare un account"
+    "message": "JSONファイル",
+    "description": "format for importing an account"
+  },
+  "keepTrackTokens": {
+    "message": "MetaMaskアカウントで入手したトークンを検索できます。"
   },
   "kovan": {
-    "message": "Rete di test Kovan"
+    "message": "Kovanテストネットワーク"
   },
-  "knowledgeDataBase": {
-    "message": "Visita la nostra Knowledge Base"
+  "learnMore": {
+    "message": "詳細"
   },
   "lessThanMax": {
-    "message": "deve essere minore o uguale a $1.",
-    "description": "aiuto per inserire un input esadecimale come decimale"
+    "message": " $1以下にして下さい。",
+    "description": "helper for inputting hex as decimal input"
   },
   "likeToAddTokens": {
-    "message": "Vorresti aggiungere questi token?"
+    "message": "トークンを追加しますか?"
+  },
+  "links": {
+    "message": "リンク"
   },
   "limit": {
-    "message": "Limite"
+    "message": "リミット"
   },
   "loading": {
-    "message": "Caricamento..."
+    "message": "ロード中..."
   },
   "loadingTokens": {
-    "message": "Caricamento Tokens..."
+    "message": "トークンをロード中..."
   },
   "localhost": {
     "message": "Localhost 8545"
   },
   "login": {
-    "message": "Connetti"
+    "message": "ログイン"
   },
   "logout": {
-    "message": "Disconnetti"
+    "message": "ログアウト"
   },
   "loose": {
-    "message": "Libero"
+    "message": "外部秘密鍵"
   },
-  "loweCaseWords": {
-    "message": "le frasi seed hanno solo lettere minuscole"
+  "max": {
+    "message": "最大"
   },
   "mainnet": {
-    "message": "Rete LBR Principale"
+    "message": "LBRメインネットワーク"
   },
   "message": {
-    "message": "Messaggio"
-  },
-  "metamaskDescription": {
-    "message": "MetaMask è una cassaforte sicura per identità su LBR."
+    "message": "メッセージ"
   },
   "min": {
-    "message": "Minimo"
+    "message": "ミニマム"
   },
   "myAccounts": {
-    "message": "Account Miei"
+    "message": "マイアカウント"
   },
   "mustSelectOne": {
-    "message": "Devi selezionare almeno un token."
+    "message": "一つ以上のトークンを選択してください。"
   },
   "needMcInWallet": {
-    "message": "Per interagire con applicazioni decentralizzate con MetaMask, devi possedere Ether nel tuo portafoglio."
+    "message": "MetaMaskで分散型アプリケーションを使用するためには、このウォレットにEtherが必要です。"
   },
   "needImportFile": {
-    "message": "Devi selezionare un file da importare.",
-    "description": "L'utente sta importando un account e deve aggiungere un file per continuare"
+    "message": "インポートするファイルを選択してください。",
+    "description": "User is important an account and needs to add a file to continue"
   },
   "needImportPassword": {
-    "message": "Dei inserire una password per il file selezionato.",
-    "description": "Password e file necessari per importare un account"
-  },
-  "negativeETH": {
-    "message": "Non puoi inviare una quantità di ETH negativa."
+    "message": "選択したファイルのパスワードを入力してください。",
+    "description": "Password and file needed to import an account"
   },
   "networks": {
-    "message": "Reti"
+    "message": "ネットワーク"
   },
   "newAccount": {
-    "message": "Nuovo Account"
+    "message": "新規アカウント"
   },
   "newAccountNumberName": {
-    "message": "Account $1",
-    "description": "Nome predefinito per il prossimo account da creare nella schermata di creazione account"
+    "message": "アカウント $1",
+    "description": "Default name of next account to be created on create account screen"
   },
   "newContract": {
-    "message": "Nuovo Contratto"
+    "message": "新規コントラクト"
   },
   "newPassword": {
-    "message": "Nuova Password (minimo 8 caratteri)"
+    "message": "新規パスワード(最低8文字)"
   },
   "newRecipient": {
-    "message": "Nuovo Destinatario"
+    "message": "新規受取人"
   },
   "newRPC": {
-    "message": "Nuovo URL RPC"
+    "message": "新しいRPCのURLを追加"
   },
   "next": {
-    "message": "Prossimo"
+    "message": "次へ"
   },
   "noAddressForName": {
-    "message": "Nessun indirizzo è stato impostato per questo nome."
+    "message": "この名前にはアドレスが設定されていません。"
   },
   "noDeposits": {
-    "message": "Nessun deposito ricevuto"
+    "message": "振込みがありません。"
   },
   "noTransactionHistory": {
-    "message": "Nessuna cronologia delle transazioni."
+    "message": "トランザクション履歴がありません。"
   },
   "noTransactions": {
-    "message": "Nessuna Transazione"
+    "message": "トランザクションがありません。"
   },
   "notStarted": {
-    "message": "Non Iniziato"
+    "message": "スタートしていません。"
   },
   "oldUI": {
-    "message": "Vecchia interfaccia"
+    "message": "旧UI"
   },
   "oldUIMessage": {
-    "message": "Sei ritornato alla vecchia interfaccia. Puoi ritornare alla nuova interfaccia tramite l'opzione nel menu a discesa in alto a destra."
+    "message": "旧UIを表示しています。右上のドロップダウンメニューのオプションより、新UIへ切り替えが可能です。"
   },
   "or": {
-    "message": "o",
-    "description": "scelta tra creare o importare un nuovo account"
+    "message": "または",
+    "description": "choice between creating or importing a new account"
   },
-  "passwordCorrect": {
-    "message": "Assicurati che la password sia corretta."
+  "password": {
+    "message": "パスワード"
   },
   "passwordMismatch": {
-    "message": "le password non corrispondono",
-    "description": "nella creazione della password, le due password all'interno dei campi non corrispondono"
+    "message": "パスワードが一致しません。",
+    "description": "in password creation process, the two new password fields did not match"
   },
   "passwordShort": {
-    "message": "password non sufficientemente lunga",
-    "description": "nella creazione della password, la password non è lunga abbastanza"
+    "message": "パスワードが短すぎます。",
+    "description": "in password creation process, the password is not long enough to be secure"
   },
   "pastePrivateKey": {
-    "message": "Incolla la tua chiave privata qui:",
-    "description": "Per importare un account da una chiave privata"
+    "message": "秘密鍵をここにペーストして下さい:",
+    "description": "For importing an account from a private key"
   },
   "pasteSeed": {
-    "message": "Incolla la tua frase seed qui!"
-  },
-  "personalAddressDetected": {
-    "message": "Rilevato indirizzo personale. Inserisci l'indirizzo del contratto del token."
+    "message": "パスフレーズをここにペーストして下さい!"
   },
   "pleaseReviewTransaction": {
-    "message": "Ricontrolla la tua transazione."
+    "message": "トランザクションを確認して下さい。"
+  },
+  "popularTokens": {
+    "message": "人気のトークン"
   },
   "privacyMsg": {
-    "message": "Politica sulla Privacy"
+    "message": "プライバシーポリシー"
   },
   "privateKey": {
-    "message": "Chiave Privata",
-    "description": "seleziona questo tipo di file per importare un account"
+    "message": "秘密鍵",
+    "description": "select this type of file to use to import an account"
   },
   "privateKeyWarning": {
-    "message": "Attenzione: non dire a nessuno questa chiave! Chiunque con la tua chiave privata può rubare qualsiasi moneta contenuta nel tuo account."
+    "message": "警告: この鍵は絶対に公開しないで下さい。公開すると、誰でもあなたのアカウント内の資産を盗むことができてしまいます。"
   },
   "privateNetwork": {
-    "message": "Rete Privata"
+    "message": "プライベート・ネットワーク"
   },
   "qrCode": {
-    "message": "Mostra Codice QR"
+    "message": "QRコードを表示"
   },
   "readdToken": {
-    "message": "Puoi aggiungere nuovamente questo token in futuro andando in “Aggiungi token” nel menu delle opzioni del tuo account."    
+    "message": "アカウントのオプションメニューから「トークンを追加」すれば、将来このトークンを追加し直すことができます。"
   },
   "readMore": {
-    "message": "Leggi di più qui."
-  },
-  "readMore2": {
-    "message": "Leggi di più."
+    "message": "もっと読む"
   },
   "receive": {
-    "message": "Ricevi"
+    "message": "受取"
   },
   "recipientAddress": {
-    "message": "Indirizzo Destinatario"
+    "message": "受取人アドレス"
   },
   "refundAddress": {
-    "message": "Indirizzo di Rimborso"
+    "message": "受取アドレス"
   },
   "rejected": {
-    "message": "Respinta"
+    "message": "拒否されました"
   },
   "resetAccount": {
-    "message": "Resetta Account"
+    "message": "アカウントをリセット"
   },
   "restoreFromSeed": {
-    "message": "Ripristina da una frase seed"
+    "message": "パスフレーズから復元する"
+  },
+  "restoreVault": {
+    "message": "ウォレットを復元する"
   },
   "required": {
-    "message": "Richiesto"
+    "message": "必要です。"
   },
   "retryWithMoreGas": {
-    "message": "Riprova con un prezzo del Gas maggiore qui"
+    "message": "より高いガスプライスで再度試して下さい。"
+  },
+  "walletSeed": {
+    "message": "ウォレットのパスフレーズ"
   },
   "revealSeedWords": {
-    "message": "Rivela Frase Seed"
-  },
-  "revealSeedWordsWarning": {
-    "message": "Non ripristinare la tua frase seed in pubblico!. Queste parole possono essere usate per rubare il tuo account."
+    "message": "パスフレーズを表示"
   },
   "revert": {
-    "message": "Annulla"
+    "message": "元に戻す"
   },
   "rinkeby": {
-    "message": "Rete di test Rinkeby"
+    "message": "Rinkebyテストネットワーク"
   },
   "ropsten": {
-    "message": "Rete di test Ropsten"
+    "message": "Ropstenテストネットワーク"
   },
   "sampleAccountName": {
-    "message": "Es: Il mio nuovo account",
-    "description": "Aiuta l'utente a capire il concetto di aggiungere un nome leggibile al loro account"
+    "message": "例.新しいマイアカウント",
+    "description": "Help user understand concept of adding a human-readable name to their account"
   },
   "save": {
-    "message": "Salva"
+    "message": "保存"
   },
   "saveAsFile": {
-    "message": "Salva come File",
-    "description": "Processo per esportare un account"
-  },
-  "saveSeedAsFile": {
-    "message": "Salva la Frase Seed come File"
+    "message": "ファイルとして保存",
+    "description": "Account export process"
   },
   "search": {
-    "message": "Cerca"
+    "message": "検索"
   },
-  "secretPhrase": {
-    "message": "Inserisci la tua frase segreta di dodici parole per ripristinare la cassaforte."
-  },
-  "seedPhraseReq": {
-    "message": "le frasi seed sono lunghe 12 parole"
-  },
-  "select": {
-    "message": "Seleziona"
-  },
-  "selectCurrency": {
-    "message": "Seleziona Moneta"
+  "searchResults": {
+    "message": "検索結果"
   },
   "selectService": {
-    "message": "Seleziona Servizio"
+    "message": "サービスを選択"
   },
   "selectType": {
-    "message": "Seleziona Tipo"
+    "message": "キーの種類"
   },
   "send": {
-    "message": "Invia"
+    "message": "送信"
   },
   "sendMC": {
-    "message": "Invia ETH"
+    "message": "ETHの送信"
   },
   "sendTokens": {
-    "message": "Invia Tokens"
+    "message": "トークンを送る"
+  },
+  "onlySendToLBRAddress": {
+    "message": "ETHはイーサリウムアカウントのみに送信できます。"
+  },
+  "searchTokens": {
+    "message": "トークンの検索"
   },
   "sendTokensAnywhere": {
-    "message": "Invia Tokens a chiunque abbia un account LBR"
+    "message": "イーサリアムアカウントを持っている人にトークンを送る"
   },
   "settings": {
-    "message": "Impostazioni"
+    "message": "設定"
+  },
+  "info": {
+    "message": "情報"
   },
   "shapeshiftBuy": {
-    "message": "Compra con Shapeshift"
+    "message": "Shapeshiftで交換"
   },
   "showPrivateKeys": {
-    "message": "Mostra Chiave Privata"
+    "message": "秘密鍵を表示"
   },
   "showQRCode": {
-    "message": "Mostra Codie QR"
+    "message": "QRコードを表示"
   },
   "sign": {
-    "message": "Firma"
+    "message": "署名"
   },
   "signMessage": {
-    "message": "Firma Messaggio"
+    "message": "メッセージに署名"
   },
   "signNotice": {
-    "message": "Firmare questo messaggio può avere effetti collaterali pericolosi. \nFirma messaggi da siti di cui ti fidi totalmente. \nQuesto metodo pericoloso sarà rimosso in versioni future."    
+    "message": "このメッセージへの署名は危険となる可能性があります。\n完全に信頼するサイトからのメッセージのみ、\nあなたのアカウントで署名して下さい。今後のバージョンでは、\nこの危険なメソッドは削除される予定です。"
   },
   "sigRequest": {
-    "message": "Firma Richiesta"
+    "message": "署名リクエスト"
   },
   "sigRequested": {
-    "message": "Richiesta Firma"
-  },
-  "spaceBetween": {
-    "message": "ci può essere solo uno spazio tra le parole"
+    "message": "署名がリクエストされました"
   },
   "status": {
-    "message": "Stato"
-  },
-  "stateLogs": {
-    "message": "Log di Stato"
-  },
-  "stateLogsDescription": {
-    "message": "I log di stato contengono i tuoi indirizzi pubblici e le transazioni effettuate."
+    "message": "ステータス"
   },
   "submit": {
-    "message": "Invia"
-  },
-  "supportCenter": {
-    "message": "Visita il nostro Centro di Supporto"
-  },
-  "symbolBetweenZeroTen": {
-    "message": "Il simbolo deve essere lungo tra 0 e 10 caratteri."
+    "message": "送信"
   },
   "takesTooLong": {
-    "message": "Ci sta mettendo troppo?"
+    "message": "送信に時間がかかりますか?"
   },
   "terms": {
-    "message": "Termini di Uso"
+    "message": "利用規約"
   },
   "testFaucet": {
-    "message": "Prova Faucet"
+    "message": "Faucetをテスト"
   },
   "to": {
-    "message": "A"
+    "message": "送信先"
   },
   "toETHviaShapeShift": {
-    "message": "$1 a ETH via ShapeShift",
-    "description": "il sistema riempirà il tipo di deposito all'inizio del messaggio"
+    "message": "ShapeShiftで $1をETHにする",
+    "description": "system will fill in deposit type in start of message"
+  },
+  "token": {
+    "message": "トークン"
   },
   "tokenAddress": {
-    "message": "Indirizzo Token"
-  },
-  "tokenAlreadyAdded": {
-    "message": "Il token è già stato aggiunto."
+    "message": "トークンアドレス"
   },
   "tokenBalance": {
-    "message": "Bilancio Token:"
+    "message": "あなたのトークン残高:"
   },
   "tokenSelection": {
-    "message": "Cerca un token o seleziona dalla lista di token più popolari."
+    "message": "トークンを検索、またはリストから選択してください。"
   },
   "tokenSymbol": {
-    "message": "Simbolo Token"
+    "message": "トークンシンボル"
   },
   "tokenWarning1": {
-    "message": "Tieni traccia dei token che hai acquistato con il tuo account MetaMask. Se hai acquistato token con un account diverso, quei token non appariranno qui."
+    "message": "MetaMaskのアカウントで取得したアカウントのみ追加できます。他のアカウントを使用して取得したトークンは、カスタムトークンを使用してください。"
   },
   "total": {
-    "message": "Totale"
+    "message": "合計"
   },
   "transactions": {
-    "message": "transazioni"
+    "message": "トランザクション"
   },
   "transactionMemo": {
-    "message": "Promemoria Transazione (opzionale)"
+    "message": "トランザクションメモ (オプション)"
   },
   "transactionNumber": {
-    "message": "Numero Transazione"
+    "message": "トランザクション番号"
   },
   "transfers": {
-    "message": "Trasferimenti"
+    "message": "トランスファー"
   },
   "troubleTokenBalances": {
-    "message": "Abbiamo avuto un problema a caricare il bilancio dei tuoi token. Puoi vederlo ",
-    "description": "Seguito da un link (qui) per vedere il bilancio dei token"
-  },
-  "twelveWords": {    
-    "message": "Queste 12 parole sono l'unico modo per ripristinare i tuoi account MetaMask. \nSalvale in un posto sicuro e segreto."
+    "message": "トークン残高を取得できません。こちらでご確認ください。",
+    "description": "Followed by a link (here) to view token balances"
   },
   "typePassword": {
-    "message": "Inserisci Password"
+    "message": "パスワードの入力"
   },
   "uiWelcome": {
-    "message": "Benvenuto alla nuova interfaccia (Beta)"
+    "message": "新UIへようこそ！(ベータ版)"
   },
   "uiWelcomeMessage": {
-    "message": "Stai utilizzanto la nuova interfaccia di MetaMask. Guarda in giro, prova nuove funzionalità come inviare token, e facci sapere se hai dei problemi."    
+    "message": "現在Metamaskの新しいUIをお使いになっています。トークン送信など、新たな機能を試してみましょう！何か問題があればご報告ください。"
   },
   "unavailable": {
-    "message": "Non Disponibile"
+    "message": "有効ではありません。"
   },
   "unknown": {
-    "message": "Sconosciuto"
+    "message": "不明"
   },
   "unknownNetwork": {
-    "message": "Rete Privata Sconosciuta"
+    "message": "不明なプライベートネットワーク"
   },
   "unknownNetworkId": {
-    "message": "ID rete sconosciuto"
-  },
-  "uriErrorMsg": {
-    "message": "Gli URI richiedono un prefisso HTTP/HTTPS."
+    "message": "不明なネットワークID"
   },
   "usaOnly": {
-    "message": "Solo USA",
-    "description": "Usare questo sito di scambio è possibile solo per persone residenti in USA."
+    "message": "米国居住者のみ",
+    "description": "Using this exchange is limited to people inside the USA"
   },
   "usedByClients": {
-    "message": "Usato da una varietà di clients diversi"
+    "message": "様々なクライアントによって使用されています。"
   },
   "useOldUI": {
-    "message": "Use la vecchia UI"
-  },
-  "validFileImport": {
-    "message": "Devi selezionare un file valido da importare."
-  },
-  "vaultCreated": {
-    "message": "Cassaforte Creata"
+    "message": "旧UIに切り替え"
   },
   "viewAccount": {
-    "message": "Vedi Account"
+    "message": "アカウントを見る"
   },
-  "visitWebSite": {
-    "message": "Visita il nostro sito web"
-  }, 
   "warning": {
-    "message": "Attenzione"
+    "message": "警告"
+  },
+  "welcomeBack": {
+    "message": "おかえりなさい!"
   },
   "welcomeBeta": {
-    "message": "Benvenuto nella Beta di MetaMask"
+    "message": "MetaMask ベータ版へようこそ!"
   },
   "whatsThis": {
-    "message": "Cos'è questo?"
+    "message": "この機能について"
   },
   "yourSigRequested": {
-    "message": "E' richiesta la tua firma"
+    "message": "あなたの署名がリクエストされています。"
   },
   "youSign": {
-    "message": "Ti stai connettendo"
+    "message": "署名しています。"
   }
 }
