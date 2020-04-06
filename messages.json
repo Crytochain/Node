@@ -1,819 +1,897 @@
 ﻿{
   "accept": {
-    "message": "Aceitar"
+    "message": "Принять"
   },
   "account": {
-    "message": "Conta"
+    "message": "Счет"
   },
   "accountDetails": {
-    "message": "Detalhes da Conta"
+    "message": "Детали счета"
   },
   "accountName": {
-    "message": "Nome da Conta"
+    "message": "Название счета"
   },
   "address": {
-    "message": "Endereço"
+    "message": "Адрес"
   },
   "addCustomToken": {
-    "message": "Adicionar token customizada"
+    "message": "Добавить пользовательский токен"
   },
   "addToken": {
-    "message": "Adicionar Token"
+    "message": "Добавить токен"
   },
   "addTokens": {
-    "message": "Adicionar Tokens"
+    "message": "Добавить токены"
   },
   "amount": {
-    "message": "Valor"
+    "message": "Сумма"
   },
   "amountPlusGas": {
-    "message": "Valor + Gas"
+    "message": "Сумма + газ"
   },
   "appDescription": {
-    "message": "Extensão para o browser de LBR",
-    "description": "A descrição da aplicação"
+    "message": "Расширение браузера для LBR",
+    "description": "The description of the application"
   },
   "appName": {
     "message": "MetaMask",
-    "description": "Nome da aplicação"
+    "description": "The name of the application"
+  },
+  "approved": {
+    "message": "Одобрена"
   },
   "attemptingConnect": {
-    "message": "A tentar ligar à blockchain."
+    "message": "Попытка подключиться к блокчейн сети."
   },
   "attributions": {
-    "message": "Atribuições"
+    "message": "Атрибуция"
   },
   "available": {
-    "message": "Disponível"
+    "message": "Доступный"
   },
   "back": {
-    "message": "Voltar"
+    "message": "Назад"
   },
   "balance": {
-    "message": "Saldo:"
+    "message": "Баланс:"
   },
   "balances": {
-    "message": "O meu saldo"
+    "message": "Ваш баланс"
   },
   "balanceIsInsufficientGas": {
-    "message": "Saldo insuficiente para a quantidade de gas total"
+    "message": "Недостаточный баланс для текущего объема газа"
   },
   "beta": {
     "message": "BETA"
   },
   "betweenMinAndMax": {
-    "message": "tem de ser maior ou igual a $1 e menor ou igual a $2.",
-    "description": "ajuda para introduzir hexadecimal como decimal"
+    "message": "должно быть больше или равно $1 и меньше или равно $2.",
+    "description": "helper for inputting hex as decimal input"
   },
   "blockiesIdenticon": {
-    "message": "Usar Blockies Identicon"
+    "message": "Использовать Blockies Identicon"
   },
   "borrowDharma": {
-    "message": "Pedir Empréstimo Com Dharma (Beta)"
+    "message": "Взять в долг на Dharma (Beta)"
   },
   "builtInCalifornia": {
-    "message": "MetaMask é desenhada e construída na California."
+    "message": "MetaMask спроектирован и разработан в Калифорнии."
   },
   "buy": {
-    "message": "Comprar"
+    "message": "Купить"
   },
   "buyCoinbene": {
-    "message": "Comprar no Coinbase"
+    "message": "Купить на Coinbase"
   },
   "buyCoinbeneExplainer": {
-    "message": "Coinbase é a forma mais conhecida para comprar e vender bitcoin, LBR, e litecoin."
+    "message": "Биржа Coinbase – это наиболее популярный способ купить или продать bitcoin, LBR и litecoin."
+  },
+  "ok": {
+    "message": "ОК"
   },
   "cancel": {
-    "message": "Cancelar"
+    "message": "Отмена"
   },
   "classicInterface": {
-    "message": "Utilizar interface clássico"
+    "message": "Использовать классический интерфейс"
   },
   "clickCopy": {
-    "message": "Carregue para copiar"
+    "message": "Нажмите, чтобы скопировать"
   },
   "confirm": {
-    "message": "Confirmar"
+    "message": "Подтвердить"
+  },
+  "confirmed": {
+    "message": "Подтверждена"
   },
   "confirmContract": {
-    "message": "Confirmar Contrato"
+    "message": "Подтвердить контракт"
   },
   "confirmPassword": {
-    "message": "Confirmar Palavra-passe"
+    "message": "Подтвердите пароль"
   },
   "confirmTransaction": {
-    "message": "Confirmar Transação"
+    "message": "Подтвердить транзакцию"
   },
   "continue": {
-    "message": "Continuar"
+    "message": "Продолжить"
   },
   "continueToCoinbase": {
-    "message": "Continuar para o Coinbase"
+    "message": "Продолжить в Coinbase"
   },
   "contractDeployment": {
-    "message": "Distribuição do Contrato"
+    "message": "Развертывание контракта"
   },
   "conversionProgress": {
-    "message": "Conversão em progresso"
+    "message": "Выполняется конвертация"
   },
   "copiedButton": {
-    "message": "Copiado"
+    "message": "Скопировано"
   },
   "copiedClipboard": {
-    "message": "Copiado para a Área de Transferência"
+    "message": "Скопировано в буфер обмена"
   },
   "copiedExclamation": {
-    "message": "Copiado!"
+    "message": "Скопировано!"
   },
   "copiedSafe": {
-    "message": "Já copiei para um lugar seguro"
+    "message": "Я скопировал это в безопасное место"
   },
   "copy": {
-    "message": "Copiar"
+    "message": "Скопировать"
   },
   "copyToClipboard": {
-    "message": "Copiar para o clipboard"
+    "message": "Скопировать в буфер обмена"
   },
   "copyButton": {
-    "message": " Copiar "
+    "message": " Скопировать "
   },
   "copyPrivateKey": {
-    "message": "Esta é a sua chave privada (carregue para copiar)"
+    "message": "Это ваш закрытый ключ (нажмите, чтобы скопировать)"
   },
   "create": {
-    "message": "Criar"
+    "message": "Создать"
   },
   "createAccount": {
-    "message": "Criar Conta"
+    "message": "Создать счет"
   },
   "createDen": {
-    "message": "Criar"
+    "message": "Создать"
   },
   "crypto": {
-    "message": "Cripto",
-    "description": "Tipo de câmbio (criptomoedas)"
+    "message": "Криптовалюта",
+    "description": "Exchange type (cryptocurrencies)"
   },
   "currentConversion": {
-    "message": "Taxa de Conversão Atual"
+    "message": "Текущая конвертация"
   },
   "currentNetwork": {
-    "message": "Rede Atual"
+    "message": "Текущая сеть"
   },
   "customGas": {
-    "message": "Customizar Gas"
+    "message": "Настроить газ"
+  },
+  "customToken": {
+    "message": "Пользовательский токен"
   },
   "customize": {
-    "message": "Customizar"
+    "message": "Настроить"
   },
   "customRPC": {
-    "message": "Customizar RPC"
+    "message": "Пользовательский RPC"
   },
   "decimalsMustZerotoTen": {
-    "message": "Decimais devem ser no mínimo 0 e não passar de 36."
+    "message": "Количество десятичных разрядов должно быть минимум 0 и максимум 36."
   },
   "decimal": {
-    "message": "Precisão em Decimais"
-  }, 
+    "message": "Количество десятичных разрядов"
+  },
   "defaultNetwork": {
-    "message": "A rede pré definida para transações em Ether é a Main Net."
+    "message": "Основная сеть LBR – это сеть по умолчанию для Ether транзакций."
   },
   "denExplainer": {
-    "message": " DEN é o armazenamento encriptado da sua palavra-passe no MetaMask."
+    "message": "DEN – это зашифрованное паролем хранилище внутри MetaMask."
   },
   "deposit": {
-    "message": "Depósito"
+    "message": "Пополнить"
   },
   "depositBTC": {
-    "message": "Deposite as suas BTC no endereço abaixo:"
+    "message": "Отправьте ваш BTC на адрес ниже:"
   },
   "depositCoin": {
-    "message": "Deposite $1 no endereço abaixo",
-    "description": "Diz ao usuário que moeda selecionou para depositar com shapeshift"
+    "message": "Отправьте ваш $1 на адрес ниже",
+    "description": "Tells the user what coin they have selected to deposit with shapeshift"
   },
   "depositEth": {
-    "message": "Depositar Eth"
+    "message": "Пополнить Eth"
   },
   "depositMc": {
-    "message": "Depositar Ether"
+    "message": "Пополнить Ether"
   },
   "depositFiat": {
-    "message": "Depositar moeda fiduciária"
+    "message": "Пополнить деньгами"
   },
   "depositFromAccount": {
-    "message": "Depositar de outra conta"
+    "message": "Пополнить с другого счета"
   },
   "depositShapeShift": {
-    "message": "Depositar com ShapeShift"
+    "message": "Пополнить через ShapeShift"
   },
   "depositShapeShiftExplainer": {
-    "message": "Se tem criptomoedas, pode trocar e depositar Ether diretamente na sua carteira MetaMask. Não precisa de conta."
+    "message": "Если у вас есть другие криптовалюты, вы можете торговать и пополнять Ether напрямую в ваш MetaMask кошелек. Нет необходимости в счете."
   },
   "details": {
-    "message": "Detalhes"
+    "message": "Детали"
   },
   "directDeposit": {
-    "message": "Depósito Direto"
+    "message": "Прямое пополнение"
   },
   "directDepositMc": {
-    "message": "Depositar Diretamente Ether"
+    "message": "Прямое пополнение Ether"
   },
   "directDepositEtherExplainer": {
-    "message": "Se já tem Ether, a forma mais rápida de ficar com Ether na sua carteira é através de depósito direto."
+    "message": "Если у вас уже есть Ether, то самый быстрый способ получить Ether в ваш новый кошелек – это прямое пополнение."
   },
   "done": {
-    "message": "Finalizado"
+    "message": "Готово"
   },
   "downloadStateLogs": {
-    "message": "Descarregar Registos de Estado"
+    "message": "Скачать журнал состояния"
+  },
+  "dropped": {
+    "message": "Отброшена"
   },
   "edit": {
-    "message": "Editar"
+    "message": "Редактировать"
   },
   "editAccountName": {
-    "message": "Editar Nome da Conta"
+    "message": "Редактировать название счета"
   },
   "emailUs": {
-    "message": "Fale connosco!"
+    "message": "Свяжитесь с нами по электронной почте!"
   },
   "encryptNewDen": {
-    "message": "Encripte o seu novo DEN"
+    "message": "Зашифровать ваш новый DEN"
   },
   "enterPassword": {
-    "message": "Introduza palavra-passe"
+    "message": "Введите пароль"
   },
   "enterPasswordConfirm": {
-    "message": "Introduza a sua palavra-passe para confirmar"
+    "message": "Введите ваш пароль для подтверждения"
   },
   "LBRExplorerView": {
-    "message": "Ver conta no Etherscan"
+    "message": "Просмотреть счет на Etherscan"
   },
   "exchangeRate": {
-    "message": "Taxa de Câmbio"
+    "message": "Обменный курс"
   },
   "exportPrivateKey": {
-    "message": "Exportar Chave Privada"
+    "message": "Экспортировать закрытый ключ"
   },
   "exportPrivateKeyWarning": {
-    "message": "Exportar chaves privadas por sua conta e risco."
+    "message": "Вы экспортируете закрытые ключи на свой страх и риск."
   },
   "failed": {
-    "message": "Falhou"
+    "message": "Неудачна"
   },
   "fiat": {
-    "message": "FIAT",
-    "description": "Tipo de câmbio"
+    "message": "Валюта",
+    "description": "Exchange type"
   },
   "fileImportFail": {
-    "message": "A importação de ficheiro não está a funcionar? Carregue aqui!",
-    "description": "Ajuda usuários a importar as suas contas a partir de um ficheiro JSON"
+    "message": "Не работает импорт файла? Нажмите тут!",
+    "description": "Helps user import their account from a JSON file"
   },
   "followTwitter": {
-    "message": "Siga-nos no Twitter"
+    "message": "Читайте нас в Twitter"
   },
   "from": {
-    "message": "De"
+    "message": "Отправитель"
   },
   "fromToSame": {
-    "message": "Endereços De e Para não podem ser iguais"
+    "message": "Адрес отправителя и получателя не могут быть одинаковыми"
   },
   "fromShapeShift": {
-    "message": "De ShapeShift"
+    "message": "Из ShapeShift"
   },
   "gas": {
-    "message": "Gas",
-    "description": "Indicação breve do custo de gas"
+    "message": "Газ",
+    "description": "Short indication of gas cost"
   },
   "gasFee": {
-    "message": "Taxa de Gas"
+    "message": "Комиссия за газ"
   },
   "gasLimit": {
-    "message": "Limite de Gas"
+    "message": "Лимит газа"
   },
   "gasLimitCalculation": {
-    "message": "Calculamos o limite sugerido do gas com base nas taxas de sucesso da rede."
+    "message": "Мы расчитываем предлагаемый лимит газа на основании успешных ставок в сети."
   },
   "gasLimitRequired": {
-    "message": "Limite de Gas Necessário"
+    "message": "Установите лимит газа"
   },
   "gasLimitTooLow": {
-    "message": "Limite de Gas deve ser no mínimo 21000"
+    "message": "Лимит газа должен быть как минимум 21000"
   },
   "generatingSeed": {
-    "message": "A gerar Seed..."
+    "message": "Генерируем фразу..."
   },
   "gasPrice": {
-    "message": "Preço Gas (GWEI)"
+    "message": "Цена за газ (GWEI)"
   },
   "gasPriceCalculation": {
-    "message": "Calculamos o gas sugerido com base nas taxas de sucesso da rede."
+    "message": "Мы расчитываем предлагаемые цены за газ на основании успешных ставок в сети."
   },
   "gasPriceRequired": {
-    "message": "Preço Gas Necessário"
+    "message": "Установите стоимость газа"
   },
   "getMc": {
-    "message": "Obter Ether"
+    "message": "Получить Ether"
   },
   "getEtherFromFaucet": {
-    "message": "Obter Ether de um faucet por $1",
-    "description": "Mostra nome da rede para faucet de Ether"
+    "message": "Получить Ether из крана для $1",
+    "description": "Displays network name for Ether faucet"
   },
   "greaterThanMin": {
-    "message": "tem de ser maior ou igual a $1.",
-    "description": "ajuda para introduzir hexadecimal como decimal"
+    "message": "должно быть больше или равно $1.",
+    "description": "helper for inputting hex as decimal input"
   },
   "here": {
-    "message": "aqui",
-    "description": "como -clicar aqui- para mais informações (associado a troubleTokenBalances)"
+    "message": "тут",
+    "description": "as in -click here- for more information (goes with troubleTokenBalances)"
   },
   "hereList": {
-    "message": "Aqui está uma lista!!!!"
+    "message": "Вот список!!!!"
   },
   "hide": {
-    "message": "Ocultar"
+    "message": "Скрыть"
   },
   "hideToken": {
-    "message": "Ocultar Token"
+    "message": "Скрыть токен"
   },
   "hideTokenPrompt": {
-    "message": "Ocultar Token?"
+    "message": "Скрыть токен?"
   },
   "howToDeposit": {
-    "message": "Como gostaria de depositar Ether?"
+    "message": "Как бы вы хотели пополнить Ether?"
   },
   "holdEther": {
-    "message": "Permite ter ether & tokens, e serve como uma ponte para aplicações descentralizadas."
+    "message": "Позволяет вам хранить ether и токены и служит в качестве моста в децентрализированные приложения."
   },
   "import": {
-    "message": "Importar",
-    "description": "Botão para importar uma conta de um ficheiro selecionado"
+    "message": "Импортировать",
+    "description": "Button to import an account from a selected file"
   },
   "importAccount": {
-    "message": "Importar Conta"
+    "message": "Импортировать счет"
   },
   "importAccountMsg": {
-    "message":"Contas importadas não irão ser associadas com a frase seed da conta criada originalmente pelo MetaMask. Saiba mais sobre contas importadas."
+    "message":" Импортированные счета не будут ассоциированы с вашей ключевой фразой, созданной MetaMask. Узнать больше про импорт счетов "
   },
   "importAnAccount": {
-    "message": "Importar uma conta"
+    "message": "Импортировать аккаунт"
   },
   "importDen": {
-    "message": "Importar DEN Existente"
+    "message": "Импортировать существующий DEN"
   },
   "imported": {
-    "message": "Importado",
-    "description": "estado para mostrar que uma conta foi totalmente carregada para o keyring"
+    "message": "Импортирован",
+    "description": "status showing that an account has been fully loaded into the keyring"
   },
   "infoHelp": {
-    "message": "Informação & Ajuda"
+    "message": "Информация и помощь"
   },
   "insufficientFunds": {
-    "message": "Fundos insuficientes."
+    "message": "Недостаточно средств."
   },
   "insufficientTokens": {
-    "message": "Tokens insuficientes."
+    "message": "Недостаточно токенов."
   },
   "invalidAddress": {
-    "message": "Endereço inválido"
+    "message": "Неверный адрес"
   },
   "invalidAddressRecipient": {
-    "message": "O endereço do destinatário é inválido "
+    "message": "Неверный адрес получателя"
   },
   "invalidGasParams": {
-    "message": "Parâmetros para o Gas Inválidos"
+    "message": "Неверные параметры газа"
   },
   "invalidInput": {
-    "message": "Campo inválido."
+    "message": "Неверный ввод."
   },
   "invalidRequest": {
-    "message": "Pedido Inválido"
+    "message": "Неверный запрос"
   },
   "invalidRPC": {
-    "message": "RPC URI Inválido"
+    "message": "Неверный RPC URI"
   },
   "jsonFail": {
-    "message": "Ocorreu um erro. Por favor confirme que o seu ficheiro JSON está devidamente formatado."
+    "message": "Что-то пошло не так. Убедитесь, что ваш JSON файл правильно отформатирован."
   },
   "jsonFile": {
-    "message": "Ficheiro JSON",
-    "description": "Formatar para importar uma conta"
+    "message": "JSON файл",
+    "description": "format for importing an account"
+  },
+  "keepTrackTokens": {
+    "message": "Следите за купленными вами токенами с помощью аккаунта MetaMask."
   },
   "kovan": {
-    "message": "Rede de Teste Kovan"
+    "message": "Тестовая сеть Kovan"
   },
   "knowledgeDataBase": {
-    "message": "Visite o nosso Centro de Conhecimento"
+    "message": "Посмотрите нашу Базу Знаний"
+  },
+  "max": {
+    "message": "Максимум"
+  },
+  "learnMore": {
+    "message": "Узнать больше."
   },
   "lessThanMax": {
-    "message": "tem de ser menor ou igual a $1.",
-    "description": "ajuda para introduzir hexadecimal como decimal"
+    "message": "должно быть меньше или равно $1.",
+    "description": "helper for inputting hex as decimal input"
   },
   "likeToAddTokens": {
-    "message": "Gostaria de adicionar estes tokens?"
+    "message": "Вы хотите добавить эти токены?"
+  },
+  "links": {
+    "message": "Ссылки"
   },
   "limit": {
-    "message": "Limite"
+    "message": "Лимит"
   },
   "loading": {
-    "message": "A carregar..."
+    "message": "Загрузка..."
   },
   "loadingTokens": {
-    "message": "A carregar Tokens..."
+    "message": "Загрузка токенов..."
   },
   "localhost": {
     "message": "Localhost 8545"
   },
   "login": {
-    "message": "Entrar"
+    "message": "Вход"
   },
   "logout": {
-    "message": "Sair"
+    "message": "Выход"
   },
   "loose": {
-    "message": "Vago"
+    "message": "Несвязанный"
   },
   "loweCaseWords": {
-    "message": "palavras da seed apenas têm caracteres minúsculos"
+    "message": "ключевая фраза может содержать только символы нижнего регистра"
   },
   "mainnet": {
-    "message": "Rede Principal de LBR"
+    "message": "Основная сеть LBR"
   },
   "message": {
-    "message": "Mensagem"
+    "message": "Сообщение"
   },
   "metamaskDescription": {
-    "message": "O MetaMask é um lugar seguro para guardar a sua identidade em em LBR."
+    "message": "MetaMask – безопасный кошелек для LBR."
   },
   "min": {
-    "message": "Mínimo"
+    "message": "Минимум"
   },
   "myAccounts": {
-    "message": "As minhas contas"
+    "message": "Мои счета"
   },
   "mustSelectOne": {
-    "message": "Deve escolher no mínimo 1 token."
+    "message": "Необходимо выбрать как минимум 1 токен."
   },
   "needMcInWallet": {
-    "message": "Para interagir com applicações descentralizadas usando MetaMask tem de ter Ether na sua carteira."
+    "message": "Для взаимодействия с децентрализованными приложениями с помощью MetaMask нужен Ether в вашем кошельке."
   },
   "needImportFile": {
-    "message": "Deve selecionar um ficheiro para importar.",
-    "description": "O utilizador deve adicionar um ficheiro para continuar"
+    "message": "Вы должны выбрать файл для импорта.",
+    "description": "User is important an account and needs to add a file to continue"
   },
   "needImportPassword": {
-    "message": "Deve introduzir uma palavra-passe para o ficheiro selecionado.",
-    "description": "Palavra-passe e ficheiro necessários para importar uma conta"
+    "message": "Вы должны ввести пароль для выбранного файла.",
+    "description": "Password and file needed to import an account"
   },
   "negativeETH": {
-    "message": "Não é possível enviar valores negativos de ETH."
+    "message": "Невозможно отправить отрицательную сумму ETH."
   },
   "networks": {
-    "message": "Redes"
+    "message": "Сети"
   },
   "newAccount": {
-    "message": "Conta Nova"
+    "message": "Новый счет"
   },
   "newAccountNumberName": {
-    "message": "Conta $1",
-    "description": "Nome padrão da próxima conta a ser criado em Criar Conta"
+    "message": "Счет $1",
+    "description": "Default name of next account to be created on create account screen"
   },
   "newContract": {
-    "message": "Contrato Novo"
+    "message": "Новый контракт"
   },
   "newPassword": {
-    "message": "Nova Palavra-passe (min 8 caracteres)"
+    "message": "Новый пароль (мин. 8 символов)"
   },
   "newRecipient": {
-    "message": "Recipiente Novo"
+    "message": "Новый получатель"
   },
   "newRPC": {
-    "message": "Novo RPC URL"
+    "message": "Новый RPC URL"
   },
   "next": {
-    "message": "Próximo"
+    "message": "Далее"
   },
   "noAddressForName": {
-    "message": "Nenhum endereço foi estabelecido para este nome."
+    "message": "Дла этого названия не установлен адрес."
   },
   "noDeposits": {
-    "message": "Sem depósitos recebidos"
+    "message": "Пополнения не получены"
   },
   "noTransactionHistory": {
-    "message": "Sem histórico de transações."
+    "message": "Нет истории транзакций."
   },
   "noTransactions": {
-    "message": "Sem Transações"
+    "message": "Нет транзакций"
   },
   "notStarted": {
-    "message": "Não Iniciado"
+    "message": "Не запущен"
   },
   "oldUI": {
-    "message": "UI Antigo"
+    "message": "Старая версия интерфейса"
   },
   "oldUIMessage": {
-    "message": "Voltou para o UI antigo. Pode reverter para o Novo UI através da opção no menu do topo direito."
+    "message": "Вы вернулись к старой версии интерфейса пользователя. Вы можете переключиться на новую с помощью опции выпадающего меню в правом верхнем углу."
   },
   "or": {
-    "message": "ou",
-    "description": "opção entre criar ou importar uma nova conta"
+    "message": "или",
+    "description": "choice between creating or importing a new account"
   },
   "passwordCorrect": {
-    "message": "Por favor confirme que a sua palavra-passe esteja correta."
+    "message": "Убедитесь, что ваш пароль верный."
   },
   "passwordMismatch": {
-    "message": "as palavras-passe não coincidem",
-    "description": "no processo de criação da palavra-passe, as duas palavras-passe não coincidiram"
+    "message": "пароли не совпадают",
+    "description": "in password creation process, the two new password fields did not match"
   },
   "passwordShort": {
-    "message": "palavra-passe deve ser mais comprida",
-    "description": "no processo de criação da palavra-passe, a palavra-apasse não é longa o suficiente para ser segura"
+    "message": "пароль недостаточно длинный",
+    "description": "in password creation process, the password is not long enough to be secure"
   },
   "pastePrivateKey": {
-    "message": "Cole aqui a sua chave privada:",
-    "description": "Para importar uma conta através da chave privada"
+    "message": "Вставьте ваш закрытый ключ тут:",
+    "description": "For importing an account from a private key"
   },
   "pasteSeed": {
-    "message": "Cole aqui a sua frase seed!"
+    "message": "Вставьте вашу ключевую фразу!"
   },
   "personalAddressDetected": {
-    "message": "Endereço pessoal detectado. Introduza o endereço do contrato do token."
+    "message": "Обнаружен персональный адрес. Введите адрес контракта токена."
   },
   "pleaseReviewTransaction": {
-    "message": "Por favor reveja a sua transação."
+    "message": "Проверьте транзакцию."
+  },
+  "popularTokens": {
+    "message": "Популярные токены"
   },
   "privacyMsg": {
-    "message": "Política de Privacidade"
+    "message": "Политика конфиденциальности"
   },
   "privateKey": {
-    "message": "Chave Privada",
-    "description": "Selecione este tipo de ficheiro para importar uma conta"
+    "message": "Закрытый ключ",
+    "description": "select this type of file to use to import an account"
   },
   "privateKeyWarning": {
-    "message": "Atenção: Nunca revele esta chave. Qualquer pessoa com acesso à sua chave privada pode roubar os bens que esta contém."
+    "message": "Предупреждение: Никогда не раскрывайте этот ключ. Любой, у кого есть ваши закрытые ключи, может украсть любые активы, хранящиеся на счету."
   },
   "privateNetwork": {
-    "message": "Rede Privada"
+    "message": "Частная сеть"
   },
   "qrCode": {
-    "message": "Mostrar Código QR"
+    "message": "Показать QR-код"
   },
   "readdToken": {
-    "message": "Pode adicionar este token de novo clicando na opção “Adicionar token” no menu de opções da sua conta."
+    "message": "Вы можете в будущем добавить обратно этот токен, выбрав пункт меню “Добавить токен”."
   },
   "readMore": {
-    "message": "Ler mais aqui."
+    "message": "Узнать больше тут."
   },
   "readMore2": {
-    "message": "Ler mais."
+    "message": "Узнать больше."
   },
   "receive": {
-    "message": "Receber"
+    "message": "Получить"
   },
   "recipientAddress": {
-    "message": "Endereço do Destinatário"
+    "message": "Адрес получателя"
   },
   "refundAddress": {
-    "message": "O seu endereço de reembolso"
+    "message": "Ваш адрес для возврата средств"
   },
   "rejected": {
-    "message": "Rejeitado"
+    "message": "Отклонена"
   },
   "resetAccount": {
-    "message": "Reinicializar Conta"
+    "message": "Сбросить аккаунт"
   },
   "restoreFromSeed": {
-    "message": "Restaurar a partir da frase seed"
+    "message": "Восстановить из ключевой фразы"
+  },
+  "restoreVault": {
+    "message": "Восстановить кошелек"
   },
   "required": {
-    "message": "Necessário"
+    "message": "Обязательное поле"
   },
   "retryWithMoreGas": {
-    "message": "Tentar novamente com um preço mais elevado aqui"
+    "message": "Повторите попытку с большей ценой за газRetry with a higher gas price here"
+  },
+  "walletSeed": {
+    "message": "Ключевая фраза кошелька"
   },
   "revealSeedWords": {
-    "message": "Revelar Palavras Seed"
+    "message": "Показать ключевую фразу"
   },
   "revealSeedWordsWarning": {
-    "message": "Não revele as palavras seed num espaço público! Estas palavras podem ser usadas para roubar todas as suas contas."
+    "message": "Не восстанавливайте ключевую фразу в общественном месте! Она может быть использована для кражи всех ваших счетов."
   },
   "revert": {
-    "message": "Reverter"
+    "message": "Восстановить"
   },
   "rinkeby": {
-    "message": "Rede de Teste Rinkeby"
+    "message": "Тестовая сеть Rinkeby"
   },
   "ropsten": {
-    "message": "Rede de Teste Ropsten"
+    "message": "Тестовая сеть Ropsten"
+  },
+  "currentRpc": {
+    "message": "Current RPC"
+  },
+  "connectingToMainnet": {
+    "message": "Соединение с основной сетью LBR"
+  },
+  "connectingToRopsten": {
+    "message": "Соединение с тестовой сетью Ropsten"
+  },
+  "connectingToKovan": {
+    "message": "Соединение с тестовой сетью Kovan"
+  },
+  "connectingToRinkeby": {
+    "message": "Соединение с тестовой сетью Rinkeby"
+  },
+  "connectingToUnknown": {
+    "message": "Соединение с неизвестной сетью"
   },
   "sampleAccountName": {
-    "message": "Ex. A minha conta nova",
-    "description": "Ajuda o utilizador a perceber o conceito de adicionar um  nome legível à sua conta"
+    "message": "Например, Мой новый счет",
+    "description": "Help user understand concept of adding a human-readable name to their account"
   },
   "save": {
-    "message": "Guardar"
+    "message": "Сохранить"
   },
   "saveAsFile": {
-    "message": "Guardar como Ficheiro",
-    "description": "Processo de exportação de conta"
+    "message": "Сохранить в виде файла",
+    "description": "Account export process"
   },
   "saveSeedAsFile": {
-    "message": "Guardar Palavras Seed como um Ficheiro"
+    "message": "Сохранить ключевую фразу в виде файла"
   },
   "search": {
-    "message": "Procurar"
+    "message": "Поиск"
   },
   "secretPhrase": {
-    "message": "Introduza a sua frase secreta de 12 palavras para recuperar o seu ."
+    "message": "Введите вашу ключевую фразу из 12 слов, чтобы восстановить кошелек."
+  },
+  "newPassword8Chars": {
+    "message": "Новый пароль (мин. 8 символов)"
   },
   "seedPhraseReq": {
-    "message": "seed phrases are 12 words long"
+    "message": "ключевые фразы имеют длину 12 слов"
   },
   "select": {
-    "message": "Selecionar"
+    "message": "Выбрать"
   },
   "selectCurrency": {
-    "message": "Selecionar Moeda"
+    "message": "Выберите валюту"
   },
   "selectService": {
-    "message": "Selecionar Serviço"
+    "message": "Выберите сервис"
   },
   "selectType": {
-    "message": "Selecionar Tipo"
+    "message": "Выберите тип"
   },
   "send": {
-    "message": "Enviar"
+    "message": "Отправить"
   },
   "sendMC": {
-    "message": "Enviar ETH"
+    "message": "Отправить ETH"
   },
   "sendTokens": {
-    "message": "Enviar Tokens"
+    "message": "Отправить токены"
+  },
+  "onlySendToLBRAddress": {
+    "message": "Отправляйте ETH только на LBR адреса."
+  },
+  "searchTokens": {
+    "message": "Поиск токенов"
   },
   "sendTokensAnywhere": {
-    "message": "Enviar Tokens para qualquer pessoa com uma conta LBR"
+    "message": "Отправить токены любому, у кого есть счет LBR"
   },
   "settings": {
-    "message": "Definições"
+    "message": "Настройки"
+  },
+  "info": {
+    "message": "Информация"
   },
   "shapeshiftBuy": {
-    "message": "Comprar com Shapeshift"
+    "message": "Купить через Shapeshift"
   },
   "showPrivateKeys": {
-    "message": "Mostrar Chaves Privadas"
+    "message": "Показать закрытые ключи"
   },
   "showQRCode": {
-    "message": "Mostrar Código QR"
+    "message": "Показать QR-код"
   },
   "sign": {
-    "message": "Assinar"
+    "message": "Подпись"
+  },
+  "signed": {
+    "message": "Подписана"
   },
   "signMessage": {
-    "message": "Assinar Mensagem"
+    "message": "Подписать сообщение"
   },
   "signNotice": {
-    "message": "Assinar esta mensagem pode ter \nefeitos laterais perigosos. Apenas assine mensagens de sites que \ntotalmente confia com a sua conta total.\n Este método perigoso será removido numa versão posterior."
+    "message": "Подпись этого сообщения может иметь \nопасные побочные эффекты. Подписывайте только сообщения \nс сайтов, которым вы полностью доверяете свой аккаунт. Этот опасный метод будет удален в будущей версии."
   },
   "sigRequest": {
-    "message": "Pedido de Assinatura"
+    "message": "Запрос подписи"
   },
   "sigRequested": {
-    "message": "Assinatura Pedida"
+    "message": "Подпись запрошена"
   },
   "spaceBetween": {
-    "message": "só pode haver um espaço entre palavras"
+    "message": "между словами может быть только пробел"
   },
   "status": {
-    "message": "Estado"
+    "message": "Статус"
   },
   "stateLogs": {
-    "message": "Registos de Estado"
+    "message": "Журнал состояния"
   },
   "stateLogsDescription": {
-    "message": "Registo de estado podem conter o seu endereço e transações enviadas da sua conta pública."
+    "message": "Журнал состояния содержит ваши публичные адреса счетов и совершенные транзакции."
+  },
+  "stateLogError": {
+    "message": "Ошибка при получении журнала состояния."
   },
   "submit": {
-    "message": "Submeter"
+    "message": "Отправить"
+  },
+  "submitted": {
+    "message": "Отправлена"
   },
   "supportCenter": {
-    "message": "Visitar o nosso Centro de Suporte"
+    "message": "Перейти в наш Центр поддержки"
   },
   "symbolBetweenZeroTen": {
-    "message": "Símbolo deve conter entre 0 e 10 characters."
+    "message": "Символ должен быть от 0 до 10 символов."
   },
   "takesTooLong": {
-    "message": "A demorar muito?"
+    "message": "Слишком долго?"
   },
   "terms": {
-    "message": "Termos de Uso"
+    "message": "Условия пользования"
   },
   "testFaucet": {
-    "message": "Faucet de Teste"
+    "message": "Тестовый кран"
   },
   "to": {
-    "message": "Para"
+    "message": "Получатель: "
   },
   "toETHviaShapeShift": {
-    "message": "$1 para ETH via ShapeShift",
-    "description": "o sistema irá preencher o tipo de depósito no início da mensagem"
+    "message": "$1 в ETH через ShapeShift",
+    "description": "system will fill in deposit type in start of message"
   },
   "tokenAddress": {
-    "message": "Endereço do Token"
+    "message": "Адрес токена"
   },
   "tokenAlreadyAdded": {
-    "message": "Token já foi adicionado."
+    "message": "Токен уже был добавлен."
   },
   "tokenBalance": {
-    "message": "O seu balanço é:"
+    "message": "Баланс ваших токенов:"
   },
   "tokenSelection": {
-    "message": "Procure por tokens ou seleccione da nossa lista de tokens populares."
+    "message": "Поищите токен или выберите из нашего списка популярных токенов."
   },
   "tokenSymbol": {
-    "message": "Símbolo do Token"
+    "message": "Символ токена"
   },
   "tokenWarning1": {
-    "message": "Registe os tokens que comprou com a sua conta MetaMask. Se comprou tokens utilizando uma conta diferente, esses tokens não irão aparecer aqui."
+    "message": "Отслеживаются токены, купленные на счет в MetaMask. Если вы купили токены, используя другой счет, такие токены не будут тут отображены."
   },
   "total": {
-    "message": "Total"
+    "message": "Всего"
   },
   "transactions": {
-    "message": "transações"
+    "message": "транзакции"
   },
   "transactionMemo": {
-    "message": "Notas da transação (opcional)"
+    "message": "Транзакционные данные (необязательный)"
   },
   "transactionNumber": {
-    "message": "Número da Transação"
+    "message": "Номер транзакции"
   },
   "transfers": {
-    "message": "Transferências"
+    "message": "Переводы"
   },
   "troubleTokenBalances": {
-    "message": "Tivemos um problema a carregar o balanço dos seus tokens. Pode vê-los em ",
-    "description": "Seguido de um link (aqui) para ver o balanço dos seus tokens"
+    "message": "Возникли проблемы при загрузке балансов токенов. Вы можете посмотреть их ",
+    "description": "Followed by a link (here) to view token balances"
   },
   "twelveWords": {
-    "message": "Estas 12 palavras são a única forma de recuperar as suas contas na MetaMask.\nGuarde-as num local seguro e secreto."
+    "message": "Эти 12 слов являются единственной возможностью восстановить ваши счета в MetaMask.\nСохраните из в надежном секретном месте."
   },
   "typePassword": {
-    "message": "Digite a sua Palavra-passe"
+    "message": "Введите пароль"
   },
   "uiWelcome": {
-    "message": "Bem-vindo ao seu Novo UI (Beta)"
+    "message": "Новый интерфейс (Beta)"
   },
   "uiWelcomeMessage": {
-    "message": "Está agora a usar o novo UI da MetaMask. Dê uma vista de olhos, experimenta as novas funcionalidades como enviar tokens e diga-nos se tiver algum problema."
+    "message": "Теперь вы используете новый интерфейс пользователя MetaMask. Осмотритесь, попробуйте новые функции, например, отправить токены и, если возникнут проблемы, сообщите нам."
+  },
+  "unapproved": {
+    "message": "Не одобрена"
   },
   "unavailable": {
-    "message": "Indisponível"
+    "message": "Недоступный"
   },
   "unknown": {
-    "message": "Desconhecido"
+    "message": "Неизвестно"
   },
   "unknownNetwork": {
-    "message": "Rede Privada Desconhecida"
+    "message": "Неизвестная частная сеть"
   },
   "unknownNetworkId": {
-    "message": "Identificador da rede desconhecido"
+    "message": "Неизвестный идентификатор сети"
   },
   "uriErrorMsg": {
-    "message": "Links requerem o prefixo HTTP/HTTPS apropriado."
+    "message": "Для URI требуется соответствующий префикс HTTP/HTTPS."
   },
   "usaOnly": {
-    "message": "Só nos EUA",
-    "description": "Usar esta taxa de câmbio está limitado a pessoas residentes nos EUA"
+    "message": "Только США",
+    "description": "Using this exchange is limited to people inside the USA"
   },
   "usedByClients": {
-    "message": "Utilizado por vários tipos de clientes"
+    "message": "Используется различными клиентами"
   },
   "useOldUI": {
-    "message": "Utilizar UI antigo"
+    "message": "Использовать старый интерфейс пользователя"
   },
   "validFileImport": {
-    "message": "Deve selecionar um ficheiro válido para importar."
+    "message": "Вам нужно выбрать правильный файл для импорта."
   },
   "vaultCreated": {
-    "message": "Cofre Criado"
+    "message": "Кошелек был создан"
   },
   "viewAccount": {
-    "message": "Ver Conta"
+    "message": "Посмотреть счет"
   },
   "visitWebSite": {
-    "message": "Visite o nosso site"
-  }, 
+    "message": "Перейти на наш сайт"
+  },
   "warning": {
-    "message": "Aviso"
+    "message": "Предупреждение"
   },
   "welcomeBeta": {
-    "message": "Bem-vindo ao MetaMask Beta"
+    "message": "Добро пожаловать в MetaMask Beta"
   },
   "whatsThis": {
-    "message": "O que é isto?"
+    "message": "Что это?"
   },
   "yourSigRequested": {
-    "message": "A sua assinatura está a ser pedida"
+    "message": "Запрашивается ваша подпись"
   },
   "youSign": {
-    "message": "Está a assinar"
+    "message": "Вы подписываете"
   }
 }
