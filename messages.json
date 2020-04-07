@@ -1,819 +1,912 @@
 ﻿{
   "accept": {
-    "message": "ยอมรับ"
+    "message": "ஏற்கவும்"
   },
   "account": {
-    "message": "บัญชี"
+    "message": "கணக்கு"
   },
   "accountDetails": {
-    "message": "รายละเอียดบัญชี"
+    "message": "கணக்கு விவரங்கள்"
   },
   "accountName": {
-    "message": "ชื่อบัญชี"
+    "message": "கணக்கின் பெயர்"
   },
   "address": {
-    "message": "แอดเดรส"
+    "message": "முகவரி"
   },
   "addCustomToken": {
-    "message": "เพิ่มโทเค็นด้วยตัวเอง"
+    "message": "தனிப்பயன் டோக்கனைச் சேர்க்கவும்"
   },
   "addToken": {
-    "message": "เพิ่มโทเค็น"
+    "message": "டோக்கனைச் சேர்"
   },
   "addTokens": {
-    "message": "เพิ่มหลายโทเค็น"
+    "message": "டோக்கன்களைச் சேர்"
   },
   "amount": {
-    "message": "จำนวน"
+    "message": "தொகை"
   },
   "amountPlusGas": {
-    "message": "จำนวน + แก๊ส"
+    "message": "தொகை + எரிவாயு"
   },
   "appDescription": {
-    "message": "ส่วนขยายเบราว์เซอร์สำหรับอีเธอเรียม",
-    "description": "The description of the application"
+    "message": "எதெரியும்  பிரௌசர்  நீட்டிப்பு",
+    "description": "பயன்பாட்டின் விளக்கம்"
   },
   "appName": {
-    "message": "MetaMask",
-    "description": "The name of the application"
+    "message": "மேடமஸ்க் ",
+    "description": "பயன்பாட்டின் பெயர்"
+  },
+  "approved": {
+    "message": "அங்கீகரிக்கப்பட்ட"
   },
   "attemptingConnect": {
-    "message": "กำลังเชื่อมต่อกับบล็อกเชน"
+    "message": "இணைக்க முயற்சி செய்க ப்ளாக்சைன்"
   },
   "attributions": {
-    "message": "อ้างถึง"
+    "message": "பண்புகளும்"
   },
   "available": {
-    "message": "ว่าง"
+    "message": "கிடைக்கும்"
   },
   "back": {
-    "message": "กลับ"
+    "message": "மீண்டும்"
   },
   "balance": {
-    "message": "ยอดคงเหลือ:"
+    "message": "இருப்பு:"
   },
   "balances": {
-    "message": "ยอดคงเหลือของคุณ"
+    "message": "உங்கள் இருப்பு"
   },
   "balanceIsInsufficientGas": {
-    "message": "ยอดคงเหลือไม่พอสำหรับจ่ายค่าแก๊สทั้งหมด"
+    "message": "நடப்பு வாயு மொத்தம் போதுமான சமநிலை"
   },
   "beta": {
-    "message": "เบต้า"
+    "message": "பீட்டா"
   },
   "betweenMinAndMax": {
-    "message": "ต้องมากกว่าหรือเท่ากับ $1 และน้อยกว่าหรือเท่ากับ $2",
-    "description": "helper for inputting hex as decimal input"
+    "message": "$ 1 க்கும் அதிகமாகவும் அல்லது $ 2 க்கு சமமாகவும் இருக்க வேண்டும்.",
+    "description": "ஹெக்ஸ் உள்ளீடு தசம உள்ளீடு என உதவி"
   },
   "blockiesIdenticon": {
-    "message": "ใช้งาน Blockies Identicon"
+    "message": "ப்ளாக்கிஸ் ஐடென்டிகோன் பயன்பாட்டு"
   },
   "borrowDharma": {
-    "message": "ยืมด้วย Dharma (เบต้า)"
+    "message": "தர்மத்துடன் கடன் வாங்குங்கள் (பீட்டா)"
   },
   "builtInCalifornia": {
-    "message": "MetaMask ออกแบบและพัฒนาที่แคลิฟอร์เนีย"
+    "message": "மேடமஸ்க் வடிவமைக்கப்பட்டு கலிபோர்னியாவில் கட்டப்பட்டுள்ளது."
   },
   "buy": {
-    "message": "ซื้อ"
+    "message": "வாங்க"
   },
   "buyCoinbene": {
-    "message": "ซื้อด้วย Coinbase"
+    "message": "கோஇன்பசே வாங்கவும்"
   },
   "buyCoinbeneExplainer": {
-    "message": "Coinbase เป็นแหล่งซื้อขายบิตคอยน์ไลท์คอยน์และอีเธอเรียมที่ได้รับความนิยมสูงสุดในโลก"
+    "message": "கோஇன்பசே பிறகாய்ன் , எதெரியும் மற்றும் ளிட்டசோன் வாங்க மற்றும் விற்க உலகின் மிகவும் பிரபலமான வழி"
+  },
+  "ok": {
+    "message": "சரி"
   },
   "cancel": {
-    "message": "ยกเลิก"
+    "message": "ரத்து"
   },
   "classicInterface": {
-    "message": "ใช้หน้าตาแบบเก่า"
+    "message": "கிளாசிக் இடைமுகத்தைப் பயன்படுத்தவும்"
   },
   "clickCopy": {
-    "message": "กดเพื่อคัดลอก"
+    "message": "நகலெடுக்க கிளிக் செய்யவும்"
   },
   "confirm": {
-    "message": "ยืนยัน"
+    "message": "உறுதிப்படுத்தவும்"
+  },
+  "confirmed": {
+    "message": "உறுதி"
   },
   "confirmContract": {
-    "message": "ยืนยันสัญญา"
+    "message": "ஒப்பந்தத்தை உறுதிப்படுத்துக"
   },
   "confirmPassword": {
-    "message": "ยืนยันรหัสผ่าน"
+    "message": "கடவுச்சொல்லை உறுதிப்படுத்துக"
   },
   "confirmTransaction": {
-    "message": "ยืนยันการทำรายการธุรกรรม"
+    "message": "பரிவர்த்தனை உறுதிபடுத்தவும்"
   },
   "continue": {
-    "message": "ทำต่อไป"
+    "message": "தொடர்ந்து"
   },
   "continueToCoinbase": {
-    "message": "ไปที่ Coinbase"
+    "message": "கோஇன்பசே ஐத் தொடரவும்"
   },
   "contractDeployment": {
-    "message": "การติดตั้งสัญญา"
+    "message": "ஒப்பந்த வரிசைப்படுத்தல்"
   },
   "conversionProgress": {
-    "message": "กำลังดำเนินการแปลงหน่วย"
+    "message": "மாற்றம் முன்னேற்றம்"
   },
   "copiedButton": {
-    "message": "คัดลอกแล้ว"
+    "message": "நகலெடுக்கப்பட்டன"
   },
   "copiedClipboard": {
-    "message": "คัดลอกไปที่คลิบบอร์ดแล้ว"
+    "message": "கிளிப்போர்டுக்கு நகலெடுக்கப்பட்டது"
   },
   "copiedExclamation": {
-    "message": "คัดลอกแล้ว!"
+    "message": "நகலெடுக்கப்பட்டன!"
   },
   "copiedSafe": {
-    "message": "ฉันได้คัดลอกเก็บไว้ในที่ปลอดภัยเรียบร้อยแล้ว"
+    "message": "நான் எங்காவது பாதுகாப்பாக நகலெடுத்திருக்கிறேன்"
   },
   "copy": {
-    "message": "คัดลอก"
+    "message": "நகல்"
   },
   "copyToClipboard": {
-    "message": "คัดลอกไปคลิปบอร์ด"
+    "message": "கிளிப்போர்டுக்கு நகலெடுக்கப்பட்டது"
   },
   "copyButton": {
-    "message": " คัดลอก "
+    "message": " நகல் "
   },
   "copyPrivateKey": {
-    "message": "นี่คือคีย์ส่วนตัวของคุณ(กดเพื่อคัดลอก)"
+    "message": "இது உங்கள் தனிப்பட்ட விசை (நகலெடுக்க கிளிக் செய்யவும்)"
   },
   "create": {
-    "message": "สร้าง"
+    "message": "உருவாக்கவும்"
   },
   "createAccount": {
-    "message": "สร้างบัญชี"
+    "message": "உங்கள் கணக்கை துவங்குங்கள்"
   },
   "createDen": {
-    "message": "สร้าง"
+    "message": "உருவாக்கவும்"
   },
   "crypto": {
-    "message": "คริปโต",
-    "description": "Exchange type (cryptocurrencies)"
+    "message": "கிரிப்டோ",
+    "description": "பரிமாற்ற வகை (கிரிப்டோசுர்ரென்சிஸ்)"
   },
   "currentConversion": {
-    "message": "อัตราแลกเปลี่ยนปัจจุบัน"
+    "message": "தற்போதைய மாற்றம்"
   },
   "currentNetwork": {
-    "message": "เครือข่ายปัจจุบัน"
+    "message": "தற்போதைய நெட்வொர்க்"
   },
   "customGas": {
-    "message": "กำหนดค่าแก็สเอง"
+    "message": "எரிவாயுவைத் தனிப்பயனாக்குங்கள்"
+  },
+  "customToken": {
+    "message": "தனிப்பயன் டோக்கன்"
   },
   "customize": {
-    "message": "กำหนดค่าเอง"
+    "message": "தனிப்பயனாக்கலாம்"
   },
   "customRPC": {
-    "message": "กำหนดค่า RPC เอง"
+    "message": "விருப்ப RPC ஐ"
   },
   "decimalsMustZerotoTen": {
-    "message": "จำนวนต้องมากกว่า 0 และไม่เกิน 36"
+    "message": "தசமங்கள் குறைந்தபட்சம் 0, மற்றும் 36 க்கு மேல் இருக்க வேண்டும்."
   },
   "decimal": {
-    "message": "ตำแหน่งของทศนิยม"
+    "message": "துல்லியத்தின் முடிவு"
   },
   "defaultNetwork": {
-    "message": "ค่าเริ่มต้นของเครือข่ายสำหรับทำรายการธุรกรรมอีเธอร์คือ Main Net"
+    "message": "எதிர் பரிவர்த்தனைகளுக்கான முன்னிருப்பு வலையமைப்பு முதன்மை நிகரமாகும்."
   },
   "denExplainer": {
-    "message": "DEN ของคุณคือตัวเก็บข้อมูลที่เข้ารหัสไว้ด้วยรหัสผ่านของคุณภายใน MetaMask "
+    "message": "உங்கள் DEN என்பது உங்கள் கடவுச்சொல்-மறைகுறியாக்கப்பட்ட சேமிப்பகம் மெட்டாமாஸ்க்கிற்குள்."
   },
   "deposit": {
-    "message": "ฝาก"
+    "message": "வைப்புத்தொகை"
   },
   "depositBTC": {
-    "message": "ฝากบิตคอยน์ของคุณไปที่แอดเดรสด้านล่างนี้:"
+    "message": "கீழே உங்கள் முகவரிக்கு உங்கள் BTC வைப்போம்:"
   },
   "depositCoin": {
-    "message": "ฝาก $1 ของคุณไปที่แอดเดรสด้านล่างนี้:",
-    "description": "Tells the user what coin they have selected to deposit with shapeshift"
+    "message": "உங்கள் முகவரிக்கு $ 1 ஐ கீழே உள்ளிடவும்",
+    "description": "சேபஷிபிட் உடன் வைப்புக்குத் தேர்ந்தெடுக்கப்பட்ட நாணயத்தை பயனரிடம் கூறுகிறார்"
   },
   "depositEth": {
-    "message": "การฝากอีเธอร์"
+    "message": "வைப்புத்தொகை எது "
   },
   "depositMc": {
-    "message": "การฝากอีเธอร์"
+    "message": "வைப்புத்தொகை எதிர் "
   },
   "depositFiat": {
-    "message": "ฝากด้วยเงินตรา"
+    "message": "ஃபியட் உடன் வைப்பு"
   },
   "depositFromAccount": {
-    "message": "ฝากจากบัญชีอื่น"
+    "message": "மற்றொரு கணக்கிலிருந்து வைப்பு"
   },
   "depositShapeShift": {
-    "message": "ฝากด้วย ShapeShift"
+    "message": "ShapeShift உடன் வைப்பு"
   },
   "depositShapeShiftExplainer": {
-    "message": "ถ้ามีเงินสกุลอื่นอยู่ก็สามารถแลกเงินและฝากเป็นอีเธอร์ได้โดยตรงเข้ากระเป๋า MetaMask ได้เลยไม่ต้องสมัครบัญชี"
+    "message": "நீங்கள் மற்ற கிரிப்டோகிராரன்கள் சொந்தமாக வைத்திருந்தால், உங்கள் மெட்டாமாஸ்க் பணப்பையில் நேரடியாக ஈதரை வர்த்தகம் செய்யலாம் மற்றும் வைப்பு செய்யலாம். கணக்கு தேவையில்லை."
   },
   "details": {
-    "message": "รายละเอียด"
+    "message": "விவரங்கள்"
   },
   "directDeposit": {
-    "message": "ฝากตรง"
+    "message": "நேரடி வைப்பு"
   },
   "directDepositMc": {
-    "message": "ฝากอีเธอร์โดยตรง"
+    "message": "நேரடியாக வைப்புத்தொகை"
   },
   "directDepositEtherExplainer": {
-    "message": "ถ้าคุณมีอีเธอร์อยู่แล้ววิธีการที่เร็วที่สุดในการเอาเงินเข้ากระเป๋าใหม่ก็คือการโอนตรงๆ"
+    "message": "நீங்கள் ஏற்கனவே ஏதெர் இருந்தால், நேரடி வைப்பு மூலம் உங்கள் புதிய பணப்பையில் ஈத்தர் பெற விரைவான வழி."
   },
   "done": {
-    "message": "เสร็จสิ้น"
+    "message": "முடிந்தது"
   },
   "downloadStateLogs": {
-    "message": "ดาวน์โหลดล็อกสถานะ"
+    "message": "மாநில பதிவுகள் பதிவிறக்க"
+  },
+  "dropped": {
+    "message": "நீக்கப்பட்டார்"
   },
   "edit": {
-    "message": "แก้ไข"
+    "message": "தொகு"
   },
   "editAccountName": {
-    "message": "แก้ไขชื่อบัญชี"
+    "message": "கணக்கு பெயரை மாற்றுக"
   },
   "emailUs": {
-    "message": "อีเมลหาเรา!"
+    "message": "எங்களுக்கு மின்னஞ்சல்!"
   },
   "encryptNewDen": {
-    "message": "เข้ารหัส DEN ของคุณ"
+    "message": "உங்கள் புதிய DEN ஐ குறியாக்குக"
   },
   "enterPassword": {
-    "message": "ใส่รหัสผ่าน"
+    "message": "கடவுச்சொல்லை உள்ளிடவும்"
   },
   "enterPasswordConfirm": {
-    "message": "ใส่รหัสผ่านอีกครั้งเพื่อยืนยัน"
+    "message": "உறுதிப்படுத்த உங்கள் கடவுச்சொல்லை உள்ளிடவும்"
+  },
+  "passwordNotLongEnough": {
+    "message": "கடவுச்சொல் போதாது"
+  },
+  "passwordsDontMatch": {
+    "message": "கடவுச்சொற்கள் பொருந்தாதே"
   },
   "LBRExplorerView": {
-    "message": "ดูบัญชีบน Etherscan"
+    "message": "Etherscan கணக்கைப் பார்க்கவும்"
   },
   "exchangeRate": {
-    "message": "อัตราแลกเปลี่ยน"
+    "message": "மாற்று விகிதம்"
   },
   "exportPrivateKey": {
-    "message": "ส่งออกคีย์ส่วนตัว"
+    "message": "தனியார் விசை ஐ ஏற்றுமதி செய்க"
   },
   "exportPrivateKeyWarning": {
-    "message": "ส่งออกคีย์ส่วนตัวโดยคุณรับความเสี่ยงเอง"
+    "message": "தனிப்பட்ட விசைகளை உங்கள் சொந்த ஆபத்தில் ஏற்றுமதி செய்யுங்கள்."
   },
   "failed": {
-    "message": "ล้มเหลว"
+    "message": "தோல்வி"
   },
   "fiat": {
-    "message": "เงินตรา",
-    "description": "Exchange type"
+    "message": "FIAT",
+    "description": "பரிமாற்ற வகை"
   },
   "fileImportFail": {
-    "message": "นำเข้าไฟล์ไม่สำเหร็จ กดที่นี่!",
-    "description": "Helps user import their account from a JSON file"
+    "message": "கோப்பு இறக்குமதி வேலை செய்யவில்லையா? இங்கே கிளிக் செய்யவும்!",
+    "description": "JSON கோப்பில் பயனர் கணக்கை தங்கள் கணக்கை இறக்குமதி செய்ய உதவுகிறது"
   },
   "followTwitter": {
-    "message": "ติดตามเราบนทวิตเตอร์"
+    "message": "Twitter இல் எங்களைப் பின்தொடரவும்"
   },
   "from": {
-    "message": "จาก"
+    "message": "இருந்து"
   },
   "fromToSame": {
-    "message": "แอดเดรสที่ส่งกับที่รับจะต้องไม่ไช่อันเดียวกัน"
+    "message": "இருந்து மற்றும் முகவரி அதே இருக்க முடியாது"
   },
   "fromShapeShift": {
-    "message": "จาก ShapeShift"
+    "message": "ShapeShift இலிருந்து"
   },
   "gas": {
-    "message": "แก็ส",
-    "description": "Short indication of gas cost"
+    "message": "எரிவாயு",
+    "description": "எரிவாயு விலை குறையும்"
   },
   "gasFee": {
-    "message": "ค่าแก๊ส"
+    "message": "எரிவாயு கட்டணம்"
   },
   "gasLimit": {
-    "message": "วงเงินแก็ส"
+    "message": "எரிவாயு வரம்பு"
   },
   "gasLimitCalculation": {
-    "message": "เราแนะนำวงเงินแก็สตามความสำเร็จบนเครือข่าย"
+    "message": "நெட்வொர்க் வெற்றி விகிதங்களின் அடிப்படையில் பரிந்துரைக்கப்பட்ட எரிவாயு வரம்பை நாங்கள் கணக்கிடுகிறோம்."
   },
   "gasLimitRequired": {
-    "message": "ต้องกำหนดวงเงินแก็ส"
+    "message": "எரிவாயு வரம்பு தேவை"
   },
   "gasLimitTooLow": {
-    "message": "วงเงินแก็สต้องอย่างน้อย 21000"
+    "message": "எரிவாயு வரம்பு குறைந்தது 21000 ஆக இருக்க வேண்டும்"
   },
   "generatingSeed": {
-    "message": "กำลังสร้างชีด..."
+    "message": "விதை உருவாக்குகிறது ..."
   },
   "gasPrice": {
-    "message": "ราคาแก๊ส (GWEI)"
+    "message": "எரிவாயு விலை (GWEI)"
   },
   "gasPriceCalculation": {
-    "message": "เราแนะนำราคาแก็สตามความสำเร็จบนเครือข่าย"
+    "message": "நெட்வொர்க் வெற்றி விகிதங்களின் அடிப்படையில் பரிந்துரைக்கப்பட்ட எரிவாயு விலைகளை நாங்கள் கணக்கிடுகிறோம்."
   },
   "gasPriceRequired": {
-    "message": "ต้องมีราคาแก๊ส"
+    "message": "எரிவாயு விலை தேவைப்படுகிறது"
   },
   "getMc": {
-    "message": "รับอีเธอร์"
+    "message": "ஈத்தர் கிடைக்கும்"
   },
   "getEtherFromFaucet": {
-    "message": "รับอีเธอร์ที่ปล่อยจาก $1",
-    "description": "Displays network name for Ether faucet"
+    "message": "$ 1 க்கு ஒரு குழாய் இருந்து ஈதர் கிடைக்கும்$1",
+    "description": "ஈத்தர் குழாய் ஐந்து பிணைய பெயர் காட்டுகிறது"
   },
   "greaterThanMin": {
-    "message": "ต้องมากกว่าหรือเท่ากับ $1.",
-    "description": "helper for inputting hex as decimal input"
+    "message": "$ 1 க்கும் அதிகமாகவோ அல்லது சமமாகவோ இருக்க வேண்டும்",
+    "description": "ஹெக்ஸ் உள்ளீடு தசம உள்ளீடு என உதவி"
   },
   "here": {
-    "message": "ที่นี่",
-    "description": "as in -click here- for more information (goes with troubleTokenBalances)"
+    "message": "இங்கே",
+    "description": "இங்கே-கிளிக் செய்யவும்- மேலும் தகவலுக்கு (troubleTokenBalances செல்கிறது)"
   },
   "hereList": {
-    "message": "รายการอยู่ที่นี่!!!!"
+    "message": "இங்கே ஒரு பட்டியல் !!!!"
   },
   "hide": {
-    "message": "ซ่อน"
+    "message": "மறை"
   },
   "hideToken": {
-    "message": "ซ่อนโทเค็น"
+    "message": "டோக்கனை மறை"
   },
   "hideTokenPrompt": {
-    "message": "ซ่อนโทเค็นหรือไม่?"
+    "message": "டோக்கனை மறை?"
   },
   "howToDeposit": {
-    "message": "คุณต้องการฝากอีเธอร์อย่างไร?"
+    "message": "எப்படி ஈத்தர் வைப்பது?"
   },
   "holdEther": {
-    "message": "ช่วยคุณถืออีเทอร์และโทเค็นและทำหน้าที่เป็นสะพานเชื่อมต่อกับแอพพลิเคชันแบบกระจาย"
+    "message": "இது நீங்கள் ஈத்தர் மற்றும் டோக்கன்களை வைத்திருக்க உதவுகிறது, மற்றும் பரவலாக்கப்பட்ட பயன்பாடுகளுக்கு உங்கள் பாலமாக செயல்படுகிறது."
   },
   "import": {
-    "message": "นำเข้า",
-    "description": "Button to import an account from a selected file"
+    "message": "இறக்குமதி",
+    "description": "தேர்ந்தெடுக்கப்பட்ட கோப்பிலிருந்து ஒரு கணக்கை இறக்குமதி செய்ய பொத்தானை அழுத்தவும்"
   },
   "importAccount": {
-    "message": "นำเข้าบัญชี"
+    "message": "கணக்கை இறக்குமதி செய்க"
   },
   "importAccountMsg": {
-    "message":"บัญชีที่นำเข้าจะไม่ถูกรวมกับบัญชีที่สร้างด้วยคำเเริ่มต้นบนเมต้ามาร์สในตอนแรก เรียนรู้เพิ่มเติมเกี่ยวกับบัญชีที่นำเข้า"
+    "message":" இறக்குமதி செய்யப்பட்ட கணக்கு உங்கள் முதலில் உருவாக்கப்பட்ட மெட்டாமாஸ்க் கணக்கு விதை மூலம் தொடர்புடையதாக இருக்காது. இறக்குமதி செய்யப்பட்ட கணக்குகள் பற்றி மேலும் அறிக "
   },
   "importAnAccount": {
-    "message": "นำเข้าบัญชี"
+    "message": "ஒரு கணக்கை இறக்குமதி செய்க"
   },
   "importDen": {
-    "message": "นำเข้า DEN ที่มีอยู่แล้ว"
+    "message": "இறக்குமதி DEN இறக்குமதி"
   },
   "imported": {
-    "message": "นำเข้าเรียบร้อย",
-    "description": "status showing that an account has been fully loaded into the keyring"
+    "message": "இறக்குமதி",
+    "description": "ஒரு கணக்கு முழுமையாக விசைப்பலகையில் ஏற்றப்பட்டதைக் காட்டுகிறது"
   },
   "infoHelp": {
-    "message": "ข้อมูลและความช่วยเหลือ"
+    "message": "தகவல் மற்றும் உதவி"
   },
   "insufficientFunds": {
-    "message": "เงินทุนไม่เพียงพอ"
+    "message": "போதுமான பணம் இல்லை."
   },
   "insufficientTokens": {
-    "message": "โทเค็นไม่เพียงพอ"
+    "message": "போதுமான டோக்கன்கள்."
   },
   "invalidAddress": {
-    "message": "แอดแดรสไม่ถูกต้อง"
+    "message": "தவறான முகவரி"
   },
   "invalidAddressRecipient": {
-    "message": "แอดแดรสผู้รับไม่ถูกต้อง"
+    "message": "பெறுநர் முகவரி தவறானது"
   },
   "invalidGasParams": {
-    "message": "ตั้งค่าแก๊สไม่ถูกต้อง"
+    "message": "தவறான எரிவாயு அளவுருக்கள்"
   },
   "invalidInput": {
-    "message": "อินพุทไม่ถูกต้อง"
+    "message": "தவறான உள்ளீடு.."
   },
   "invalidRequest": {
-    "message": "คำร้องขอไม่ถูกต้อง"
+    "message": "தவறான கோரிக்கை"
   },
   "invalidRPC": {
-    "message": "RPC URI ไม่ถูกต้อง"
+    "message": "தவறான RPC URI"
   },
   "jsonFail": {
-    "message": "เกิดบางอย่างผิดพลาด โปรดตรวจสอบว่าไฟล์ JSON ของคุณมีรูปแบบที่ถูกต้อง."
+    "message": "ஏதோ தவறு நடந்துவிட்டது. உங்கள் JSON கோப்பு ஒழுங்காக வடிவமைக்கப்பட்டுள்ளது என்பதை உறுதிப்படுத்தவும்"
   },
   "jsonFile": {
-    "message": "ไฟล์ JSON",
-    "description": "format for importing an account"
+    "message": "JSON கோப்பு",
+    "description": "ஒரு கணக்கை இறக்குமதி செய்ய வடிவமைக்கப்பட்டுள்ளது"
+  },
+  "keepTrackTokens": {
+    "message": "உங்கள் மேடமஸ்க் கணக்குடன் நீங்கள் வாங்கிய டோக்கன்களை கண்காணியுங்கள்."
   },
   "kovan": {
-    "message": "เครือข่ายทดสอบ Kovan"
+    "message": "கோவன் டெஸ்ட் நெட்வொர்க்"
   },
   "knowledgeDataBase": {
-    "message": "ไปที่คลังความรู้ของเรา"
+    "message": "எங்கள் அறிவுத் தளத்தைப் பார்வையிடவும்"
+  },
+  "max": {
+    "message": "மேக்ஸ்"
+  },
+  "learnMore": {
+    "message": "மேலும் அறிக"
   },
   "lessThanMax": {
-    "message": "ต้องน้อยกว่าหรือเท่ากับ $1.",
-    "description": "helper for inputting hex as decimal input"
+    "message": "$ 1 க்கும் குறைவாகவோ அல்லது சமமாகவோ இருக்க வேண்டும்.",
+    "description": "ஹெக்ஸ் உள்ளீடு தசம உள்ளீடு என உதவி"
   },
   "likeToAddTokens": {
-    "message": "คุณต้องการเพิ่มโทเค็นเหล่านี้หรือไม่?"
+    "message": "இந்த டோக்கன்களைச் சேர்க்க விரும்புகிறீர்களா?"
+  },
+  "links": {
+    "message": "இணைப்புகள்"
   },
   "limit": {
-    "message": "ข้อจำกัด"
+    "message": "அளவு"
   },
   "loading": {
-    "message": "กำลังโหลด..."
+    "message": "ஏற்றுதல் ..."
   },
   "loadingTokens": {
-    "message": "กำลังโหลดโทเค็น..."
+    "message": "டோக்கன்களை ஏற்றுகிறது ..."
   },
   "localhost": {
-    "message": "Localhost 8545"
+    "message": "லோக்கல் ஹோஸ்ட் 8545"
   },
   "login": {
-    "message": "เข้าสู่ระบบ"
+    "message": "உள் நுழை"
   },
   "logout": {
-    "message": "ออกจากระบบ"
+    "message": "வெளியேறு"
   },
   "loose": {
-    "message": "อิสระ"
+    "message": "லூஸ்"
   },
   "loweCaseWords": {
-    "message": "กลุ่มคำชีดมีเพียงตัวพิมพ์เล็กเท่านั้น"
+    "message": "விதை வார்த்தைகள் ஸ்மால் எழுத்துகள் மட்டுமே"
   },
   "mainnet": {
-    "message": "เครือข่าย Main Net"
+    "message": "முதன்மை எதெரியும் நெட்வொர்க்"
   },
   "message": {
-    "message": "ข้อความ"
+    "message": "செய்தி"
   },
   "metamaskDescription": {
-    "message": "MetaMask คือที่เก็บตัวตนนิรภัยสำหรับอีเธอเรียม"
+    "message": "மேடமஸ்க் என்பது ஒரு பாதுகாப்பான அடையாள வால்ட் எதெரியும்"
   },
   "min": {
-    "message": "ขั้นต่ำ"
+    "message": "குறைந்தபட்ச"
   },
   "myAccounts": {
-    "message": "บัญชีของฉัน"
+    "message": "எனது கணக்குகள்"
   },
   "mustSelectOne": {
-    "message": "ต้องเลือกอย่างน้อย 1 โทเค็น"
+    "message": "குறைந்தது 1 டோக்கனை தேர்ந்தெடுக்க வேண்டும்."
   },
   "needMcInWallet": {
-    "message": "คุณจะต้องมีอีเธอร์ในกระเป๋าเงินของคุณในการใช้งานกับแอพพลิเคชันแบบกระจายด้วย MetaMask"
+    "message": "மேடமஸ்க் ஐ பயன்படுத்தி பரவலாக்கப்பட்ட பயன்பாடுகளுடன் தொடர்பு கொள்ள, உங்கள் பணப்பரிமாற்றத்தில் ஈதர் தேவை."
   },
   "needImportFile": {
-    "message": "คุณต้องเลือกไฟล์ที่จะนำเข้า",
-    "description": "User is important an account and needs to add a file to continue"
+    "message": "இறக்குமதி செய்ய ஒரு கோப்பை நீங்கள் தேர்ந்தெடுக்க வேண்டும்.",
+    "description": "பயனர் ஒரு கணக்கு முக்கியம் மற்றும் தொடர ஒரு கோப்பு சேர்க்க வேண்டும்"
   },
   "needImportPassword": {
-    "message": "คุณต้องป้อนรหัสผ่านสำหรับไฟล์ที่เลือก",
-    "description": "Password and file needed to import an account"
+    "message": "நீங்கள் தேர்ந்தெடுத்த கோப்புக்கு ஒரு கடவுச்சொல்லை உள்ளிட வேண்டும்.",
+    "description": "ஒரு கணக்கை இறக்குமதி செய்ய கடவுச்சொல் மற்றும் கோப்பு தேவை"
   },
   "negativeETH": {
-    "message": "ไม่สามารถส่งอีเธอร์เป็นจำนวนติดลบได้"
+    "message": "ETH எதிர்மறை அளவுகளை அனுப்ப முடியாது."
   },
   "networks": {
-    "message": "เครือข่าย"
+    "message": "நெட்வொர்க்ஸ்"
   },
   "newAccount": {
-    "message": "บัญชีใหม่"
+    "message": "புதிய கணக்கு"
   },
   "newAccountNumberName": {
-    "message": "บัญชี $1",
-    "description": "Default name of next account to be created on create account screen"
+    "message": "கணக்கு $ 1",
+    "description": "கணக்கு கணக்கை உருவாக்குவதற்கு அடுத்த கணக்கின் இயல்புநிலை பெயர் உருவாக்கப்படும்"
   },
   "newContract": {
-    "message": "สร้างสัญญาใหม่"
+    "message": "புதிய ஒப்பந்தம்"
   },
   "newPassword": {
-    "message": "รหัสผ่านใหม่(ขั้นต่ำ 8 ตัวอักษร)"
+    "message": "புதிய கடவுச்சொல் (min 8 எழுத்துகள்)"
   },
   "newRecipient": {
-    "message": "ผู้รับใหม่"
+    "message": "புதிய பெறுநர்"
   },
   "newRPC": {
-    "message": "RPC URL ใหม่"
+    "message": "புதிய RPC URL"
   },
   "next": {
-    "message": "ถัดไป"
+    "message": "அடுத்த"
   },
   "noAddressForName": {
-    "message": "ยังไม่มีแอดแดรสไหนตั้งในชื่อนี้"
+    "message": "இந்த பெயருக்கான முகவரி அமைக்கப்படவில்லை."
   },
   "noDeposits": {
-    "message": "ไม่มีเงินฝากเข้ามา"
+    "message": "எந்த வைப்புகளும் கிடைக்கவில்லை"
   },
   "noTransactionHistory": {
-    "message": "ไม่มีรายการธุรกรรมในอดีต"
+    "message": "பரிவர்த்தனை வரலாறு இல்லை."
   },
   "noTransactions": {
-    "message": "ยังไม่มีรายการธุรกรรม"
+    "message": "பரிவர்த்தனைகள் இல்லை"
   },
   "notStarted": {
-    "message": "ยังไม่เริ่ม"
+    "message": "துவங்கவில்லை"
   },
   "oldUI": {
-    "message": "หน้าตาแบบเก่า"
+    "message": "பழைய UI"
   },
   "oldUIMessage": {
-    "message": "คุณได้เปลี่ยนเป็นหน้าตาแบบเก่าแล้ว คุณสามารถเปลี่ยนเป็นหน้าตาแบบใหม่ได้โดยไปที่ตัวเลือกตรงเมนูมุมขวาบน"
+    "message": "நீங்கள் பழைய UI க்கு திரும்பியுள்ளீர்கள். மேல் வலது கீழ்தோன்றும் மெனுவில் உள்ள விருப்பத்தின் மூலம் புதிய UI ஐ மீண்டும் மாறலாம்."
   },
   "or": {
-    "message": "หรือ",
-    "description": "choice between creating or importing a new account"
+    "message": "அல்லது",
+    "description": "ஒரு புதிய கணக்கை உருவாக்க அல்லது இறக்குமதி செய்வதற்கு இடையே தேர்வு"
   },
   "passwordCorrect": {
-    "message": "โปรดตรวจสอบว่ารหัสผ่านของคุณถูกต้อง"
+    "message": "தயவுசெய்து உங்கள் கடவுச்சொல் சரியானதா என உறுதிப்படுத்தவும்."
   },
   "passwordMismatch": {
-    "message": "รหัสผ่านไม่ตรงกัน",
-    "description": "in password creation process, the two new password fields did not match"
+    "message": "கடவுச்சொற்கள் பொருந்தவில்லை",
+    "description": "கடவுச்சொல் உருவாக்கத்தில், இரண்டு புதிய கடவுச்சொல் புலங்கள் பொருந்தவில்லை"
   },
   "passwordShort": {
-    "message": "รหัสผ่านไม่ยาวพอ",
-    "description": "in password creation process, the password is not long enough to be secure"
+    "message": "கடவுச்சொல் நீண்ட காலமாக இல்லை",
+    "description": "கடவுச்சொல் உருவாக்கத்தில், பாதுகாப்பானதாக இருக்கும் கடவுச்சொல் போதும்"
   },
   "pastePrivateKey": {
-    "message": "วางคีย์ส่วนตัวของคุณที่นี่:",
-    "description": "For importing an account from a private key"
+    "message": "இங்கே உங்கள் தனிப்பட்ட விசை சரத்தை ஒட்டுக:",
+    "description": "ஒரு தனிப்பட்ட விசை ஒரு கணக்கை இறக்குமதி செய்ய"
   },
   "pasteSeed": {
-    "message": "วางคำชีดของคุณที่นี่!"
+    "message": "இங்கே உங்கள் விதை சொற்றொடரை ஒட்டவும்!"
   },
   "personalAddressDetected": {
-    "message": "ตรวจพบแอดแดรสส่วนตัวแล้ว ใส่แอดแดรสสัญญาโทเค็น"
+    "message": "தனிப்பட்ட முகவரி கண்டறியப்பட்டது. டோக்கன் ஒப்பந்த முகவரியை உள்ளிடவும்."
   },
   "pleaseReviewTransaction": {
-    "message": "โปรดตรวจสอบธุรกรรมของคุณ"
+    "message": "உங்கள் பரிவர்த்தனை மதிப்பாய்வு செய்யவும்."
+  },
+  "popularTokens": {
+    "message": "பிரபலமான டோக்கன்கள்"
   },
   "privacyMsg": {
-    "message": "นโยบายสความเป็นส่วนตัว"
+    "message": "தனியுரிமை கொள்கை"
   },
   "privateKey": {
-    "message": "คีย์ส่วนตัว",
-    "description": "select this type of file to use to import an account"
+    "message": "தனிப்பட்ட விசை",
+    "description": "ஒரு கணக்கை இறக்குமதி செய்ய பயன்படுத்த இந்த வகை கோப்பை தேர்ந்தெடுக்கவும்"
   },
   "privateKeyWarning": {
-    "message": "คำเตือน: ห้ามเปิดเผยคีย์นี้ ทุกคนที่มีคีย์ส่วนตัวสามารถขโมยข้อมูลใด ๆ ที่เก็บไว้ในบัญชีของคุณได้"
+    "message": "எச்சரிக்கை: இந்த விசையை எப்போதும் வெளியிட வேண்டாம். உங்கள் தனிப்பட்ட விசைகளைக் கொண்ட எவரும் உங்கள் கணக்கில் உள்ள எந்த சொத்துக்களையும் திருடலாம்."
   },
   "privateNetwork": {
-    "message": "เครือข่ายส่วนตัว"
+    "message": "தனியார் நெட்வொர்க்"
   },
   "qrCode": {
-    "message": "แสดง QR Code"
+    "message": "QR குறியீட்டைக் காட்டு"
   },
   "readdToken": {
-    "message": "คุณสามารถเพิ่มโทเค็นนี้ในอนาคตได้โดยไปที่ “เพิ่มโทเค็น” ในเมนูตัวเลือกบัญชีของคุณ"
+    "message": "உங்கள் கணக்கு விருப்பங்கள் மெனுவில் \"டோக்கனைச் சேர்\" என்பதன் மூலம் நீங்கள் எதிர்காலத்தில் இந்த டோக்கனை மீண்டும் சேர்க்கலாம்."
   },
   "readMore": {
-    "message": "อ่านเพิ่มเติมที่นี่"
+    "message": "மேலும் வாசிக்க இங்கே."
   },
   "readMore2": {
-    "message": "อ่านเพิ่มเติม"
+    "message": "மேலும் வாசிக்க."
   },
   "receive": {
-    "message": "รับ"
+    "message": "பெறுக"
   },
   "recipientAddress": {
-    "message": "แอดแดรสผู้รับ"
+    "message": "பெறுநர் முகவரி"
   },
   "refundAddress": {
-    "message": "แอดแดรสสำหรับการคืนเงินของคุณ"
+    "message": "உங்கள் பணத்தை திருப்பி அனுப்பும் முகவரி"
   },
   "rejected": {
-    "message": "ถูกปฏิเสธ"
+    "message": "நிராகரிக்கப்பட்டது"
   },
   "resetAccount": {
-    "message": "รีเซ็ตบัญชี"
+    "message": "கணக்கை மீட்டமை"
   },
   "restoreFromSeed": {
-    "message": "กู้คืนจากกลุ่มคำชีด"
+    "message": "விதை வாக்கியத்திலிருந்து மீட்கவும்"
+  },
+  "restoreVault": {
+    "message": "வால்ட் மீட்கவும்"
   },
   "required": {
-    "message": "จำเป็น"
+    "message": "தேவையான"
   },
   "retryWithMoreGas": {
-    "message": "ลองใหม่ด้วยราคาแก๊สที่สูงกว่านี้ที่นี่"
+    "message": "இங்கே அதிக எரிவாயு விலை மீண்டும் முயற்சிக்கவும்"
+  },
+  "walletSeed": {
+    "message": "வால்ட் விதை"
   },
   "revealSeedWords": {
-    "message": "เปิดเผยกลุ่มคำชีด"
+    "message": "விதை வார்த்தைகள் வெளிப்படுத்த"
   },
   "revealSeedWordsWarning": {
-    "message": "อย่าเปิดเผยคำกลุ่มคำชีดของคุณในที่สาธารณะ! คำเหล่านี้สามารถใช้เพื่อขโมยบัญชีทั้งหมดของคุณ"
+    "message": "உங்கள் விதை வார்த்தைகள் ஒரு பொது இடத்தில் மீட்க வேண்டாம்! உங்கள் எல்லா கணக்குகளையும் திருட இந்த வார்த்தைகள் பயன்படுத்தப்படலாம்."
   },
   "revert": {
-    "message": "ย้อนกลับ"
+    "message": "மாற்றியமை"
   },
   "rinkeby": {
-    "message": "เครือข่ายทดสอบ Rinkeby"
+    "message": "ரிங்கெப்ய டெஸ்ட் நெட்வொர்க்"
   },
   "ropsten": {
-    "message": "เครือข่ายทดสอบ Ropsten"
+    "message": "ரொப்ஸ்டென் டெஸ்ட் நெட்வொர்க்"
+  },
+  "currentRpc": {
+    "message": "தற்போதைய RPC"
+  },
+  "connectingToMainnet": {
+    "message": "முக்கிய எதெரியும் நெட்வொர்க் இணைக்கும்"
+  },
+  "connectingToRopsten": {
+    "message": "ரொப்ஸ்டென் டெஸ்ட் நெட்வொர்க்குடன் இணைக்கிறது"
+  },
+  "connectingToKovan": {
+    "message": "கோவன் டெஸ்ட் நெட்வொர்க்குடன் இணைத்தல்"
+  },
+  "connectingToRinkeby": {
+    "message": "ரிங்கெப்ய டெஸ்ட் நெட்வொர்க்குடன் இணைக்கிறது"
+  },
+  "connectingToUnknown": {
+    "message": "தெரியாத நெட்வொர்க்குடன் இணைக்கிறது"
   },
   "sampleAccountName": {
-    "message": "เช่น บัญชีเฮงเฮงของฉัน",
-    "description": "Help user understand concept of adding a human-readable name to their account"
+    "message": "உதாரணமாக எனது புதிய கணக்கு",
+    "description": "தங்கள் கணக்கில் மனிதர் படிக்கக்கூடிய பெயரைச் சேர்க்கும் கருத்தை பயனர் புரிந்து கொள்ள உதவுங்கள்"
   },
   "save": {
-    "message": "บันทึก"
+    "message": "சேமி"
+  },
+  "reprice_title": {
+    "message": "ரெப்ரிஸ் பரிவர்த்தனை"
+  },
+  "reprice_subtitle": {
+    "message": "உங்கள் பரிவர்த்தனைகளை மேலெழுதும் முயற்சியை அதிகரிக்க உங்கள் எரிவாயு விலையை அதிகரிக்கவும்"
   },
   "saveAsFile": {
-    "message": "บันทึกเป็นไฟล์",
-    "description": "Account export process"
+    "message": "கோப்பாக சேமிக்கவும்",
+    "description": "கணக்கு ஏற்றுமதி செயல்முறை"
   },
   "saveSeedAsFile": {
-    "message": "บันทึกกลุ่มคำชีดเป็นไฟล์"
+    "message": "கோப்பு என விதை வார்த்தைகள் சேமிக்கவும்"
   },
   "search": {
-    "message": "ค้นหา"
+    "message": "தேடல்"
   },
   "secretPhrase": {
-    "message": "ป้อนกลุ่มคำสิบสองคำเพื่อกู้คืนตู้เซฟของคุณ"
+    "message": "உங்கள் பெட்டகத்தை மீட்டெடுப்பதற்காக இங்கே உங்கள் ரகசிய பன்னிரண்டு வார்த்தை சொற்றொடரை உள்ளிடவும்."
+  },
+  "newPassword8Chars": {
+    "message": "புதிய கடவுச்சொல் (குறைந்தபட்சம் 8 எழுத்துகள்)"
   },
   "seedPhraseReq": {
-    "message": "กลุ่มคำชีดมีความยาว 12 คำ"
+    "message": "விதை வாக்கியங்கள் 12 வார்த்தைகள் நீண்டவை"
   },
   "select": {
-    "message": "เลือก"
+    "message": "தேர்வு"
   },
   "selectCurrency": {
-    "message": "เลือกสกุลเงิน"
+    "message": "நாணயத்தைத் தேர்ந்தெடு"
   },
   "selectService": {
-    "message": "เลือกบริการ"
+    "message": "சேவை தேர்ந்தெடுக்கவும்"
   },
   "selectType": {
-    "message": "เลือกประเภท"
+    "message": "வகை தேர்ந்தெடு"
   },
   "send": {
-    "message": "ส่ง"
+    "message": "அனுப்பு"
   },
   "sendMC": {
-    "message": "ส่งอีเธอร์"
+    "message": "ETH ஐ அனுப்பு"
   },
   "sendTokens": {
-    "message": "ส่งโทเค็น"
+    "message": "டோக்கன்களை அனுப்பவும்"
+  },
+  "onlySendToLBRAddress": {
+    "message": "ETH ஐ ஒரு எதரியும் முகவரிக்கு மட்டும் அனுப்பவும்."
+  },
+  "searchTokens": {
+    "message": "தேடல் டோக்கன்ஸ்"
   },
   "sendTokensAnywhere": {
-    "message": "ส่งโทเค็นไปให้ทุกคนที่มีบัญชีอีเธอเรียม"
+    "message": "யாருடனும் டோக்கன்களை அனுப்பவும் எதெரியும் கணக்கு"
   },
   "settings": {
-    "message": "การตั้งค่า"
+    "message": "அமைப்புகள்"
+  },
+  "info": {
+  "message": "தகவல்"
   },
   "shapeshiftBuy": {
-    "message": "ซื้อด้วย Shapeshift"
+    "message": "Shapeshift உடன் வாங்கவும்"
   },
   "showPrivateKeys": {
-    "message": "แสดงคีย์ส่วนตัว"
+    "message": "தனிப்பட்ட விசைகளைக் காண்பி"
   },
   "showQRCode": {
-    "message": "แสดง QR Code"
+    "message": "QR குறியீட்டைக் காட்டு"
   },
   "sign": {
-    "message": "เซ็นชื่อ"
+    "message": "உள்நுழை"
+  },
+  "signed": {
+    "message": "கையொப்பமிடப்பட்ட"
   },
   "signMessage": {
-    "message": "เซ็นชื่อในข้อความ"
+    "message": "செய்தியை பதிவு செய்க"
   },
   "signNotice": {
-    "message": "การเซ็นชื่อในข้อความนี้อาจจะเป็นอันตรายได้ \nเซ็นชื่อเฉพาะข้อความจากแหล่งที่คุณไว้วางใจได้จริง ๆ เท่านั้น \nวิธีที่อันตรายนี้จะถูกลบออกในอนาคต"
+    "message": "இந்த செய்தியில் கையொப்பமிடலாம் \nஆபத்தான பக்க விளைவுகள் இருக்கலாம். \n உங்கள் மொத்த கணக்கில் முழுமையாக நம்பக்கூடிய தளங்களில் செய்திகளை மட்டுமே கையொப்பமிடுங்கள். \n இந்த ஆபத்தான முறை எதிர்கால பதிப்பில் அகற்றப்படும்."
   },
   "sigRequest": {
-    "message": "ขอลายเซ็น"
+    "message": "கையொப்பம் கோரிக்கை"
   },
   "sigRequested": {
-    "message": "ขอลายเซ็นแล้ว"
+    "message": "கையொப்பம் கோரப்பட்டது"
   },
   "spaceBetween": {
-    "message": "มีช่องว่างได้เพียงตัวเดียวระหว่างคำเท่านั้น"
+    "message": "வார்த்தைகள் இடையே இடைவெளி மட்டுமே இருக்க முடியும்"
   },
   "status": {
-    "message": "สถานะ"
+    "message": "நிலைமை"
   },
   "stateLogs": {
-    "message": "บันทึกของสถานะ"
+    "message": "மாநில பதிவுகள்"
   },
   "stateLogsDescription": {
-    "message": "บันทึกของสถานะประกอบด้วยแอดแดรสสาธารณะและธุรกรรมที่ส่ง"
+    "message": "மாநில பதிவுகள் உங்கள் பொது கணக்கு முகவரிகள் மற்றும் பரிமாற்றங்களை அனுப்பியுள்ளன."
+  },
+  "stateLogError": {
+    "message": "மாநில பதிவுகளை மீட்டெடுப்பதில் பிழை."
   },
   "submit": {
-    "message": "ตกลง"
+    "message": "சமர்ப்பி"
+  },
+  "submitted": {
+    "message": "சமர்ப்பிக்கப்பட்டது"
   },
   "supportCenter": {
-    "message": "ไปที่ศูนย์สนับสนุนของเรา"
+    "message": "எங்கள் ஆதரவு மையத்தைப் பார்வையிடவும்"
   },
   "symbolBetweenZeroTen": {
-    "message": "สัญลักษณ์ต้องมีความยาวตั้งแต่ 0 ถึง 10 อักขระ"
+    "message": "குறியீடு 0 மற்றும் 10 எழுத்துகளுக்கு இடையில் இருக்க வேண்டும்."
   },
   "takesTooLong": {
-    "message": "ใช้เวลานานเกินไปใช่หรือไม่?"
+    "message": "நீண்ட நேரம் எடுத்துக்கொள்கிறது?"
   },
   "terms": {
-    "message": "ข้อตกลงในการใช้งาน"
+    "message": "பயன்பாட்டு விதிமுறைகளை"
   },
   "testFaucet": {
-    "message": "ตัวแจกจ่ายเพื่อการทดสอบ"
+    "message": "சோதனை குழாய்"
   },
   "to": {
-    "message": "ถึง"
+    "message": "பெறுநர்: "
   },
   "toETHviaShapeShift": {
-    "message": "$1 เป็นอีเธอร์โดย ShapeShift",
-    "description": "system will fill in deposit type in start of message"
+    "message": "$ 1 முதல் ETH வரை வடிவம்",
+    "description": "செய்தி தொடக்கத்தில் வைப்பு வகைகளில் நிரப்பப்படும்"
   },
   "tokenAddress": {
-    "message": "แอดแดรสโทเค็น"
+    "message": "டோக்கன் முகவரி"
   },
   "tokenAlreadyAdded": {
-    "message": "โทเคนได้ถูกเพิ่มไปแล้ว"
+    "message": "டோக்கன் ஏற்கனவே சேர்க்கப்பட்டது."
   },
   "tokenBalance": {
-    "message": "ยอดโทเค็นคงเหลือของคุณคือ:"
+    "message": "உங்கள் டோக்கன் இருப்பு:"
   },
   "tokenSelection": {
-    "message": "ค้นหาโทเค็นหรือเลือกจากรายการโทเค็นยอดนิยมของเรา"
+    "message": "டோக்கன்களைத் தேடு அல்லது பிரபல டோக்கன்களின் பட்டியலிலிருந்து தேர்ந்தெடுக்கவும்."
   },
   "tokenSymbol": {
-    "message": "สัญลักษณ์ประจำตัว"
+    "message": "டோக்கன் சின்னம்"
   },
   "tokenWarning1": {
-    "message": "ติดตามโทเค็นที่คุณซื้อด้วยบัญชี MetaMask ของคุณ หากคุณซื้อโทเค็นโดยใช้บัญชีอื่นโทเค็นเหล่านั้นจะไม่ปรากฏที่นี่"
+    "message": "உங்கள் மேடமஸ்க் கணக்குடன் நீங்கள் வாங்கிய டோக்கன்களை கண்காணியுங்கள். வேறு கணக்கைப் பயன்படுத்தி டோக்கன்களை வாங்கிவிட்டால், அந்த டோக்கன்கள் இங்கே தோன்றாது."
   },
   "total": {
-    "message": "รวม"
+    "message": "மொத்த"
   },
   "transactions": {
-    "message": "ธุรกรรม"
+    "message": "பரிவர்த்தனைகள்"
+  },
+  "transactionError": {
+    "message": "பரிவர்த்தனை பிழை. விதிமுறை ஒப்பந்தத்தில் விதிவிலக்கு."
   },
   "transactionMemo": {
-    "message": "บันทึกช่วยจำของการทำธุรกรรม (ไม่บังคับ)"
+    "message": "பரிவர்த்தனை குறிப்பு (விருப்பம்)"
   },
   "transactionNumber": {
-    "message": "หมายเลขธุรกรรม"
+    "message": "பரிவர்த்தனை எண்"
   },
   "transfers": {
-    "message": "โอน"
+    "message": "இடமாற்றங்கள்"
   },
   "troubleTokenBalances": {
-    "message": "เรามีปัญหาในการโหลดยอดโทเค็นคงเหลือของคุณ คุณสามารถดูได้ที่นี่",
-    "description": "Followed by a link (here) to view token balances"
+    "message": "உங்கள் டோக்கன் நிலுவைகளை ஏற்றுவதில் சிக்கல் ஏற்பட்டது. நீங்கள் அவர்களை பார்க்க முடியும்.",
+    "description": "டோக்கன் நிலுவைகளை காண ஒரு இணைப்பு (இங்கே) தொடர்ந்து"
   },
   "twelveWords": {
-    "message": "กลุ่มคำ 12 คำเหล่านี้เป็นวิธีเดียวที่จะกู้คืนบัญชี MetaMask ของคุณ \n กรุณาเก็บไว้ในที่ปลอดภัยและเก็บเป็นความลับ"
+    "message": "இந்த 12 வார்த்தைகள் உங்கள் மெட்டாமாஸ்க் கணக்கை மீட்க ஒரே வழி. \n அவற்றை எங்காவது பாதுகாப்பாகவும் ரகசியமாகவும் சேமிக்கவும்."
   },
   "typePassword": {
-    "message": "พิมพ์รหัสผ่านของคุณ"
+    "message": "உங்கள் கடவுச்சொல்லை தட்டச்சு செய்யவும்"
   },
   "uiWelcome": {
-    "message": "ยินดีต้อนรับสู่หน้าตาใหม่ (เบต้า)"
+    "message": "புதிய UI (பீட்டா) க்கு வரவேற்கிறோம்"
   },
   "uiWelcomeMessage": {
-    "message": "ขณะนี้คุณใช้งาน Metamask หน้าตาใหม่แล้ว ลองใช้ความสามรถใหม่ ๆ เช่นการส่งโทเค็นและหากพบปัญหากรุณาแจ้งให้เราทราบ"
+    "message": "இப்போது நீங்கள் புதிய மெட்டாமாஸ்க்கு UI ஐ பயன்படுத்துகிறீர்கள். சுற்றி பாருங்கள், டோக்கன்களை அனுப்பும் புதிய அம்சங்களை முயற்சிக்கவும், உங்களிடம் ஏதேனும் சிக்கல் இருந்தால் எங்களுக்குத் தெரியப்படுத்தவும்."
+  },
+  "unapproved": {
+    "message": "அங்கீகரிக்கப்படாத"
   },
   "unavailable": {
-    "message": "ใช้งานไม่ได้"
+    "message": "கிடைக்கவில்லை"
   },
   "unknown": {
-    "message": "ไม่รู้จัก"
+    "message": "தெரியாத"
   },
   "unknownNetwork": {
-    "message": "ไม่รู้จักเครือข่ายส่วนตัว"
+    "message": "அறியப்படாத தனியார் நெட்வொர்க்"
   },
   "unknownNetworkId": {
-    "message": "ไม่รู้จักหมายเลขเครือข่าย"
+    "message": "தெரியாத நெட்வொர்க் ஐடி"
   },
   "uriErrorMsg": {
-    "message": "URI ต้องมีคำนำหน้าเป็น HTTP หรือ HTTPS"
+    "message": "URI கள் சரியான HTTP / HTTPS முன்னொட்டு தேவை."
   },
   "usaOnly": {
-    "message": "ในสหรัฐอเมริกาเท่านั้น",
-    "description": "Using this exchange is limited to people inside the USA"
+    "message": "அமெரிக்கா மட்டும்",
+    "description": "இந்த பரிமாற்றத்தைப் பயன்படுத்தி அமெரிக்காவில் உள்ளவர்களுக்கு மட்டுமே இது வரையறுக்கப்படுகிறது"
   },
   "usedByClients": {
-    "message": "ถูกใช้งานโดยหลายไคลเอนท์"
+    "message": "பல்வேறு வாடிக்கையாளர்கள் பல்வேறு பயன்படுத்திய"
   },
   "useOldUI": {
-    "message": "ใช้หน้าตาเก่า"
+    "message": "உஸ் ஓல்ட் உய் "
   },
   "validFileImport": {
-    "message": "คุณต้องเลือกไฟล์ที่ถูกต้องเพื่อนำเข้า"
+    "message": "இறக்குமதி செய்ய சரியான கோப்பு தேர்ந்தெடுக்க வேண்டும்."
   },
   "vaultCreated": {
-    "message": "สร้างตู้เซฟแล้ว"
+    "message": "வால்ட் உருவாக்கப்பட்டது"
   },
   "viewAccount": {
-    "message": "ดูบัญชี"
+    "message": "கணக்கைக் காட்டு"
   },
   "visitWebSite": {
-    "message": "เยี่ยมชมเว็บไซต์ของเรา"
+    "message": "எங்கள் வலைத்தளத்தைப் பார்வையிடவும்"
   },
   "warning": {
-    "message": "คำเตือน"
+    "message": "எச்சரிக்கை"
   },
   "welcomeBeta": {
-    "message": "ยินดีต้อนรับสู่ MetaMask เบต้า"
+    "message": "மெட்டாமாஸ்க் பீட்டாவுக்கு வருக"
   },
   "whatsThis": {
-    "message": "นี่คืออะไร?"
+    "message": "இது என்ன?"
   },
   "yourSigRequested": {
-    "message": "ลายเซ็นของคุณกำลังได้รับการร้องขอ"
+    "message": "உங்கள் கையொப்பம் கோரப்படுகிறது"
   },
   "youSign": {
-    "message": "คุณกำลังเซ็นชื่อ"
+    "message": "நீங்கள் கையெழுத்திடுகிறீர்கள்"
   }
 }
