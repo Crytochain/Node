@@ -1,36 +1,36 @@
-﻿{
+{
   "accept": {
-    "message": "接受"
+    "message": "Přijmout"
   },
   "account": {
-    "message": "帳戶"
+    "message": "Účet"
   },
   "accountDetails": {
-    "message": "帳戶詳情"
+    "message": "Detaily účtu"
   },
   "accountName": {
-    "message": "帳戶名稱"
+    "message": "Název účtu"
   },
   "address": {
-    "message": "帳戶地址"
+    "message": "Adresa"
   },
   "addCustomToken": {
-    "message": "加入自訂代幣"
+    "message": "Přidat vlastní token"
   },
   "addToken": {
-    "message": "加入代幣"
+    "message": "Přidat token"
   },
   "addTokens": {
-    "message": "加入多筆代幣"
+    "message": "Přidat tokeny"
   },
   "amount": {
-    "message": "數額"
+    "message": "Částka"
   },
   "amountPlusGas": {
-    "message": "數額 + Gas"
+    "message": "Částka + palivo"
   },
   "appDescription": {
-    "message": "LBR瀏覽器擴充插件",
+    "message": "LBR rozšíření prohlížeče",
     "description": "The description of the application"
   },
   "appName": {
@@ -38,866 +38,875 @@
     "description": "The name of the application"
   },
   "approved": {
-    "message": "已同意"
+    "message": "Schváleno"
   },
   "attemptingConnect": {
-    "message": "正在嘗試連接區塊鏈。"
+    "message": "Pokouším se připojit k blockchainu."
   },
   "attributions": {
-    "message": "來源"
+    "message": "Zásluhy"
   },
   "available": {
-    "message": "可使用"
+    "message": "Dostupné"
   },
   "back": {
-    "message": "上一頁"
+    "message": "Zpět"
   },
   "balance": {
-    "message": "餘額："
+    "message": "Zůstatek:"
   },
   "balances": {
-    "message": "你的餘額："
+    "message": "Zůstatek tokenu"
   },
   "balanceIsInsufficientGas": {
-    "message": "當前餘額不足以支付 Gas"
+    "message": "Nedostatek prostředků pro aktuální množství paliva"
   },
   "beta": {
     "message": "BETA"
   },
   "betweenMinAndMax": {
-    "message": "必須大於等於 $1 並且小於等於 $2 。",
+    "message": "musí být větší nebo roven $1 a menší nebo roven $2.",
     "description": "helper for inputting hex as decimal input"
   },
   "blockiesIdenticon": {
-    "message": "使用 Blockies Identicon"
+    "message": "Použít Blockies Identicon"
   },
   "borrowDharma": {
-    "message": "透過 Dharma (Beta) 借用"
+    "message": "Pújčit si přes Dharma (Beta)"
   },
   "builtInCalifornia": {
-    "message": "LBRMask 是在加州設計製造."
+    "message": "MetaMask je navržen a vytvořen v Kalifornii."
   },
   "buy": {
-    "message": "購買"
+    "message": "Koupit"
   },
   "buyCoinbene": {
-    "message": "在 Coinbene 上購買"
+    "message": "Nákup na Coinbase"
   },
   "buyCoinbeneExplainer": {
-    "message": "Coinbene 是可以购买墨客的交易所之一。"
+    "message": "Coinbase je světově nejoblíbenější místo k nákupu a prodeji bitcoinu, etherea nebo litecoinu."
   },
   "ok": {
     "message": "Ok"
   },
   "cancel": {
-    "message": "取消"
+    "message": "Zrušit"
   },
   "classicInterface": {
-    "message": "使用舊版界面"
+    "message": "Použít klasické rozhraní"
   },
   "clickCopy": {
-    "message": "點擊複製"
+    "message": "Kliknutím zkopírovat"
   },
   "confirm": {
-    "message": "確認"
+    "message": "Potvrdit"
   },
   "confirmed": {
-    "message": "已確認"
+    "message": "Potvrzeno"
   },
   "confirmContract": {
-    "message": "確認合約"
+    "message": "Potvrdit kontrakt"
   },
   "confirmPassword": {
-    "message": "確認密碼"
+    "message": "Potvrdit heslo"
   },
   "confirmTransaction": {
-    "message": "確認交易"
+    "message": "Potvrdit transakci"
   },
   "continue": {
-    "message": "繼續"
+    "message": "Pokračovat"
   },
   "continueToCoinbase": {
-    "message": "繼續前往 Coinbase"
+    "message": "Přejít na Coinbase"
   },
   "contractDeployment": {
-    "message": "合約部署"
+    "message": "Nasazení kontraktu"
   },
   "conversionProgress": {
-    "message": "正在取得匯率"
+    "message": "Provádí se převod"
   },
   "copiedButton": {
-    "message": "已複製"
+    "message": "Zkopírováno"
   },
   "copiedClipboard": {
-    "message": "已複製到剪貼簿"
+    "message": "Zkopírováno do schránky"
   },
   "copiedExclamation": {
-    "message": "已複製！"
+    "message": "Zkopírováno!"
   },
   "copiedSafe": {
-    "message": "我已經複製到某個安全的地方了"
+    "message": "Zkopíroval jsem to na bezpečné místo"
   },
   "copy": {
-    "message": "複製"
+    "message": "Kopírovat"
   },
   "copyToClipboard": {
-    "message": "複製到剪貼簿"
+    "message": "Kopírovat do schránky"
   },
   "copyButton": {
-    "message": " 複製 "
+    "message": " Kopírovat "
   },
   "copyPrivateKey": {
-    "message": "這是你的私鑰（點擊複製）"
+    "message": "Toto je váš privátní klíč (kliknutím zkopírujte)"
   },
   "create": {
-    "message": "建立"
+    "message": "Vytvořit"
   },
   "createAccount": {
-    "message": "建立帳戶"
+    "message": "Vytvořit účet"
   },
   "createDen": {
-    "message": "建立"
+    "message": "Vytvořit"
   },
   "crypto": {
-    "message": "加密",
+    "message": "Krypto",
     "description": "Exchange type (cryptocurrencies)"
   },
   "currentConversion": {
-    "message": "當前匯率"
+    "message": "Aktuální převod"
   },
   "currentNetwork": {
-    "message": "當前網路"
+    "message": "Aktuální síť"
   },
   "customGas": {
-    "message": "自訂 Gas"
+    "message": "Nastavit palivo"
   },
   "customToken": {
-    "message": "自訂代幣"
+    "message": "Vlastní token"
   },
   "customize": {
-    "message": "自訂"
+    "message": "Nastavit"
   },
   "customRPC": {
-    "message": "自訂 RPC"
+    "message": "Vlastní RPC"
   },
   "decimalsMustZerotoTen": {
-    "message": "小數點後位數至少為0, 最多為36."
+    "message": "Desetinných míst musí být od 0 do 36."
   },
   "decimal": {
-    "message": "小數點精度"
+    "message": "Počet desetinných míst přesnosti"
   },
   "defaultNetwork": {
-    "message": "預設 Ether 交易網路為主網路（Main Net）。"
+    "message": "Výchozí síť pro Etherové transakce je Main Net."
   },
   "denExplainer": {
-    "message": "你的 DEN 是在你的 MetaMask 中的加密密碼儲存庫。"
+    "message": "Váš DEN je heslem šifrované uložiště v MetaMasku."
   },
   "deposit": {
-    "message": "存入"
+    "message": "Vklad"
   },
   "depositBTC": {
-    "message": "將你的 BTC 存入到下面的地址："
+    "message": "Vložte BTC na níže uvedenou adresu:"
   },
   "depositCoin": {
-    "message": "將你的 $1 存入到下面的地址",
+    "message": "Vložte $1 na níže uvedenou adresu",
     "description": "Tells the user what coin they have selected to deposit with shapeshift"
   },
   "depositEth": {
-    "message": "存入 Eth"
+    "message": "Vložit Eth"
   },
   "depositMc": {
-    "message": "存入 Ether"
+    "message": "Vložit Ether"
   },
   "depositFiat": {
-    "message": "從法定貨幣存入"
+    "message": "Vklad s fiat měnou"
   },
   "depositFromAccount": {
-    "message": "從其他帳戶存入"
+    "message": "Vložte z jiného účtu"
   },
   "depositShapeShift": {
-    "message": "從 ShapeShift 存入"
+    "message": "Vklad přes ShapeShift"
   },
   "depositShapeShiftExplainer": {
-    "message": "如果你擁有其他加密貨幣，你可以直接交易並存入 Ether 到你的 MetaMask 錢包。不需要開帳戶。"
+    "message": "Pokud vlastníte jiné kryptoměny, můžete je směnit Ether a vložit ho přímo do peněženky MetaMask. Bez založení účtu."
   },
   "details": {
-    "message": "詳情"
+    "message": "Podrobnosti"
   },
   "directDeposit": {
-    "message": "直接存入"
+    "message": "Přímý vklad"
   },
   "directDepositMc": {
-    "message": "直接存入 Ether"
+    "message": "Vložit Ether přímo"
   },
   "directDepositEtherExplainer": {
-    "message": "如果你已經擁有了一些 Ether，使用直接存入功能是讓你的新錢包最快取得 Ether 的方式。"
+    "message": "Pokud už vlastníte nějaký Ether, nejrychleji ho dostanete do peněženky přímým vkladem."
   },
   "done": {
-    "message": "完成"
+    "message": "Hotovo"
   },
   "downloadStateLogs": {
-    "message": "下載狀態紀錄"
+    "message": "Stáhnout stavové protokoly"
   },
   "dropped": {
-    "message": "丟棄"
+    "message": "Zrušeno"
   },
   "edit": {
-    "message": "編輯"
+    "message": "Upravit"
   },
   "editAccountName": {
-    "message": "編輯帳戶名稱"
+    "message": "Upravit název účtu"
   },
   "emailUs": {
-    "message": "寄 Email 給我們!"
+    "message": "Napište nám e-mail!"
   },
   "encryptNewDen": {
-    "message": "加密你的新 DEN"
+    "message": "Zašifrujte svůj nový DEN"
   },
   "enterPassword": {
-    "message": "請輸入密碼"
+    "message": "Zadejte heslo"
   },
   "enterPasswordConfirm": {
-    "message": "請再次輸入密碼確認"
+    "message": "Zadejte heslo k potvrzení"
   },
   "passwordNotLongEnough": {
-    "message": "您所輸入的密碼長度不足"
+    "message": "Heslo není dost dlouhé"
   },
   "passwordsDontMatch": {
-    "message": "您所輸入的密碼不一致"
+    "message": "Hesla nejsou stejná"
   },
   "LBRExplorerView": {
-    "message": "在 Etherscan 上查看帳戶"
+    "message": "Prohlédněte si účet na Etherscan"
   },
   "exchangeRate": {
-    "message": "匯率"
+    "message": "Směnný kurz"
   },
   "exportPrivateKey": {
-    "message": "導出私鑰"
+    "message": "Exportovat privátní klíč"
   },
   "exportPrivateKeyWarning": {
-    "message": "您需要自行負擔導出私鑰產生的風險"
+    "message": "Exportujte privátní klíč na vlastní riziko."
   },
   "failed": {
-    "message": "失败"
+    "message": "Neúspěšné"
   },
   "fiat": {
     "message": "FIAT",
     "description": "Exchange type"
   },
   "fileImportFail": {
-    "message": "檔案導入失敗？點擊這裡！",
+    "message": "Import souboru nefunguje? Klikněte sem!",
     "description": "Helps user import their account from a JSON file"
   },
   "followTwitter": {
-    "message": "追蹤 Twitter"
+    "message": "Sledujte nás na Twitteru"
   },
   "from": {
-    "message": "來源地址"
+    "message": "Od"
   },
   "fromToSame": {
-    "message": "來源和目的地址不能一樣"
+    "message": "Adresy odesílatele a příjemce nemohou být stejné"
   },
   "fromShapeShift": {
-    "message": "來自 ShapeShift"
+    "message": "Z ShapeShift"
   },
   "gas": {
-    "message": "Gas",
+    "message": "Palivo",
     "description": "Short indication of gas cost"
   },
   "gasFee": {
-    "message": "Gas 費用"
+    "message": "Poplatek za palivo"
   },
   "gasLimit": {
-    "message": "Gas 上限"
+    "message": "Limit paliva"
   },
   "gasLimitCalculation": {
-    "message": "我們根據網路成功率算出建議的 Gas 上限。"
+    "message": "Počítáme doporučený limit paliva na základě úspěšnosti v síti."
   },
   "gasLimitRequired": {
-    "message": "必需填寫 Gas 上限"
+    "message": "Limit paliva je povinný"
   },
   "gasLimitTooLow": {
-    "message": "Gas 上限至少為 21000"
+    "message": "Limit paliva musí být alespoň 21000"
   },
   "generatingSeed": {
-    "message": "產生助憶詞中..."
+    "message": "Generuji klíčovou frázi..."
   },
   "gasPrice": {
-    "message": "Gas 價格 (GWEI)"
+    "message": "Cena paliva (GWEI)"
   },
   "gasPriceCalculation": {
-    "message": "我們根據網路成功率算出建議的 Gas 價格"
+    "message": "Počítáme doporučenou cenu paliva na základě úspěšnosti v síti."
   },
   "gasPriceRequired": {
-    "message": "必需填寫 Gas 價格"
+    "message": "Cena paliva je povinná"
   },
   "getMc": {
-    "message": "取得 Ether"
+    "message": "Získejte Ether"
   },
   "getEtherFromFaucet": {
-    "message": "從水管取得$1 Ether",
+    "message": "Získejte Ether z faucetu za $1.",
     "description": "Displays network name for Ether faucet"
   },
   "greaterThanMin": {
-    "message": "必須要大於等於 $1。",
+    "message": "musí být větší nebo roven $1.",
     "description": "helper for inputting hex as decimal input"
   },
   "here": {
-    "message": "這裡",
+    "message": "zde",
     "description": "as in -click here- for more information (goes with troubleTokenBalances)"
   },
   "hereList": {
-    "message": "Here's a list!!!!"
+    "message": "Tady je seznam!!!!"
   },
   "hide": {
-    "message": "隱藏"
+    "message": "Skrýt"
   },
   "hideToken": {
-    "message": "隱藏代幣"
+    "message": "Skrýt token"
   },
   "hideTokenPrompt": {
-    "message": "隱藏代幣？"
+    "message": "Skrýt token?"
   },
   "howToDeposit": {
-    "message": "你想怎麼存入 Ether？"
+    "message": "Jakým způsobem chcete vložit Ether?"
   },
   "holdEther": {
-    "message": "Metamask 讓您能保存 ether 和代幣, 並成為您接觸分散式應用程式的途徑."
+    "message": "Dovoluje vám držet ether a tokeny a slouží jako most k decentralizovaným aplikacím."
   },
   "import": {
-    "message": "導入",
+    "message": "Import",
     "description": "Button to import an account from a selected file"
   },
   "importAccount": {
-    "message": "導入帳戶"
+    "message": "Import účtu"
   },
   "importAccountMsg": {
-    "message":" 匯入的帳戶與您原有 MetaMask 帳戶的助憶詞並無關聯. 請查看與導入帳戶相關的資料 "
+    "message":"Importované účty nebudou spojeny s vaší původní MetaMaskovou klíčovou frází. Zjistěte více o importovaných účtech "
   },
   "importAnAccount": {
-    "message": "導入一個帳戶"
+    "message": "Import účtu"
   },
   "importDen": {
-    "message": "導入現成的 DEN"
+    "message": "Import existujícího DEN"
   },
   "imported": {
-    "message": "已導入私鑰",
+    "message": "Importováno",
     "description": "status showing that an account has been fully loaded into the keyring"
   },
   "infoHelp": {
-    "message": "說明 & 資訊"
+    "message": "Informace a nápověda"
   },
   "insufficientFunds": {
-    "message": "資金不足."
+    "message": "Nedostatek finančních prostředků."
   },
   "insufficientTokens": {
-    "message": "代幣不足."
+    "message": "Nedostatek tokenů."
   },
   "invalidAddress": {
-    "message": "錯誤的地址"
+    "message": "Neplatná adresa"
   },
   "invalidAddressRecipient": {
-    "message": "接收地址錯誤"
+    "message": "Adresa příjemce je neplatná"
   },
   "invalidGasParams": {
-    "message": "Gas 參數錯誤"
+    "message": "Neplatná parametry paliva"
   },
   "invalidInput": {
-    "message": "輸入錯誤。"
+    "message": "Neplatný vstup."
   },
   "invalidRequest": {
-    "message": "無效的請求"
+    "message": "Neplatný požadavek"
   },
   "invalidRPC": {
-    "message": "無效的 RPC URI"
+    "message": "Neplatné RPC URI"
   },
   "jsonFail": {
-    "message": "有東西出錯了. 請確認你的 JSON 檔案格式正確。"
+    "message": "Něco se pokazilo. Prosím, ujistěte se, že váš JSON soubor má správný formát."
   },
   "jsonFile": {
-    "message": "JSON 檔案",
+    "message": "JSON soubor",
     "description": "format for importing an account"
   },
   "keepTrackTokens": {
-    "message": "持續追蹤您 MetaMask 帳戶中的代幣。"
+    "message": "Udržujte si záznamy o tokenech, které jste koupili s účtem v MetaMasku."
   },
   "kovan": {
-    "message": "Kovan 測試網路"
+    "message": "Kovan Test Network"
   },
   "knowledgeDataBase": {
-    "message": "查看我們的知識庫"
+    "message": "Navštivte naši Knowledge Base"
   },
   "max": {
-    "message": "最大值"
+    "message": "Max"
   },
   "learnMore": {
-    "message": "了解更多。"
+    "message": "Zjistěte více."
   },
   "lessThanMax": {
-    "message": "必須小於等於 $1.",
+    "message": "musí být menší nebo roven $1.",
     "description": "helper for inputting hex as decimal input"
   },
   "likeToAddTokens": {
-    "message": "您確定要加入這些代幣嗎？"
+    "message": "Chcete přidat tyto tokeny?"
   },
   "links": {
-    "message": "連結"
+    "message": "Odkazy"
   },
   "limit": {
-    "message": "上限"
+    "message": "Limit"
   },
   "loading": {
-    "message": "載入..."
+    "message": "Načítám..."
   },
   "loadingTokens": {
-    "message": "載入代幣..."
+    "message": "Načítám tokeny..."
   },
   "localhost": {
     "message": "Localhost 8545"
   },
   "login": {
-    "message": "登入"
+    "message": "Přihlásit"
   },
   "logout": {
-    "message": "登出"
+    "message": "Odhlásit"
   },
   "loose": {
-    "message": "非 MetaMask 帳號"
+    "message": "Nevázané"
   },
   "loweCaseWords": {
-    "message": "助憶詞僅包含小寫字元"
+    "message": "slova klíčové fráze mají pouze malá písmena"
   },
   "mainnet": {
-    "message": "乙太坊 主網路"
+    "message": "Main LBR Network"
   },
   "message": {
-    "message": "訊息"
+    "message": "Zpráva"
   },
   "metamaskDescription": {
-    "message": "MetaMask 是LBR的安全身份識別金庫."
+    "message": "MetaMask je bezpečný osobní trezor pro LBR."
   },
   "min": {
-    "message": "最小"
+    "message": "Minimum"
   },
   "myAccounts": {
-    "message": "我的帳戶"
+    "message": "Moje účty"
   },
   "mustSelectOne": {
-    "message": "必須選擇至少 1 代幣."
+    "message": "Musíte zvolit aspoň 1 token."
   },
   "needMcInWallet": {
-    "message": "要使用 MetaMask 存取 DAPP 時，您的錢包中需要有 Ether。"
+    "message": "Potřebujete Ether v peněžence, abyste mohli pomocí MetaMasku interagovat s decentralizovanými aplikacemi."
   },
   "needImportFile": {
-    "message": "您必須選擇一個檔案來導入。",
+    "message": "Musíte zvolit soubor k importu.",
     "description": "User is important an account and needs to add a file to continue"
   },
   "needImportPassword": {
-    "message": "您必須為選擇好的檔案輸入密碼。",
+    "message": "Musíte zadat heslo pro zvolený soubor.",
     "description": "Password and file needed to import an account"
   },
   "negativeETH": {
-    "message": "不能送出負值的 ETH。"
+    "message": "Nelze odeslat zápornou částku ETH."
   },
   "networks": {
-    "message": "網路"
+    "message": "Sítě"
   },
   "newAccount": {
-    "message": "新帳戶"
+    "message": "Nový účet"
   },
   "newAccountNumberName": {
-    "message": "帳戶 $1",
+    "message": "Účet $1",
     "description": "Default name of next account to be created on create account screen"
   },
   "newContract": {
-    "message": "新合約"
+    "message": "Nový kontrakt"
   },
   "newPassword": {
-    "message": "新密碼（至少8個字）"
+    "message": "Nové heslo (min 8 znaků)"
   },
   "newRecipient": {
-    "message": "新收款人"
+    "message": "Nový příjemce"
   },
   "newRPC": {
-    "message": "New RPC URL"
+    "message": "Nová RPC URL"
   },
   "next": {
-    "message": "下一頁"
+    "message": "Další"
   },
   "noAddressForName": {
-    "message": "此 ENS 尚未指定地址。"
+    "message": "Pro toto jméno nebyla nastavena žádná adresa."
   },
   "noDeposits": {
-    "message": "尚未有存款"
+    "message": "Žádný vklad"
   },
   "noTransactionHistory": {
-    "message": "尚未有交易紀錄。"
+    "message": "Žádná historie transakcí."
   },
   "noTransactions": {
-    "message": "尚未有交易"
+    "message": "Žádné transakce"
   },
   "notStarted": {
-    "message": "尚未開始"
+    "message": "Nezačalo"
   },
   "oldUI": {
-    "message": "舊版界面"
+    "message": "Staré rozhraní"
   },
   "oldUIMessage": {
-    "message": "你已經切換到舊版界面。可以通過右上方下拉選單中的選項切換回新的使用者界面。"
+    "message": "Vrátili jste se ke starému rozhraní. Můžete přepnout na nové rozhraní v nastavení v pravém horním menu."
   },
   "or": {
-    "message": "或",
+    "message": "nebo",
     "description": "choice between creating or importing a new account"
   },
   "passwordCorrect": {
-    "message": "請確認您的密碼是正確的。"
+    "message": "Ujistěte se, že je vaše heslo správně."
   },
   "passwordMismatch": {
-    "message": "密碼不一致",
+    "message": "hesla nesouhlasí",
     "description": "in password creation process, the two new password fields did not match"
   },
   "passwordShort": {
-    "message": "密碼不夠長",
+    "message": "heslo je krátké",
     "description": "in password creation process, the password is not long enough to be secure"
   },
   "pastePrivateKey": {
-    "message": "請貼上你的私鑰串:",
+    "message": "Vložte zde svůj privátní klíč:",
     "description": "For importing an account from a private key"
   },
   "pasteSeed": {
-    "message": "請貼上你的助憶詞！"
+    "message": "Svou klíčovou frázi vložte zde!"
   },
   "personalAddressDetected": {
-    "message": "已偵測到個人地址. 請輸入代幣合約地址."
+    "message": "Detekována osobní adresa. Zadejte adresu kontraktu tokenu."
   },
   "pleaseReviewTransaction": {
-    "message": "請檢查你的交易。"
+    "message": "Zkontrolujte si transakci."
   },
   "popularTokens": {
-    "message": "常見的代幣"
+    "message": "Oblíbené tokeny"
   },
   "privacyMsg": {
-    "message": "隱私政策"
+    "message": "Zásady ochrany osobních údajů"
   },
   "privateKey": {
-    "message": "私鑰",
+    "message": "Privátní klíč",
     "description": "select this type of file to use to import an account"
   },
   "privateKeyWarning": {
-    "message": "注意：永遠不要公開這個私鑰。任何取得這把私鑰的人都可以竊取這個帳號中的任何資產。"
+    "message": "Upozornění: Nikdy nezveřejněte tento klíč. Kdokoli může s vaším privátním klíčem odcizit vaše aktiva z účtu."
   },
   "privateNetwork": {
-    "message": "私有網路"
+    "message": "Soukromá síť"
   },
   "qrCode": {
-    "message": "顯示 QR Code"
+    "message": "Ukázat QR kód"
   },
   "readdToken": {
-    "message": "之後還可以透過帳戶選單中的“加入代幣”來加入此代幣。"
+    "message": "Tento token můžete v budoucnu přidat zpět s „Přidat token“ v nastavení účtu."
   },
   "readMore": {
-    "message": "了解更多。"
+    "message": "Přečtěte si více zde."
   },
   "readMore2": {
-    "message": "了解更多。"
+    "message": "Přečtěte si více."
   },
   "receive": {
-    "message": "接收"
+    "message": "Obrdžet"
   },
   "recipientAddress": {
-    "message": "接收地址"
+    "message": "Adresa příjemce"
   },
   "refundAddress": {
-    "message": "你的退款地址"
+    "message": "Adresa pro vrácení peněz"
   },
   "rejected": {
-    "message": "拒絕"
+    "message": "Odmítnuto"
   },
   "resetAccount": {
-    "message": "重置帳戶"
+    "message": "Resetovat účet"
   },
   "restoreFromSeed": {
-    "message": "透過助憶詞重置"
+    "message": "Obnovit z seed fráze"
   },
   "restoreVault": {
-    "message": "重置金庫"
+    "message": "Obnovit trezor"
   },
   "required": {
-    "message": "必填"
+    "message": "Povinné"
   },
   "retryWithMoreGas": {
-    "message": "改用更高的 Gas 價格重試"
+    "message": "Opakujte s vyšší cenou paliva"
   },
   "walletSeed": {
-    "message": "錢包助憶詞"
+    "message": "Klíčová fráze peněženky"
   },
   "revealSeedWords": {
-    "message": "顯示助憶詞"
+    "message": "Zobrazit slova klíčové fráze"
   },
   "revealSeedWordsWarning": {
-    "message": "別在公共場合回復你的助憶詞！這些詞可被用來竊取你的帳戶."
+    "message": "Nebnovujte slova klíčové fráze na veřejnosti! Tato slova mohou být použita k odcizení veškerých vyašich účtů."
   },
   "revert": {
-    "message": "還原"
+    "message": "Zvrátit"
   },
   "rinkeby": {
-    "message": "Rinkeby 測試網路"
+    "message": "Rinkeby Test Network"
   },
   "ropsten": {
-    "message": "Ropsten 測試網路"
+    "message": "Ropsten Test Network"
   },
   "currentRpc": {
-    "message": "當前的 RPC"
+    "message": "Současné RPC"
   },
   "connectingToMainnet": {
-    "message": "連線到主 LBR 網路"
+    "message": "Připojuji se k Main LBR Network"
   },
   "connectingToRopsten": {
-    "message": "連線到 Ropsten 測試網路"
+    "message": "Připojuji se k Ropsten Test Network"
   },
   "connectingToKovan": {
-    "message": "連線到 Kovan 測試網路"
+    "message": "Připojuji se k Kovan Test Network"
   },
   "connectingToRinkeby": {
-    "message": "連線到 Rinkeby 測試網路"
+    "message": "Připojuji se k Rinkeby Test Network"
   },
   "connectingToUnknown": {
-    "message": "連線到未知網路"
+    "message": "Připojuji se k neznámé síti"
   },
   "sampleAccountName": {
-    "message": "例如：我的新帳戶",
+    "message": "Např. můj nový účet",
     "description": "Help user understand concept of adding a human-readable name to their account"
   },
   "save": {
-    "message": "儲存"
+    "message": "Uložit"
+  },
+  "reprice_title": {
+    "message": "Změnit cenu transakce"
+  },
+  "reprice_subtitle": {
+    "message": "Navyšte cenu paliva ve snaze k přepsání a urychlení vyší transakce"
   },
   "saveAsFile": {
-    "message": "儲存檔案",
+    "message": "Uložit do souboru",
     "description": "Account export process"
   },
   "saveSeedAsFile": {
-    "message": "將助憶詞儲存成檔案"
+    "message": "Uložit slova klíčové fráze do souboru"
   },
   "search": {
-    "message": "搜尋"
+    "message": "Hledat"
   },
   "secretPhrase": {
-    "message": "在此輸入你的12個祕密助憶詞以回復金庫."
+    "message": "Zadejte svých 12 slov tajné fráze k obnovení trezoru."
   },
   "newPassword8Chars": {
-    "message": "新密碼 (至少 8 個字元)"
+    "message": "Nové heslo (min 8 znaků)"
   },
   "seedPhraseReq": {
-    "message": "助憶詞為 12 個詞語"
+    "message": "klíčové fráze mají 12 slov"
   },
   "select": {
-    "message": "選擇"
+    "message": "Vybrat"
   },
   "selectCurrency": {
-    "message": "選擇幣別"
+    "message": "Vybrat měnu"
   },
   "selectService": {
-    "message": "選擇服務"
+    "message": "Vybrat službu"
   },
   "selectType": {
-    "message": "選擇類型"
+    "message": "Vybrat typ"
   },
   "send": {
-    "message": "發送"
+    "message": "Odeslat"
   },
   "sendMC": {
-    "message": "發送 ETH"
+    "message": "Odeslat ETH"
   },
   "sendTokens": {
-    "message": "發送代幣"
+    "message": "Odeslat tokeny"
   },
   "onlySendToLBRAddress": {
-    "message": "只發送 ETH 到乙太坊地址."
+    "message": "Posílejte jen ETH na LBR adresu."
   },
   "searchTokens": {
-    "message": "搜尋代幣"
+    "message": "Hledat tokeny"
   },
   "sendTokensAnywhere": {
-    "message": "發送代幣給擁有乙太坊帳戶的任何人"
+    "message": "Posílejte tokeny komukoli s LBR účtem"
   },
   "settings": {
-    "message": "設定"
+    "message": "Nastavení"
   },
   "info": {
-    "message": "資訊"
+  "message": "Informace"
   },
   "shapeshiftBuy": {
-    "message": "從 Shapeshift 購買"
+    "message": "Nakoupit na ShapeShift"
   },
   "showPrivateKeys": {
-    "message": "顯示私鑰"
+    "message": "Zobrazit privátní klíče"
   },
   "showQRCode": {
-    "message": "顯示 QR Code"
+    "message": "Zobrazit QR kód"
   },
   "sign": {
-    "message": "簽署"
+    "message": "Podepsat"
   },
   "signed": {
-    "message": "已簽署"
+    "message": "Podepsáno"
   },
   "signMessage": {
-    "message": "簽署訊息"
+    "message": "Podepsat zprávu"
   },
   "signNotice": {
-    "message": "簽署此訊息可能會產生危險地副作用。 \n只從你完全信任的網站上簽署。這種危險的方法;將在未來的版本中被移除。"
+    "message": "Podepsání zprávy může mít \nnebezpečný vedlejší učinek. Podepisujte zprávy pouze ze \nstránek, kterým plně důvěřujete celým svým účtem.\n Tato nebezpečná metoda bude odebrána v budoucí verzi. "
   },
   "sigRequest": {
-    "message": "請求簽署"
+    "message": "Požadavek podpisu"
   },
   "sigRequested": {
-    "message": "已請求簽署"
+    "message": "Požádáno o podpis"
   },
   "spaceBetween": {
-    "message": "there can only be a space between words"
+    "message": "mezi slovy může být pouze mezera"
   },
   "status": {
-    "message": "狀態"
+    "message": "Stav"
   },
   "stateLogs": {
-    "message": "狀態紀錄"
+    "message": "Stavové protokoly"
   },
   "stateLogsDescription": {
-    "message": "狀態紀錄包含你的公開帳戶地址和已傳送的交易資訊."
+    "message": "Stavové protokoly obsahují vaše veřejné adresy účtů a odeslané transakce."
   },
   "stateLogError": {
-    "message": "在取得狀態紀錄時發生錯誤."
+    "message": "Chyba během získávání stavových protokolů."
   },
   "submit": {
-    "message": "送出"
+    "message": "Odeslat"
   },
   "submitted": {
-    "message": "已送出"
+    "message": "Odesláno"
   },
   "supportCenter": {
-    "message": "造訪我們的協助中心"
+    "message": "Navštivte naše centrum podpory"
   },
   "symbolBetweenZeroTen": {
-    "message": "代號必須介於 0 到 10 字元間."
+    "message": "Symbol musí být mezi 0 a 10 znaky."
   },
   "takesTooLong": {
-    "message": "花費太長時間？"
+    "message": "Trvá to dlouho?"
   },
   "terms": {
-    "message": "使用條款"
+    "message": "Podmínky použití"
   },
   "testFaucet": {
-    "message": "測試水管"
+    "message": "Testovací faucet"
   },
   "to": {
-    "message": "目的帳號"
+    "message": "Komu: "
   },
   "toETHviaShapeShift": {
-    "message": "$1 ETH 透過 ShapeShift",
+    "message": "$1 na ETH přes ShapeShift",
     "description": "system will fill in deposit type in start of message"
   },
   "tokenAddress": {
-    "message": "代幣地址"
+    "message": "Adresa tokenu"
   },
   "tokenAlreadyAdded": {
-    "message": "已加入過此代幣。"
+    "message": "Token byl už přidán."
   },
   "tokenBalance": {
-    "message": "代幣餘額："
+    "message": "Váš zůstatek tokenu je:"
   },
   "tokenSelection": {
-    "message": "搜尋代幣或是從常見代幣列表中選擇。"
+    "message": "Vyhledejte token nebo je vyberte z našeho seznamu oblíbených tokenů."
   },
   "tokenSymbol": {
-    "message": "代幣代號"
+    "message": "Symbol tokenu"
   },
   "tokenWarning1": {
-    "message": "使用 MetaMask 帳戶追蹤你已購得的代幣。如果你使用不同的帳戶保存購得的代幣，那些代幣就不會出現在這裡。"
+    "message": "Mějte přehled o tokenech, které jste koupili s účtem MetaMasku. Pokud jste koupili tokeny s jiným účtem, tyto tokeny se zde nezobrazí."
   },
   "total": {
-    "message": "總量"
+    "message": "Celkem"
   },
   "transactions": {
-    "message": "交易紀錄"
+    "message": "transakce"
+  },
+  "transactionError": {
+    "message": "Chyba transakce. Vyhozena výjimka v kódu kontraktu."
   },
   "transactionMemo": {
-    "message": "交易備註（選填）"
+    "message": "Poznámka transakce (nepovinné)"
   },
   "transactionNumber": {
-    "message": "交易號碼"
+    "message": "Číslo transakce"
   },
   "transfers": {
-    "message": "交易"
+    "message": "Převody"
   },
   "troubleTokenBalances": {
-    "message": "無法取得代幣餘額。您k可以到這裡查看 ",
+    "message": "Měli jsme problém s načtením vašich tokenových zůstatků. Můžete je vidět ",
     "description": "Followed by a link (here) to view token balances"
   },
   "twelveWords": {
-    "message": "這 12 個單詞是唯一回復你的 MetaMask 帳號的方法。\n將它們儲存到那些安全且隱密的地方吧。"
+    "message": "Těchto 12 slov je jedinou možností, jak obnovit MetaMask účet. \nUložte je na bezpečné a neveřejné místo."
   },
   "typePassword": {
-    "message": "請輸入密碼"
+    "message": "Zadejte své heslo"
   },
   "uiWelcome": {
-    "message": "歡迎使用新版界面 （Beta）"
+    "message": "Vítejte v novém rozhraní (Beta)"
   },
   "uiWelcomeMessage": {
-    "message": "你現在正在使用新版 MetaMask 界面。試試諸如發送代幣等新功能吧，有任何問題請告知我們。"
+    "message": "Používáte nyní nové rozhraní MetaMasku. Rozhlédněte se kolem, vyzkoušejte nové funkce, jako jsou zasílání tokenů, a dejte nám vědět, pokud narazíte na problém."
   },
   "unapproved": {
-    "message": "未同意"
+    "message": "Neschváleno"
   },
   "unavailable": {
-    "message": "不可用"
+    "message": "Nedostupné"
   },
   "unknown": {
-    "message": "未知"
+    "message": "Neznámé"
   },
   "unknownNetwork": {
-    "message": "未知私有網路"
+    "message": "Neznámá soukromá síť"
   },
   "unknownNetworkId": {
-    "message": "未知網路 ID"
+    "message": "Neznámé ID sítě"
   },
   "uriErrorMsg": {
-    "message": "URIs 需要加入適當的 HTTP/HTTPS 前綴."
+    "message": "URI vyžadují korektní HTTP/HTTPS prefix."
   },
   "usaOnly": {
-    "message": "僅限美國",
+    "message": "jen v USA",
     "description": "Using this exchange is limited to people inside the USA"
   },
   "usedByClients": {
-    "message": "可用於各種不同的客戶端"
+    "message": "Používána různými klienty"
   },
   "useOldUI": {
-    "message": "使用舊版界面"
+    "message": "Použijte staré rozhraní"
   },
   "validFileImport": {
-    "message": "您必須選擇一個合法的檔案來導入."
+    "message": "Musíte vybrat validní soubor k importu."
   },
   "vaultCreated": {
-    "message": "已建立金庫"
+    "message": "Trezor vytvořen"
   },
   "viewAccount": {
-    "message": "查看帳戶"
+    "message": "Zobrazit účet"
   },
   "visitWebSite": {
-    "message": "造訪我們的網站"
+    "message": "Navštivte naši stránku"
   },
   "warning": {
-    "message": "警告"
+    "message": "Varování"
   },
   "welcomeBeta": {
-    "message": "歡迎到 MetaMask Beta"
+    "message": "Vítejte v MetaMask Beta"
   },
   "whatsThis": {
-    "message": "這是什麼？"
+    "message": "Co to je?"
   },
   "yourSigRequested": {
-    "message": "正在請求你的簽署"
+    "message": "Je vyžadován váš podpis"
   },
   "youSign": {
-    "message": "正在簽署"
+    "message": "Podepisujete"
   }
 }
