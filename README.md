@@ -4,9 +4,7 @@
 
 If you're a user seeking support, [leave your feedbacks at our GIT site](https://github.com/LBRChain/LBRMask/issues).
 
-中文安装指南可以参考[开发者博客](https://blog.csdn.net/lyq13573221675/article/details/82380846)
 
-安装视频在(YOUTUBE)(https://www.youtube.com/watch?v=kyBJxpa9sA0&t=111s);
 
 ## Introduction
 
